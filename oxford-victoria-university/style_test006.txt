@@ -14,18 +14,18 @@ should pass test style_test005
 
 >>===== RESULT =====>>
 FIRST
-  <i>Dictionary Plus History</i>, Oxford University Press, 2016, p.1.
+   <i>Dictionary Plus History</i>, Oxford University Press, 2016, p. 1.
 FIRST w/LOCATOR
-  <i>Dictionary Plus History</i>, Oxford University Press, 2016, p.1.
+   <i>Dictionary Plus History</i>, Oxford University Press, 2016, p. 1 (p. 123).
 FIRST w/LABEL
-  <i>Dictionary Plus History</i>, Oxford University Press, 2016, p.1.
+   <i>Dictionary Plus History</i>, Oxford University Press, 2016, p. 1 (para. 123).
 SUBSEQUENT
-  Oxford University Press, p. 1.
+  p. 1.
 SUBSEQUENT w/LOCATOR
-  Oxford University Press, p. 1 (p. 123).
+  p. 1 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Dictionary Plus History</i>, Oxford University Press, 2016.</div>
+  <div class="csl-entry"> <i>Dictionary Plus History</i>, Oxford University Press, 2016.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -35,11 +35,6 @@ BIBLIOGRAPHY
       "document_id": 204,
       "type": "chapter",
       "container-title": "Dictionary Plus History",
-      "author": [
-        {
-          "family": "Oxford University Press"
-        }
-      ],
       "publisher": "Oxford University Press",
       "issued": {
         "date-parts": [
