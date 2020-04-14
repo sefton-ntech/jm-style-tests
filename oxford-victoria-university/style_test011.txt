@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test011
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  B. De Munck, <i>Guilds, Labour and the Urban Body Politic: Fabricating Community in the Southern Netherlands 1300-1800</i>, Milton, UK, Routledge, 2017, p. 73.
+FIRST w/LOCATOR
+  B. De Munck, <i>Guilds, Labour and the Urban Body Politic: Fabricating Community in the Southern Netherlands 1300-1800</i>, Milton, UK, Routledge, 2017, p. 73 (p. 123).
+FIRST w/LABEL
+  B. De Munck, <i>Guilds, Labour and the Urban Body Politic: Fabricating Community in the Southern Netherlands 1300-1800</i>, Milton, UK, Routledge, 2017, p. 73 (para. 123).
+SUBSEQUENT
+  De Munck, p. 73.
+SUBSEQUENT w/LOCATOR
+  De Munck, p. 73 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">De Munck, B., <i>Guilds, Labour and the Urban Body Politic: Fabricating Community in the Southern Netherlands 1300-1800</i>, Milton, UK, Routledge, 2017.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 212,
+      "type": "chapter",
+      "container-title": "Guilds, Labour and the Urban Body Politic: Fabricating Community in the Southern Netherlands 1300-1800",
+      "author": [
+        {
+          "family": "De Munck",
+          "given": "Bert",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "Routledge",
+      "publisher-place": "Milton, UK",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 236,
+      "URL": "https://example.com/example.html",
+      "page": "73"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
