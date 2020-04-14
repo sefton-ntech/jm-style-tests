@@ -1,0 +1,81 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test012
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  G. Orwell, <i>1984</i>, George-orwell.org, 2005, part 2, ch. 9, para. 4, http://www.george-orwell.org/1984, (accessed 3 September 2018).
+FIRST w/LOCATOR
+  G. Orwell, <i>1984</i>, George-orwell.org, 2005, , p. 123, ch. 9, para. 4, http://www.george-orwell.org/1984, (accessed 3 September 2018).
+FIRST w/LABEL
+  G. Orwell, <i>1984</i>, George-orwell.org, 2005, , para. 123, ch. 9, para. 4, http://www.george-orwell.org/1984, (accessed 3 September 2018).
+SUBSEQUENT
+  Orwell.
+SUBSEQUENT w/LOCATOR
+  Orwell, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Orwell, G., <i>1984</i>, George-orwell.org, 2005, http://www.george-orwell.org/1984, (accessed 3 September 2018).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 213,
+      "type": "webpage",
+      "container-title": "1984",
+      "publisher": "George-orwell.org",
+      "document_part_id": 237,
+      "URL": "http://www.george-orwell.org/1984/16.html",
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            3
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2005,
+            1,
+            1
+          ]
+        ]
+      },
+      "title": "part 2, ch. 9, para. 4",
+      "author": [
+        {
+          "family": "Orwell",
+          "given": "George",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
