@@ -1,0 +1,70 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test010
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  International Labour Organisation, <i>World Report on Child Labour</i>, Geneva, International Labour Organisation, 2015, p. 44.
+FIRST w/LOCATOR
+  International Labour Organisation, <i>World Report on Child Labour</i>, Geneva, International Labour Organisation, 2015, p. 44 (p. 123).
+FIRST w/LABEL
+  International Labour Organisation, <i>World Report on Child Labour</i>, Geneva, International Labour Organisation, 2015, p. 44 (para. 123).
+SUBSEQUENT
+  International Labour Organisation, p. 44.
+SUBSEQUENT w/LOCATOR
+  International Labour Organisation, p. 44 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">International Labour Organisation, <i>World Report on Child Labour</i>, Geneva, International Labour Organisation, 2015.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 211,
+      "type": "report",
+      "container-title": "World Report on Child Labour",
+      "author": [
+        {
+          "family": "International Labour Organisation"
+        }
+      ],
+      "publisher": "International Labour Organisation",
+      "publisher-place": "Geneva",
+      "issued": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 235,
+      "page": "44"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
