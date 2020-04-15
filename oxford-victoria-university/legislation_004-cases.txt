@@ -9,23 +9,23 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test030
+should pass test style_test033
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Crimes Act 1958</i> (Vic), s. 28
+  Carbon Tax Plebiscite Bill 2011 (Cwlth)
 FIRST w/LOCATOR
-  <i>Crimes Act 1958</i> (Vic), s. 28, , p. 123.
+  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7, , p. 123.
 FIRST w/LABEL
-  <i>Crimes Act 1958</i> (Vic), s. 28, , para. 123.
+  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7, , para. 123.
 SUBSEQUENT
-  <i>Crimes Act 1958</i>.
+  <i>Copyright Act 1968</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Crimes Act 1958</i>, , p. 123.
+  <i>Copyright Act 1968</i>, , p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Crimes Act 1958<i> (Vic), s. 28</div>
+  <div class="csl-entry">Carbon Tax Plebiscite Bill 2011 (Cwlth)</div>
 </div>
 <<===== RESULT =====<<
 
@@ -33,13 +33,13 @@ BIBLIOGRAPHY
 [
   {
       "type": "legislation",
-      "title": "Crimes Act 1958",
-      "publisher": "(Vic)",
+      "title": "Copyright Act 1968",
+      "publisher": "(Cwlth)",
       "legal-jurisdiction": "juris",
       "issued": {
         "date-parts": [
           [
-            1958
+            1968
           ]
         ]
       }
