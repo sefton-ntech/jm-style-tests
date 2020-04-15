@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test026
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Wilderness Society Australia, ‘The Kimberley’, <i>The Wilderness Society</i>, Hobart, TAS, Wilderness Society Australia, 2018, http://www.wilderness.org.au/work/the-kimberley, (accessed 6 September 2018).
+FIRST w/LOCATOR
+  Wilderness Society Australia, ‘The Kimberley’, <i>The Wilderness Society</i>, Hobart, TAS, Wilderness Society Australia, 2018, p. 123, http://www.wilderness.org.au/work/the-kimberley, (accessed 6 September 2018).
+FIRST w/LABEL
+  Wilderness Society Australia, ‘The Kimberley’, <i>The Wilderness Society</i>, Hobart, TAS, Wilderness Society Australia, 2018, para. 123, http://www.wilderness.org.au/work/the-kimberley, (accessed 6 September 2018).
+SUBSEQUENT
+  Wilderness Society Australia.
+SUBSEQUENT w/LOCATOR
+  Wilderness Society Australia, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Wilderness Society Australia, ‘The Kimberley’, <i>The Wilderness Society</i>, Hobart, TAS, Wilderness Society Australia, 2018, http://www.wilderness.org.au/work/the-kimberley, (accessed 6 September 2018).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 208,
+      "type": "webpage",
+      "container-title": "The Wilderness Society",
+      "publisher": "Wilderness Society Australia",
+      "publisher-place": "Hobart, TAS",
+      "document_part_id": 232,
+      "URL": "http://www.wilderness.org.au/work/the-kimberley",
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            6
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            6
+          ]
+        ]
+      },
+      "title": "The Kimberley",
+      "author": [
+        {
+          "family": "Wilderness Society Australia"
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
