@@ -1,0 +1,28 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test024
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
