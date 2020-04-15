@@ -1,0 +1,80 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test028
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).
+FIRST w/LOCATOR
+  Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).
+FIRST w/LABEL
+  Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).
+SUBSEQUENT
+  Drusus.
+SUBSEQUENT w/LOCATOR
+  Drusus, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Livius, ‘Galle Chandelier Restored Sans Goldfish’, The History Blog [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 210,
+      "type": "webpage",
+      "container-title": "The History Blog",
+      "document_part_id": 234,
+      "URL": "http://www.thehistoryblog.com/archives/54960",
+      "accessed": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            2
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            22
+          ]
+        ]
+      },
+      "title": "Galle Chandelier Restored Sans Goldfish",
+      "author": [
+        {
+          "family": null,
+          "given": "Livius",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
