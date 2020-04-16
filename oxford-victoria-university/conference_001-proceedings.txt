@@ -23,7 +23,7 @@ SUBSEQUENT
 SUBSEQUENT w/LOCATOR
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Kozicz, G., 'Architecture of the Empty Shells of Nyar ma', Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 38-47.</div>
+  <div class="csl-entry">Kozicz, G., 'Architecture of the Empty Shells of Nyar ma', <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 38-47.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -32,7 +32,7 @@ BIBLIOGRAPHY
   {
       "document_id": 215,
       "type": "paper-conference",
-      "container-title": "Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies",
+      "container-title": "Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies",
       "publisher": "Oxford University Press",
       "publisher-place": "Oxford, UK",
       "issued": {
@@ -50,13 +50,12 @@ BIBLIOGRAPHY
         "document_object_identifier": "DOI"
       },
       "document_part_id": 239,
-      "URL": "http://example.com",
-      "title": "Discoveries in Western Tibet and the Western Himalayas: Essays on History",
+      "title": "Architecture of the Empty Shells of Nyar ma",
       "page": "38-47",
       "author": [
         {
           "family": "Kozicz",
-          "given": "G.",
+          "given": "Gerald",
           "suffix": null,
           "particle": null,
           "dropping_particle": null,
