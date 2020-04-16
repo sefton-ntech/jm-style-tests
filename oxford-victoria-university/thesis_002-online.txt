@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test036
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  W. Abur, <i>Settlement Strategies for the South Sudanese Community in Melbourne: An Analysis of Employment and Sport Participation</i>, MA diss., Melbourne, Victoria University, 2018, p. 1, http://vuir.vu.edu.au/id/eprint/36189, (accessed 30 April 2019).
+FIRST w/LOCATOR
+  W. Abur, <i>Settlement Strategies for the South Sudanese Community in Melbourne: An Analysis of Employment and Sport Participation</i>, MA diss., Melbourne, Victoria University, 2018, p. 1 (p. 123), http://vuir.vu.edu.au/id/eprint/36189, (accessed 30 April 2019).
+FIRST w/LABEL
+  W. Abur, <i>Settlement Strategies for the South Sudanese Community in Melbourne: An Analysis of Employment and Sport Participation</i>, MA diss., Melbourne, Victoria University, 2018, para. 1 (p. 123), http://vuir.vu.edu.au/id/eprint/36189, (accessed 30 April 2019).
+SUBSEQUENT
+  Abur, p. 1.
+SUBSEQUENT w/LOCATOR
+  Abur, p. 1 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Abur, W., <i>Settlement Strategies for the South Sudanese Community in Melbourne: An Analysis of Employment and Sport Participation</i>, MA diss., Melbourne, Victoria University, 2018, http://vuir.vu.edu.au/id/eprint/36189, (accessed 30 April 2019). </div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "thesis",
+      "URL": "http://vuir.vu.edu.au/id/eprint/36189",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "container-title": "Settlement Strategies for the South Sudanese Community in Melbourne: An Analysis of Employment and Sport Participation",
+      "note": "MA. diss.",
+      "place": "Melbourne",
+      "publisher": "Victoria University",
+      "author": [
+        {
+          "family": "Abur",
+          "given": "William",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }],
+      "page": "1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
