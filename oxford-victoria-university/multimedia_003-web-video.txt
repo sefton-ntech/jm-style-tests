@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test036
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).
+FIRST w/LOCATOR
+  <i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, , p. 123, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).
+FIRST w/LABEL
+  <i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, , para. 123, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).
+SUBSEQUENT
+SUBSEQUENT w/LOCATOR
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "broadcast",
+      "medium": "Digital video file",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "URL": "https://youtu.be/w4Aq1-H2GD0",
+      "container-title": "The Euthanasia Debate"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
