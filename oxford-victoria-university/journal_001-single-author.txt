@@ -1,0 +1,79 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test016
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  S. \u00d6ztas, ‘A Literary Genre in Value Education in History Courses: Poems’, <i>Journal of Education and Training Studies</i>, vol. 6, no. 5, 2018, p. 35.
+FIRST w/LOCATOR
+  S. \u00d6ztas, ‘A Literary Genre in Value Education in History Courses: Poems’, <i>Journal of Education and Training Studies</i>, vol. 6, no. 5, 2018, p. 35.
+FIRST w/LABEL
+  S. \u00d6ztas, ‘A Literary Genre in Value Education in History Courses: Poems’, <i>Journal of Education and Training Studies</i>, vol. 6, no. 5, 2018, p. 35.
+SUBSEQUENT
+  \u00d6ztas, 35.
+SUBSEQUENT w/LOCATOR
+  \u00d6ztas, 35 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">\u00d6ztas, S., ‘A Literary Genre in Value Education in History Courses: Poems’, <i>Journal of Education and Training Studies</i>, vol. 6, no. 5, 2018, pp. 34-39.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 214,
+      "type": "article-journal",
+      "container-title": "Journal of Education and Training Studies",
+      "publisher": "Redfame Publishing",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "volume": "6",
+      "issue": "5",
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 238,
+      "title": "A Literary Genre in Value Education in History Courses: Poems",
+      "page": "35",
+      "author": [
+        {
+          "family": "\\u00d6ztas",
+          "given": "Sezai",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

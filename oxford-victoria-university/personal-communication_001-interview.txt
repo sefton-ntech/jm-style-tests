@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  J. E. Maloney, 'Recollections of Canberra' [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
+FIRST w/LOCATOR
+FIRST w/LABEL
+SUBSEQUENT
+  Maloney.
+SUBSEQUENT w/LOCATOR
+  Maloney, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Maloney, J.E., 'Recollections of Canberra' [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "interview",
+      "title": "Recollections of Canberra",
+      "archive": "John Curtin Prime Ministerial Library, Curtin University",
+      "archive_location": "Perth, WA",
+      "author": [
+        {
+          "family": "Maloney",
+          "given": "John Edward"
+        }],
+      "issued": {
+        "date-parts": [
+          [
+            1991,
+            8,
+            12
+          ]
+        ]
+      },
+      "source": "JCMPL00897/3"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

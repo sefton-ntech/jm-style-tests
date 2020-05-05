@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test027
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Australian Institute of Aboriginal and Torres Strait Islander Studies, <i>Indigenous Community Stories</i> [website], http://aiatsis.gov.au/explore/articles/indigenous-community-stories, (accessed 12 September 2018).
+FIRST w/LOCATOR
+  Australian Institute of Aboriginal and Torres Strait Islander Studies, <i>Indigenous Community Stories</i> [website], , p. 123, http://aiatsis.gov.au/explore/articles/indigenous-community-stories, (accessed 12 September 2018).
+FIRST w/LABEL
+  Australian Institute of Aboriginal and Torres Strait Islander Studies, <i>Indigenous Community Stories</i> [website], , para. 123, http://aiatsis.gov.au/explore/articles/indigenous-community-stories, (accessed 12 September 2018).
+SUBSEQUENT
+  Australian Institute of Aboriginal and Torres Strait Islander Studies.
+SUBSEQUENT w/LOCATOR
+  Australian Institute of Aboriginal and Torres Strait Islander Studies, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Australian Institute of Aboriginal and Torres Strait Islander Studies, <i>Indigenous Community Stories</i> [website], http://aiatsis.gov.au/explore/articles/indigenous-community-stories, (accessed 12 September 2018).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 209,
+      "type": "webpage",
+      "container-title": "Indigenous Community Stories",
+      "title": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+      "document_part_id": 233,
+      "URL": "http://aiatsis.gov.au/explore/articles/indigenous-community-stories",
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            12
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Australian Institute of Aboriginal and Torres Strait Islander Studies"
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

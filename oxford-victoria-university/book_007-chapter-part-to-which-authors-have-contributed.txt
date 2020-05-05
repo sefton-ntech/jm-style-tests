@@ -1,0 +1,110 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  A. Blakers, ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004, p. 99.
+FIRST w/LOCATOR
+  A Blakers, ‘Sustainable Energy’ in <i>In Search of Sustainability</i>, J Goldie, B Douglas &#38; B Furnass (eds), Collingwood, VIC, CSIRO Publishing, 2004, pp. 97–106 (p. 123).
+FIRST w/LABEL
+  A Blakers, ‘Sustainable Energy’ in <i>In Search of Sustainability</i>, J Goldie, B Douglas &#38; B Furnass (eds), Collingwood, VIC, CSIRO Publishing, 2004, pp. 97–106 (para. 123).
+SUBSEQUENT
+  Blakers, pp. 97–106.
+SUBSEQUENT w/LOCATOR
+  Blakers, pp. 97–106 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Blakers, A., ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004, pp. 97-106.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 208,
+      "type": "chapter",
+      "container-title": "In Search of Sustainability",
+      "author": [
+        {
+          "family": "Blakers",
+          "given": "Andrew",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "editor": [
+        {
+          "family": "Goldie",
+          "given": "Jenny",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Douglas",
+          "given": "Bob",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Furnass",
+          "given": "Bryan",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "CSIRO Publishing",
+      "publisher-place": "Collingwood, VIC",
+      "issued": {
+        "date-parts": [
+          [
+            2004
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 232,
+      "title": "Sustainable Energy",
+      "page": "97-106"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

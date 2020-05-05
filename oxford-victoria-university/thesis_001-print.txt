@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test036
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267.
+FIRST w/LOCATOR
+  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267, p. 123.
+FIRST w/LABEL
+  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267, para. 123.
+SUBSEQUENT
+  Suwetwattanakul.
+SUBSEQUENT w/LOCATOR
+  Suwetwattanakul, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Suwetwattanakul, C., <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "thesis",
+      "issued": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "container-title": "Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand",
+      "note": "Ph.D. diss.",
+      "place": "Melbourne",
+      "publisher": "Victoria University",
+      "author": [
+        {
+          "family": "Suwetwattanakul",
+          "given": "Chokchai",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }],
+      "page": "267"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

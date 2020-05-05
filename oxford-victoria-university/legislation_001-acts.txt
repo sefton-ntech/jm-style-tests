@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Crimes Act 1958</i> (Vic), s. 28
+FIRST w/LOCATOR
+  <i>Crimes Act 1958</i> (Vic), s. 28, , p. 123.
+FIRST w/LABEL
+  <i>Crimes Act 1958</i> (Vic), s. 28, , para. 123.
+SUBSEQUENT
+  <i>Crimes Act 1958</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Crimes Act 1958</i>, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Crimes Act 1958<i> (Vic), s. 28</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "legislation",
+      "title": "Crimes Act 1958",
+      "publisher": "(Vic)",
+      "legal-jurisdiction": "juris",
+      "issued": {
+        "date-parts": [
+          [
+            1958
+          ]
+        ]
+      }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

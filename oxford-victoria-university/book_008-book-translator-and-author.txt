@@ -1,0 +1,89 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test009
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  R. Liksom, Compartment no. 6, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1.
+FIRST w/LOCATOR
+  R. Liksom, Compartment no. 6, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1 (p. 123).
+FIRST w/LABEL
+  R. Liksom, Compartment no. 6, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1 (para. 123).
+SUBSEQUENT
+  Liksom, p. 1.
+SUBSEQUENT w/LOCATOR
+  Liksom, p. 1 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Liksom, R., <i>Compartment no. 6</i>, trans. L. Rogers, London, Serpent's Tail, 2014.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 210,
+      "type": "chapter",
+      "container-title": "Compartment no. 6",
+      "author": [
+        {
+          "family": "Liksom",
+          "given": "Rosa",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "Serpent's Tail",
+      "publisher-place": "London",
+      "issued": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 234,
+      "page": "1",
+      "translator": [
+        {
+          "family": "Rogers",
+          "given": "Lola",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test034
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  G. Kozicz, 'Architecture of the Empty Shells of Nyar ma', <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 41-42.
+FIRST w/LOCATOR
+  G. Kozicz, 'Architecture of the Empty Shells of Nyar ma', <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 41-42., p. 123.
+FIRST w/LABEL
+  G. Kozicz, 'Architecture of the Empty Shells of Nyar ma', <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 41-42., para. 123.
+SUBSEQUENT
+SUBSEQUENT w/LOCATOR
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Kozicz, G., 'Architecture of the Empty Shells of Nyar ma', <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 38-47.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 215,
+      "type": "paper-conference",
+      "container-title": "Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies",
+      "publisher": "Oxford University Press",
+      "publisher-place": "Oxford, UK",
+      "issued": {
+        "date-parts": [
+          [
+            2006
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 239,
+      "title": "Architecture of the Empty Shells of Nyar ma",
+      "page": "38-47",
+      "author": [
+        {
+          "family": "Kozicz",
+          "given": "Gerald",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ]
+  } 
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

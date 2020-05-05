@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test033
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Stinton v Amaca Pty Ltd</i> (2014) WL 1350195
+FIRST w/LOCATOR
+  <i>Stinton v Amaca Pty Ltd</i> (2014) WL 1350195, , p. 123.
+FIRST w/LABEL
+  <i>Stinton v Amaca Pty Ltd</i> (2014) WL 1350195, , para. 123.
+SUBSEQUENT
+  <i>Copyright Act 1968</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Copyright Act 1968</i>, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Stinton v Amaca Pty Ltd</i> (2014) WL 1350195</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 214,
+      "type": "legal_case",
+      "issued": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 238,
+      "URL": "https://example.com/test",
+      "author": [
+        {
+          "family": "WL"
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

@@ -1,0 +1,99 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test018
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  A. Schmidt Hanbidge, T. Tin, and N. Sanderson, ‘Information Literacy Skills on the Go: Mobile Learning Innovation’, <i>Journal of Information Literacy</i>, vol. 12, no. 1, 2018, p. 130.
+FIRST w/LOCATOR
+  A. Schmidt Hanbidge, T. Tin, and N. Sanderson, ‘Information Literacy Skills on the Go: Mobile Learning Innovation’, <i>Journal of Information Literacy</i>, vol. 12, no. 1, 2018, p. 130 (p. 123).
+FIRST w/LABEL
+  A. Schmidt Hanbidge, T. Tin, and N. Sanderson, ‘Information Literacy Skills on the Go: Mobile Learning Innovation’, <i>Journal of Information Literacy</i>, vol. 12, no. 1, 2018, p. 130 (para. 123).
+SUBSEQUENT
+  Schmidt Hanbidge, Tin and Sanderson, 118–136.
+SUBSEQUENT w/LOCATOR
+  Schmidt Hanbidge, Tin and Sanderson, 118–136 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schmidt Hanbidge, A., Tin, T., and Sanderson, N., ‘Information Literacy Skills on the Go: Mobile Learning Innovation’, <i>Journal of Information Literacy</i>, vol. 12, no. 1, 2018, pp. 118-136.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 216,
+      "type": "article-journal",
+      "container-title": "Journal of Information Literacy",
+      "publisher": "Chartered Institute of Library and Information Professionals",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "volume": "12",
+      "issue": "1",
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 240,
+      "title": "Information Literacy Skills on the Go: Mobile Learning Innovation",
+      "page": "118-136",
+      "author": [
+        {
+          "family": "Schmidt Hanbidge",
+          "given": "Alice",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Tin",
+          "given": "Tony",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Sanderson",
+          "given": "Nicole",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

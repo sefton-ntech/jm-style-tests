@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test031
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7
+FIRST w/LOCATOR
+  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7, , p. 123.
+FIRST w/LABEL
+  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7, , para. 123.
+SUBSEQUENT
+  <i>Copyright Act 1968</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Copyright Act 1968</i>, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Copyright Act 1968</i> (Cwlth), ss. 4-7</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "legislation",
+      "title": "Copyright Act 1968",
+      "publisher": "(Cwlth)",
+      "legal-jurisdiction": "juris",
+      "issued": {
+        "date-parts": [
+          [
+            1968
+          ]
+        ]
+      }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
