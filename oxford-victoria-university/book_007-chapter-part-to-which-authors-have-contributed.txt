@@ -16,13 +16,13 @@ should pass test style_test008
 FIRST
   A. Blakers, ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004, p. 99.
 FIRST w/LOCATOR
-  A Blakers, ‘Sustainable Energy’ in <i>In Search of Sustainability</i>, J Goldie, B Douglas &#38; B Furnass (eds), Collingwood, VIC, CSIRO Publishing, 2004, pp. 97–106 (p. 123).
+  A. Blakers, ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004, p. 99 (p. 123).
 FIRST w/LABEL
-  A Blakers, ‘Sustainable Energy’ in <i>In Search of Sustainability</i>, J Goldie, B Douglas &#38; B Furnass (eds), Collingwood, VIC, CSIRO Publishing, 2004, pp. 97–106 (para. 123).
+  A. Blakers, ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004, p. 99 (para. 123).
 SUBSEQUENT
-  Blakers, pp. 97–106.
+  Blakers, p. 99.
 SUBSEQUENT w/LOCATOR
-  Blakers, pp. 97–106 (p. 123).
+  Blakers, p. 99 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Blakers, A., ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004, pp. 97-106.</div>
@@ -97,7 +97,7 @@ BIBLIOGRAPHY
       },
       "document_part_id": 232,
       "title": "Sustainable Energy",
-      "page": "97-106"
+      "page": "99"
   }
 ]
 <<===== INPUT =====<<

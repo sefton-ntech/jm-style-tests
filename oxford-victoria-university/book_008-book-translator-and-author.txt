@@ -14,11 +14,11 @@ should pass test style_test009
 
 >>===== RESULT =====>>
 FIRST
-  R. Liksom, Compartment no. 6, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1.
+  R. Liksom, <i>Compartment no. 6</i>, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1.
 FIRST w/LOCATOR
-  R. Liksom, Compartment no. 6, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1 (p. 123).
+  R. Liksom, <i>Compartment no. 6</i>, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1 (p. 123).
 FIRST w/LABEL
-  R. Liksom, Compartment no. 6, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1 (para. 123).
+  R. Liksom, <i>Compartment no. 6</i>, trans. L. Rogers, London, Serpent's Tail, 2014, p. 1 (para. 123).
 SUBSEQUENT
   Liksom, p. 1.
 SUBSEQUENT w/LOCATOR
