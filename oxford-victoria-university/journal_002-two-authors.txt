@@ -14,18 +14,18 @@ should pass test style_test017
 
 >>===== RESULT =====>>
 FIRST
-  S. Purchell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62.
+  S. Purcell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62.
 FIRST w/LOCATOR
-  S. Purchell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62 (p. 123).
+  S. Purcell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62 (p. 123).
 FIRST w/LABEL
-  S. Purchell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62 (para. 123).
+  S. Purcell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62 (para. 123).
 SUBSEQUENT
-  Purcell and Barrell, 62.
+  Purcell and Barrell, p. 62.
 SUBSEQUENT w/LOCATOR
-  Purcell and Barrell, 62 (p. 123).
+  Purcell and Barrell, p. 62 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Purchell, S. and Barrell, R., ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, pp. 56-70.</div>
+  <div class="csl-entry">Purcell, S. and Barrell, R., ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014.</div>
 </div>
 <<===== RESULT =====<<
 
