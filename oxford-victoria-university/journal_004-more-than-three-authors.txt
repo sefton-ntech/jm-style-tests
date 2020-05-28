@@ -20,12 +20,12 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   M. Banfi et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018, p. 370 (para. 123).
 SUBSEQUENT
-  Banfi et al., 368–378.
+  Banfi et al., p. 370.
 SUBSEQUENT w/LOCATOR
-  Banfi et al., 368–378 (p. 123).
+  Banfi et al., p. 370 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Banfi, M. et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018, pp. 368-378.</div>
+  <div class="csl-entry">Banfi, M. et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -56,7 +56,7 @@ BIBLIOGRAPHY
       },
       "document_part_id": 227,
       "title": "Cards as a Tool in History Teaching",
-      "page": "368-378",
+      "page": "370",
       "author": [
         {
           "family": "Banfi",
