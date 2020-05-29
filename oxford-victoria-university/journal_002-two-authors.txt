@@ -25,7 +25,7 @@ SUBSEQUENT w/LOCATOR
   Purcell and Barrell, p. 62 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Purcell, S. and Barrell, R., ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014.</div>
+  <div class="csl-entry">Purcell, S. and Barrell, R., ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, pp. 56–70.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -54,7 +54,8 @@ BIBLIOGRAPHY
       },
       "document_part_id": 239,
       "title": "The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students",
-      "page": "62",
+      "section": "p. 62",
+      "page": "56-70",
       "author": [
         {
           "family": "Purcell",

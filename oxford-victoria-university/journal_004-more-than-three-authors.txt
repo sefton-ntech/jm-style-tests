@@ -25,7 +25,7 @@ SUBSEQUENT w/LOCATOR
   Banfi et al., p. 370 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Banfi, M. et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018.</div>
+  <div class="csl-entry">Banfi, M. et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018, pp. 368–378.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -56,7 +56,8 @@ BIBLIOGRAPHY
       },
       "document_part_id": 227,
       "title": "Cards as a Tool in History Teaching",
-      "page": "370",
+      "section": "p. 370",
+      "page": "368-378",
       "author": [
         {
           "family": "Banfi",

@@ -25,7 +25,7 @@ SUBSEQUENT w/LOCATOR
   Schmidt Hanbidge, Tin and Sanderson, p. 130 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Schmidt Hanbidge, A., Tin, T., and Sanderson, N., ‘Information Literacy Skills on the Go: Mobile Learning Innovation’, <i>Journal of Information Literacy</i>, vol. 12, no. 1, 2018.</div>
+  <div class="csl-entry">Schmidt Hanbidge, A., Tin, T., and Sanderson, N., ‘Information Literacy Skills on the Go: Mobile Learning Innovation’, <i>Journal of Information Literacy</i>, vol. 12, no. 1, 2018, pp. 118–136.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -54,7 +54,8 @@ BIBLIOGRAPHY
       },
       "document_part_id": 240,
       "title": "Information Literacy Skills on the Go: Mobile Learning Innovation",
-      "page": "130",
+      "section": "p. 130",
+      "page": "118-136",
       "author": [
         {
           "family": "Schmidt Hanbidge",
