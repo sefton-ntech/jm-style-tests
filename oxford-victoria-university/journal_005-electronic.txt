@@ -20,12 +20,12 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   K. Toffoletti, ‘How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal’, <i>Women’s Studies International Forum</i>, vol. 30, no. 5, 2007, p. 427 (para. 123).
 SUBSEQUENT
-  Toffoletti, 420–444.
+  Toffoletti, p. 427.
 SUBSEQUENT w/LOCATOR
-  Toffoletti, 420–444 (p. 123).
+  Toffoletti, p. 427 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Toffoletti, K., ‘How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal’, <i>Women’s Studies International Forum</i>, vol. 30, no. 5, 2007, pp. 420-444.</div>
+  <div class="csl-entry">Toffoletti, K., ‘How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal’, <i>Women’s Studies International Forum</i>, vol. 30, no. 5, 2007, pp. 420–444.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -54,7 +54,8 @@ BIBLIOGRAPHY
       },
       "document_part_id": 242,
       "URL": "https://example.com/test",
-      "title": "How is gender-based violence covered in the sporting news? An account of the Australian Football League sex scandal",
+      "title": "How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal",
+      "section": "p. 427",
       "page": "420-444",
       "author": [
         {
