@@ -25,7 +25,7 @@ SUBSEQUENT w/LOCATOR
   Blakers, p. 99 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Blakers, A., ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004.</div>
+  <div class="csl-entry">Blakers, A., ‘Sustainable Energy’, in J. Goldie, B. Douglas, and B. Furnass (eds.), <i>In Search of Sustainability</i>, Collingwood, VIC, CSIRO Publishing, 2004, pp. 97–106.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -97,7 +97,8 @@ BIBLIOGRAPHY
       },
       "document_part_id": 232,
       "title": "Sustainable Energy",
-      "page": "99"
+      "section": "p. 99",
+      "page": "97-106"
   }
 ]
 <<===== INPUT =====<<
