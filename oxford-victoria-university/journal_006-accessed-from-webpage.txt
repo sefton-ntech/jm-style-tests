@@ -31,30 +31,32 @@ BIBLIOGRAPHY
 
 >>===== INPUT =====>>
 [
-  {
-      "document_id": 218,
-      "type": "article-journal",
+    {
+      "document_id": 202,
+      "type": "webpage",
       "container-title": "Rosetta",
-      "issued": {
+      "publisher": "University of Birmingham",
+      "document_part_id": 226,
+      "URL": "http://www.rosetta.bham.ac.uk",
+      "accessed": {
         "date-parts": [
           [
-            2018
+            2018,
+            9,
+            18
           ]
         ]
       },
-      "volume": "22",
-      "issue": "22",
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            6
+          ]
+        ]
       },
-      "document_part_id": 243,
-      "URL": "http://www.rosetta.bham.ac.uk",
       "title": "Dedications for the Hero Ptoios in Akraiphia, Boeotia",
-      "page": "18-39",
       "author": [
         {
           "family": "Giovagnorio",
