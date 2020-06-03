@@ -14,18 +14,18 @@ should pass test style_test022
 
 >>===== RESULT =====>>
 FIRST
-  H. Cook, 'Shining Light on Unsung Heroes', <i>The Age</i>, 25 March 2019, p. 9.
+  H. Cook, ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9.
 FIRST w/LOCATOR
-  H. Cook, 'Shining Light on Unsung Heroes', <i>The Age</i>, 25 March 2019, p. 9 (p. 123).
+  H. Cook, ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9 (p. 123).
 FIRST w/LABEL
-  H. Cook, 'Shining Light on Unsung Heroes', <i>The Age</i>, 25 March 2019, p. 9 (para .123).
+  H. Cook, ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9 (para. 123).
 SUBSEQUENT
   Cook, p. 9.
 SUBSEQUENT w/LOCATOR
   Cook, p. 9 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Cook, H., 'Shining Light on Unsung Heroes', <i>The Age</i>, 25 March 2019, p. 9.</div>
+  <div class="csl-entry">Cook, H., ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -35,11 +35,12 @@ BIBLIOGRAPHY
       "document_id": 204,
       "type": "article-newspaper",
       "container-title": "The Age",
-      "publisher": "The Age",
       "issued": {
         "date-parts": [
           [
-            2019
+            2019,
+            3,
+            25
           ]
         ]
       },
