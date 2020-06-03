@@ -14,18 +14,18 @@ should pass test style_test023
 
 >>===== RESULT =====>>
 FIRST
-  D. Le Gallienne, ‘Goossens Made Musical History’, <i>The Argus</i>, 23 November 1954, p. 7, https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20&searchLimits=l-title=13, (accessed 13 September 2018).
+  D. Le Gallienne, ‘Goossens Made Musical History’, <i>The Argus</i>, 23 November 1954, p. 7, https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20\u0026searchLimits=l-title=13, (accessed 13 September 2018).
 FIRST w/LOCATOR
-  D. Le Gallienne, ‘Goossens Made Musical History’, <i>The Argus</i>, 23 November 1954, p. 7 (p. 123), https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20&searchLimits=l-title=13, (accessed 13 September 2018).
+  D. Le Gallienne, ‘Goossens Made Musical History’, <i>The Argus</i>, 23 November 1954, p. 7 (p. 123), https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20\u0026searchLimits=l-title=13, (accessed 13 September 2018).
 FIRST w/LABEL
-  D. Le Gallienne, ‘Goossens Made Musical History’, <i>The Argus</i>, 23 November 1954, p. 7 (para. 123), https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20&searchLimits=l-title=13, (accessed 13 September 2018).
+  D. Le Gallienne, ‘Goossens Made Musical History’, <i>The Argus</i>, 23 November 1954, p. 7 (para. 123), https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20\u0026searchLimits=l-title=13, (accessed 13 September 2018).
 SUBSEQUENT
   Le Gallienne, p. 7.
 SUBSEQUENT w/LOCATOR
   Le Gallienne, p. 7 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Le Gallienne, D., 'Goossens Made Musical History', The Argus, 23 November 1954, p. 7, https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20&searchLimits=l-title=13, (accessed 13 September 2018).</div>
+  <div class="csl-entry">Le Gallienne, D., ‘Goossens Made Musical History’, <i>The Argus</i>, 23 November 1954, p. 7, https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20\u0026searchLimits=l-title=13, (accessed 13 September 2018).</div>
 </div>
 <<===== RESULT =====<<
 
@@ -39,7 +39,18 @@ BIBLIOGRAPHY
       "issued": {
         "date-parts": [
           [
-            1954
+            1954,
+            11,
+            23
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            13
           ]
         ]
       },
@@ -51,7 +62,7 @@ BIBLIOGRAPHY
         "document_object_identifier": "DOI"
       },
       "document_part_id": 229,
-      "URL": "https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=\r\nSydney%20history%20%20%20%20%20%20%20%20%20%20%20%20\\u0026search\r\nLimits=l-title=13",
+      "URL": "https://trove.nla.gov.au/newspaper/article/23462157?searchTerm=Sydney%20history%20%20%20%20%20%20%20%20%20%20%20%20\\u0026searchLimits=l-title=13",
       "title": "Goossens Made Musical History",
       "page": "7",
       "author": [
