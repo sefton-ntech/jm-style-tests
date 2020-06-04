@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  M. Horkheimer, ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, 1975, pp. 188–243.
+FIRST w/LOCATOR
+  M. Horkheimer, ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, 1975, pp. 188–243 (p. 123).
+FIRST w/LABEL
+  M. Horkheimer, ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, 1975, pp. 188–243 (para. 123).
+SUBSEQUENT
+  Horkheimer, pp. 188–243.
+SUBSEQUENT w/LOCATOR
+  Horkheimer, pp. 188–243 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Horkheimer, M., ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, 1975.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "chapter",
+      "container-title": "Traditional and Critical Theory",
+      "title": "Critical Theory : Selected Essays",
+      "author": [
+        {
+          "family": "Horkheimer",
+          "given": "Max"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1975
+          ]
+        ]
+      },
+      "page": "188-243",
+      "translator": [
+        {
+          "family": "O’Connell",
+          "given": "Matthew J."
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
