@@ -14,18 +14,18 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  M. Horkheimer, ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, Continuum, 1975, pp. 188–243.
+  M. Horkheimer, ‘Traditional and Critical Theory’, <i>Critical Theory : Selected Essays</i>, trans. M.J. O’Connell, Continuum, 1975, pp. 188–243.
 FIRST w/LOCATOR
-  M. Horkheimer, ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, Continuum, 1975, pp. 188–243 (p. 123).
+  M. Horkheimer, ‘Traditional and Critical Theory’, <i>Critical Theory : Selected Essays</i>, trans. M.J. O’Connell, Continuum, 1975, pp. 188–243 (p. 123).
 FIRST w/LABEL
-  M. Horkheimer, ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, Continuum, 1975, pp. 188–243 (para. 123).
+  M. Horkheimer, ‘Traditional and Critical Theory’, <i>Critical Theory : Selected Essays</i>, trans. M.J. O’Connell, Continuum, 1975, pp. 188–243 (para. 123).
 SUBSEQUENT
   Horkheimer, pp. 188–243.
 SUBSEQUENT w/LOCATOR
   Horkheimer, pp. 188–243 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Horkheimer, M., ‘Critical Theory: Selected Essays’, <i>Traditional and Critical Theory</i>, trans. M.J. O’Connell, Continuum, 1975.</div>
+  <div class="csl-entry">Horkheimer, M., ‘Traditional and Critical Theory’, <i>Critical Theory : Selected Essays</i>, trans. M.J. O’Connell, Continuum, 1975.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -33,8 +33,8 @@ BIBLIOGRAPHY
 [
   {
       "type": "chapter",
-      "container-title": "Traditional and Critical Theory",
-      "title": "Critical Theory : Selected Essays",
+      "container-title": "Critical Theory : Selected Essays",
+      "title": "Traditional and Critical Theory",
       "author": [
         {
           "family": "Horkheimer",
