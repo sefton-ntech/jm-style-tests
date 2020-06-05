@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  C. Parker, ‘A critical morality for lawyers: Four approaches to lawyers’ ethics’, <i>Monash University Law Review</i>, vol. 30, no. 1, 2004, p. 51 (para 1).
+FIRST w/LOCATOR
+  C. Parker, ‘A critical morality for lawyers: Four approaches to lawyers’ ethics’, <i>Monash University Law Review</i>, vol. 30, no. 1, 2004, p. 51 (para 1) (p. 123).
+FIRST w/LABEL
+  C. Parker, ‘A critical morality for lawyers: Four approaches to lawyers’ ethics’, <i>Monash University Law Review</i>, vol. 30, no. 1, 2004, p. 51 (para 1) (para. 123).
+SUBSEQUENT
+  Parker, p. 51 (para 1).
+SUBSEQUENT w/LOCATOR
+  Parker, p. 51 (para 1) (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Parker, C., ‘A critical morality for lawyers: Four approaches to lawyers’ ethics’, <i>Monash University Law Review</i>, vol. 30, no. 1, 2004, pp. 49–74.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "article-journal",
+      "container-title": "Monash University Law Review",
+      "title": "A critical morality for lawyers: Four approaches to lawyers’ ethics",
+      "publisher": "Monash University, Faculty of Law",
+      "issued": {
+        "date-parts": [
+          [
+            2004
+          ]
+        ]
+      },
+      "volume": "30",
+      "issue": "1",
+      "page": "49-74",
+      "section": "p. 51 (para 1)",
+      "author": [
+        {
+          "given": "Christine",
+          "family": "Parker"
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
