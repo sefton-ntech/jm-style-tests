@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test007
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  S. Deane (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, Derry, Northern Ireland, Field Day Publications, 1991, <span style="font-variant:small-caps;">ii</span>, 105–110.
+FIRST w/LOCATOR
+  S. Deane (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, Derry, Northern Ireland, Field Day Publications, 1991, <span style="font-variant:small-caps;">ii</span>, 105–110 (p. 123).
+FIRST w/LABEL
+  S. Deane (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, Derry, Northern Ireland, Field Day Publications, 1991, <span style="font-variant:small-caps;">ii</span>, 105–110 (para. 123).
+SUBSEQUENT
+  Deane, <span style="font-variant:small-caps;">ii</span>, 105–110.
+SUBSEQUENT w/LOCATOR
+  Deane, <span style="font-variant:small-caps;">ii</span>, 105–110 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Deane, S. (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, Derry, Northern Ireland, Field Day Publications, 1991, <span style="font-variant:small-caps;">ii</span>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "chapter",
+      "container-title": "The field day anthology of Irish writing",
+      "editor": [
+        {
+          "family": "Deane",
+          "given": "Seamus"
+        }
+      ],
+      "publisher": "Field Day Publications",
+      "publisher-place": "Derry, Northern Ireland",
+      "issued": {
+        "date-parts": [
+          [
+            1991
+          ]
+        ]
+      },
+      "volume": "2",
+      "title": "Political ballads",
+      "page": "105-110"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
