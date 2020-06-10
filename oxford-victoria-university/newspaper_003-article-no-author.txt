@@ -20,9 +20,9 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   ‘Art for Metro Tunnel’, <i>The Age</i>, 25 March 2019, p. 2 (para. 123).
 SUBSEQUENT
-  The Age, p. 2.
+  ‘Art for Metro Tunnel’, p. 2.
 SUBSEQUENT w/LOCATOR
-  The Age, p. 2 (p. 123).
+  ‘Art for Metro Tunnel’, p. 2 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">‘Art for Metro Tunnel’, <i>The Age</i>, 25 March 2019, p. 2.</div>
@@ -39,7 +39,9 @@ BIBLIOGRAPHY
       "issued": {
         "date-parts": [
           [
-            2019
+            2019,
+            3,
+            25
           ]
         ]
       },
@@ -52,12 +54,7 @@ BIBLIOGRAPHY
       },
       "document_part_id": 231,
       "title": "Art for Metro Tunnel",
-      "page": "2",
-      "author": [
-        {
-          "family": "The Age"
-        }
-      ]
+      "page": "2"
   }
 ]
 <<===== INPUT =====<<
