@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Regional Investment Corporation Act 2018</i> (Cth) (No. 6, 2018)
+FIRST w/LOCATOR
+  <i>Regional Investment Corporation Act 2018</i> (Cth) (No. 6, 2018)
+FIRST w/LABEL
+  <i>Regional Investment Corporation Act 2018</i> (Cth) (No. 6, 2018)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Regional Investment Corporation Act 2018</i> (Cth)</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "legislation",
+      "container-title": "Regional Investment Corporation Act",
+      "publisher": "Cth",
+      "section": "No. 6, 2018",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
