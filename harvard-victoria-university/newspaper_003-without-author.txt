@@ -14,42 +14,36 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Author 2001)
+  (Anon 2018)
 FIRST w/LOCATOR
-  (Author 2001, p. 123)
+  (Anon 2018, p. 123)
 FIRST w/LABEL
-  (Author 2001, para. 123)
+  (Anon 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Author, A 2001, <i>The book</i>.</div>
+  <div class="csl-entry">Anon 2018, <i>The Age</i>, 24 January, p. 12.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "book",
-    "title": "The book",
-    "author": [
-      {
-        "given": "Alan",
-        "family": "Author"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2001
+      "type": "article-newspaper",
+      "container-title": "The Age",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            1,
+            24
+          ]
         ]
-      ]
-    },
-    "multi": {
-      "main": {},
-      "_keys": {}
-    }
+      },
+      "page": "12"
   }
 ]
 <<===== INPUT =====<<
+
 
 >>===== OPTIONS =====>>
 {

@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Britannica Educational Publishing 2018)
+  (McGowan 2018)
 FIRST w/LOCATOR
-  (Britannica Educational Publishing 2018, p. 123)
+  (McGowan 2018, p. 123)
 FIRST w/LABEL
-  (Britannica Educational Publishing 2018, para. 123)
+  (McGowan 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Britannica Educational Publishing 2018, <i>Statistics and probability</i>, Britannica Educational Publishing, Chicago, IL.</div>
+  <div class="csl-entry">McGowan, R 2018, <i>Brave</i>, eReader version, accessed 18 May 2018 from Amazon.com.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -29,21 +29,22 @@ BIBLIOGRAPHY
 [
     {
       "type": "book",
-      "container-title": "Statistics and probability",
+      "container-title": "Brave",
       "author": [
         {
-          "family": "Britannica Educational Publishing"
+          "family": "McGowan",
+          "given": "Rose"
         }
       ],
-      "publisher": "Britannica Educational Publishing",
-      "publisher-place": "Chicago, IL",
+      "publisher": "HarperOne",
       "issued": {
         "date-parts": [
           [
-            "2018"
+            2018
           ]
         ]
-      }
+      },
+      "URL": "Amazon.com"
     }
 ]
 <<===== INPUT =====<<
