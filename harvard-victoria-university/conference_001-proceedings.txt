@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67)
+FIRST w/LOCATOR
+  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67)
+FIRST w/LABEL
+  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Yarra River Protection (Wilip-Gin Birrarung Murron Act 2017</i> (Vic)</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+		"type": "paper-conference",
+    "author": [
+      {
+        "family": "Winstone",
+        "given": "Naomi"
+      },
+      {
+        "family": "Boud",
+        "given": "David"
+      }
+    ],
+		"title": "Supporting students’ engagement with feedback: the adoption of student-focused feedback practices in the UK and Australia",
+		"publisher-place": "Newport, South Wales",
+		"event": "Annual Conference of the Society for Research into Higher Education (SRHE)",
+		"event-place": "Newport, South Wales",
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12,
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					22
+				]
+			]
+		},
+    "URL": "https://www.srhe.ac.uk/conference2017/abstracts/0074.pdf"
+	}
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
