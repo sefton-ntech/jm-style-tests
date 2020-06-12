@@ -29,9 +29,9 @@ BIBLIOGRAPHY
 [
   {
       "type": "legislation",
-      "container-title": "Yarra River Protection",
-      "title": "Wilip-Gin Birrarung Murron",
+		  "title": "Yarra River Protection (Wilip-gin Birrarung murron)",
       "publisher": "Vic",
+		  "section": "s. 67",
       "issued": {
         "date-parts": [
           [
