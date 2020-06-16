@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Winstone &#38; Boud 2017)
+  (IAENG 2017)
 FIRST w/LOCATOR
-  (Winstone &#38; Boud 2017, p. 123)
+  (IAENG 2017, p. 123)
 FIRST w/LABEL
-  (Winstone &#38; Boud 2017, para. 123)
+  (IAENG 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Winstone, N &#38; Boud, D 2017, ‘Supporting students’ engagement with feedback: the adoption of student-focused feedback practices in the UK and Australia’, Annual Conference of the Society for Research into Higher Education (SRHE), Newport, South Wales, 6-8 December 2017, viewed 22 May, 2018, &#60;https://www.srhe.ac.uk/conference2017/abstracts/0074.pdf&#62;.</div>
+  <div class="csl-entry">IAENG (International Association of Engineers) 2017, World Congress on Engineering 2017, Imperial College, London, UK, 5-7 July 2017.</div>
 </div>
 <<===== RESULT =====<<
 
