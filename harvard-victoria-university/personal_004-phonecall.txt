@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (P Clinton 2018, personal communication, 20 February)
+FIRST w/LOCATOR
+  (P Clinton 2018, personal communication, 20 February, p. 123)
+FIRST w/LABEL
+  (P Clinton 2018, personal communication, 20 February, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">You do not need to include an entry in the reference list.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+		"type": "personal_communication",
+    "author": [
+      {
+        "family": "Clinton",
+        "given": "P"
+      }
+    ],
+		"issued": {
+			"date-parts": [
+				[
+					2018,
+					2,
+					20
+				]
+			]
+		}
+	}
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
