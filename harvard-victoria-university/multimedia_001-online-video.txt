@@ -1,0 +1,71 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (<i>Loving Vincent</i> 2017)
+FIRST w/LOCATOR
+  (<i>Loving Vincent</i> 2017, p. 123)
+FIRST w/LABEL
+  (<i>Loving Vincent</i> 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Loving Vincent</i> 2017, online video, Madmen Entertainment, viewed 1 June 2018, <https://vu.kanopy.com/video/loving-vincent-0>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "motion_picture",
+      "medium": "Internet",
+      "title": "Loving Vincent",
+      "publisher": "Madmen Entertainment",
+      "director": [
+        {
+          "family": "Kobiela",
+          "given": "Dorota"
+        },
+        {
+          "family": "Welchman",
+          "given": "Hugh"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            1
+          ]
+        ]
+      },
+      "URL": "https://vu.kanopy.com/video/loving-vincent-0"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
