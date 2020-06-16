@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67)
+  (Winstone &#38; Boud 2017)
 FIRST w/LOCATOR
-  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67)
+  (Winstone &#38; Boud 2017, p. 123)
 FIRST w/LABEL
-  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67)
+  (Winstone &#38; Boud 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Yarra River Protection (Wilip-Gin Birrarung Murron Act 2017</i> (Vic)</div>
+  <div class="csl-entry">Winstone, N &#38; Boud, D 2017, ‘Supporting students’ engagement with feedback: the adoption of student-focused feedback practices in the UK and Australia’, Annual Conference of the Society for Research into Higher Education (SRHE), Newport, South Wales, 6-8 December 2017, viewed 22 May, 2018, &#60;https://www.srhe.ac.uk/conference2017/abstracts/0074.pdf&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -40,9 +40,7 @@ BIBLIOGRAPHY
       }
     ],
 		"title": "Supporting students’ engagement with feedback: the adoption of student-focused feedback practices in the UK and Australia",
-		"publisher-place": "Newport, South Wales",
-		"event": "Annual Conference of the Society for Research into Higher Education (SRHE)",
-		"event-place": "Newport, South Wales",
+		"container-title": "Annual Conference of the Society for Research into Higher Education (SRHE), Newport, South Wales, 6-8 December 2017",
 		"issued": {
 			"date-parts": [
 				[
