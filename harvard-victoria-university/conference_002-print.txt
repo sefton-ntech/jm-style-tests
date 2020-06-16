@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Hay 2016)
+FIRST w/LOCATOR
+  (Hay 2016, p. 123)
+FIRST w/LABEL
+  (Hay 2016, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Hay, B 2016, ‘Drone tourism: A study of the current and potential use of drones in hospitality and tourism’, <i>CAUTHE 2016: The changing landscape of tourism and hospitality: The impact of emerging markets and emerging destinations, Blue Mountains, Sydney, 8-11 February, 2016</i>, pp. 49–68.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+		"type": "paper-conference",
+    "author": [
+      {
+        "family": "Hay",
+        "given": "Brian"
+      }
+    ],
+		"title": "Drone tourism: a study of the current and potential use of drones in hospitality and tourism",
+		"container-title": "CAUTHE 2016: the changing landscape of tourism and hospitality: the impact of emerging markets and emerging destinations, Blue Mountains, Sydney, 8-11 February, 2016",
+		"issued": {
+			"date-parts": [
+				[
+					2016
+				]
+			]
+		},
+    "page": "49-68"
+
+	}
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
