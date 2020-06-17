@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Aida’s secrets 2017)
+FIRST w/LOCATOR
+  (Aida’s secrets 2017, p. 123)
+FIRST w/LABEL
+  (Aida’s secrets 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Aida’s secrets 2017, DVD, Music Box Films, Chicago, directed by Alon Schwarz & Shaul Schwarz.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "motion_picture",
+      "container-title": "Aida's secrets",
+      "publisher": "Music Box Films",
+      "publisher-place": "Chicago",
+      "medium": "DVD",
+      "author": [
+        {
+          "family": "Schwarz",
+          "given": "Alon"
+        },
+        {
+          "family": "Schwarz",
+          "given": "Shaul"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
