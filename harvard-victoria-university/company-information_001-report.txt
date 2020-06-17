@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (BHP 2017)
+FIRST w/LOCATOR
+  (BHP 2017, p. 123)
+FIRST w/LABEL
+  (BHP 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">BHP 2017, <i>BHP sustainability report for the year ended 30 June 2017</i>, viewed 20 May 2018, &#60;https://www.bhp.com/-/media/documents/investors/annual-reports/2017/bhpsustainabilityreport2017.pdf?&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "report",
+      "title": "BHP sustainability report for the year ended 30 June 2017",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "BHP"
+        }
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            20
+          ]
+        ]
+      },
+      "URL": "https://www.bhp.com/-/media/documents/investors/annual-reports/2017/bhpsustainabilityreport2017.pdf?"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

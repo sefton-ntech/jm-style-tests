@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Telstra 2018)
+FIRST w/LOCATOR
+  (Telstra 2018, p. 123)
+FIRST w/LABEL
+  (Telstra 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Telstra 2018, <i>Telstra annual report 2018</i>, viewed 25 August 2018, retrieved from Orbis database.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "report",
+      "title": "Telsta annual report 2018",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            25
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Telstra"
+        }
+      ],
+      "archive": "Orbis database"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
