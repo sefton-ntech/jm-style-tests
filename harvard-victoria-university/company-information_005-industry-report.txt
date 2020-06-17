@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Ibisworld 2018)
+FIRST w/LOCATOR
+  (Ibisworld 2018, p. 123)
+FIRST w/LABEL
+  (Ibisworld 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Ibisworld 2018, Employment placement and recruitment services in Australia: global industry report, viewed 7 March 2018, retrieved from IbisWorld database.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "report",
+      "title": "Employment placement and recruitment services in Australia: global industry report",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Ibisworld"
+        }
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            7
+          ]
+        ]
+      },
+      "archive": "IbisWorld database"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
