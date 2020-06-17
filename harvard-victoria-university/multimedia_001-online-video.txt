@@ -32,16 +32,6 @@ BIBLIOGRAPHY
       "medium": "online video",
       "title": "Loving Vincent",
       "publisher": "Madmen Entertainment",
-      "director": [
-        {
-          "family": "Kobiela",
-          "given": "Dorota"
-        },
-        {
-          "family": "Welchman",
-          "given": "Hugh"
-        }
-      ],
       "issued": {
         "date-parts": [
           [
