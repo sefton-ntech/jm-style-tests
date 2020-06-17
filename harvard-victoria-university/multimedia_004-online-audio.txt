@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Sheeran 2018)
+FIRST w/LOCATOR
+  (Sheeran 2018, p. 123)
+FIRST w/LABEL
+  (Sheeran 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Sheeran, E 2018, <i>Dive</i>, online audio, accessed 29 May 2018, &#60;https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=SiT6FezxSFKqDbXXg4fdOA&#62;</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "song",
+      "medium": "online audio",
+      "title": "Dive",
+      "author": [
+        {
+          "family": "Sheeran",
+          "given": "Ed"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            29
+          ]
+        ]
+      },
+      "URL": "https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=SiT6FezxSFKqDbXXg4fdOA"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

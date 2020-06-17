@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (2018)
+FIRST w/LOCATOR
+  (2018 p. 123)
+FIRST w/LABEL
+  (2018 para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Fair Work Ombudsman 2018, ‘Did you know superannuation contributions need to be listed on pay slips? It’s a common error we see’, Fairwork_gov_au, Twitter, 21 May, viewed 23 May 2018, <https://twitter.com/fairwork_gov_au/status/998687634380787712>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "post-weblog",
+      "title": "Did you know superannuation contributions need to be listed on pay slips? It’s a common error we see",
+      "container-title": "Fairwork_gov_au",
+      "author": [
+        {
+          "family": "Fair Work Ombudsman"
+        }
+      ],
+      "genre": "Twitter",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            21
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "URL": "https://twitter.com/fairwork_gov_au/status/998687634380787712"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

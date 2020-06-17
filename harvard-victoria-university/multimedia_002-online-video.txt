@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (<i>Loving Vincent</i> 2017)
+  (Victoria University Library 2017)
 FIRST w/LOCATOR
-  (<i>Loving Vincent</i> 2017, p. 123)
+  (Victoria University Library 2017, p. 123)
 FIRST w/LABEL
-  (<i>Loving Vincent</i> 2017, para. 123)
+  (Victoria University Library 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Loving Vincent</i> 2017, online video, Madmen Entertainment, viewed 1 June 2018, <https://vu.kanopy.com/video/loving-vincent-0>.</div>
+  <div class="csl-entry">Victoria University Library 2017, <i>Ebooks: how to download an EBook Central e-book</i>, online video, viewed 16 February 2017, <https://vimeo.com/vicunilibrary/ebookcentral>.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -30,16 +30,11 @@ BIBLIOGRAPHY
   {
       "type": "motion_picture",
       "medium": "online video",
-      "title": "Loving Vincent",
-      "publisher": "Madmen Entertainment",
-      "director": [
+      "title": "Ebooks: how to download an EBook Central e-book",
+      "publisher": "",
+      "author": [
         {
-          "family": "Kobiela",
-          "given": "Dorota"
-        },
-        {
-          "family": "Welchman",
-          "given": "Hugh"
+          "family": "Victoria University Library"
         }
       ],
       "issued": {
@@ -52,13 +47,13 @@ BIBLIOGRAPHY
       "accessed": {
         "date-parts": [
           [
-            2018,
-            6,
-            1
+            2017,
+            2,
+            16
           ]
         ]
       },
-      "URL": "https://vu.kanopy.com/video/loving-vincent-0"
+      "URL": "https://vimeo.com/vicunilibrary/ebookcentral"
   }
 ]
 <<===== INPUT =====<<

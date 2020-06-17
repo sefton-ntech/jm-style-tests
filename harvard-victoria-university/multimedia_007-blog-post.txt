@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Ecker 2018)
+FIRST w/LOCATOR
+  (Ecker 2018, p. 123)
+FIRST w/LABEL
+  (Ecker 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Ecker, M 2018, ‘A very different environment for early toolmakers in South Africa’, <i>Oxford Science Blog</i>, weblog post, 21 May, viewed 23 May 2018, <http://www.ox.ac.uk/news/science-blog/very-different-environment-early-toolmakers-south-africa>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "post-weblog",
+      "title": "A very different environment for early toolmakers in South Africa",
+      "container-title": "Oxford Science Blog",
+      "author": [
+        {
+          "family": "Ecker",
+          "given": "Michaela"
+        }
+      ],
+      "genre": "weblog post",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            21
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "URL": "http://www.ox.ac.uk/news/science-blog/very-different-environment-early-toolmakers-south-africa"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

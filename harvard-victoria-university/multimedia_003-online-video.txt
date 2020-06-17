@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (<i>Loving Vincent</i> 2017)
+  (Singh Sidhu 2018)
 FIRST w/LOCATOR
-  (<i>Loving Vincent</i> 2017, p. 123)
+  (Singh Sidhu 2018, p. 123)
 FIRST w/LABEL
-  (<i>Loving Vincent</i> 2017, para. 123)
+  (Singh Sidhu 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Loving Vincent</i> 2017, online video, Madmen Entertainment, viewed 1 June 2018, <https://vu.kanopy.com/video/loving-vincent-0>.</div>
+  <div class="csl-entry">Singh Sidhu, B 2018, <i>Are we running out of clean water</i>, YouTube, 6 December, TED-Ed, viewed 13 February, &#60;https://youtu.be/OCzYdNSJF-k&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -30,35 +30,34 @@ BIBLIOGRAPHY
   {
       "type": "motion_picture",
       "medium": "online video",
-      "title": "Loving Vincent",
-      "publisher": "Madmen Entertainment",
-      "director": [
+      "title": "Are we running out of clean water",
+      "publisher": "YouTube",
+      "publisher-place": "6 December, TED-Ed",
+      "author": [
         {
-          "family": "Kobiela",
-          "given": "Dorota"
-        },
-        {
-          "family": "Welchman",
-          "given": "Hugh"
+          "family": "Singh Sidhu",
+          "given": "Balsher"
         }
       ],
       "issued": {
         "date-parts": [
           [
-            2017
+            2018,
+            12,
+            6
           ]
         ]
       },
       "accessed": {
         "date-parts": [
           [
-            2018,
-            6,
-            1
+            2020,
+            2,
+            13
           ]
         ]
       },
-      "URL": "https://vu.kanopy.com/video/loving-vincent-0"
+      "URL": "https://youtu.be/OCzYdNSJF-k"
   }
 ]
 <<===== INPUT =====<<
