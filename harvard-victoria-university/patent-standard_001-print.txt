@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Kassiou et al. 2018)
+FIRST w/LOCATOR
+  (Kassiou et al. 2018, p. 123)
+FIRST w/LABEL
+  (Kassiou et al. 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Kassiou, M, Jorgensen, W, Munoz, L & The University of Sydney 2018, Anti-cancer compounds, 2018900315.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "patent",
+      "title": "Anti-cancer compounds",
+      "number": "2018900315",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "archive": "Scopus",
+      "author": [
+        {
+          "family": "Kassiou",
+          "given": "Michael"
+        },
+        {
+          "family": "Jorgensen",
+          "given": "William"
+        },
+        {
+          "family": "Munoz",
+          "given": "Lenka"
+        },
+        {
+          "family": "The University of Sydney"
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
