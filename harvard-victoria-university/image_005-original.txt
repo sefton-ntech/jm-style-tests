@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (2017)
+FIRST w/LOCATOR
+  (2017, p. 123)
+FIRST w/LABEL
+  (2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Hirst, D 2017, <i>Veil of love’s secrets</i>, Oil on canvas, 144×108 inches, Gagosian Gallery, New York.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "graphic",
+      "title": "Veil of love's secrets",
+      "medium": "Oil on canvas",
+      "dimensions": "144x108 inches",
+      "archive": "Gagosian Gallery",
+      "archive-location": "New York",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Hurst",
+          "given": "Damien"
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

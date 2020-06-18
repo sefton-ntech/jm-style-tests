@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Crazzolara 2018)
+FIRST w/LOCATOR
+  (Crazzolara 2018, p. 123)
+FIRST w/LABEL
+  (Crazzolara 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Crazzolara, T 2018, Alpine panorama, image, Flickr, viewed 24 May 2018, <https://flic.kr/p/27fJCsF>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "graphic",
+      "title": "Alpine panorama",
+      "publisher": "Flickr",
+      "medium": "image",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            24
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Crazzolara",
+          "given": "Theo"
+        }
+      ],
+      "URL": "https://flic.kr/p/27fJCsF"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
