@@ -8,11 +8,30 @@ all
 ]
 <<===== KEYS =====<<
 
+>>===== DESCRIPTION =====>>
+should pass test style_test012
+<<===== DESCRIPTION =====<<
+
 >>===== RESULT =====>>
+FIRST
+  ‘WIP’,.
+FIRST w/LOCATOR
+  ‘WIP’, , p. 123.
+FIRST w/LABEL
+  ‘WIP’, , para. 123.
+SUBSEQUENT
+  ‘WIP’.
+SUBSEQUENT w/LOCATOR
+  ‘WIP’, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">‘WIP’, .</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
+  {"title":"WIP"}
 ]
 <<===== INPUT =====<<
 

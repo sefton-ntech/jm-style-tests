@@ -9,23 +9,23 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test029
+should pass
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
   A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
 FIRST w/LOCATOR
-  A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’, , p. 123 [picture], http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
+  A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], , p. 123, http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
 FIRST w/LABEL
-  A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’, , para. 123 [picture], http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
+  A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], , para. 123, http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
 SUBSEQUENT
   Whyte.
 SUBSEQUENT w/LOCATOR
   Whyte, , p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Whyte, A.R. <i>Griffin Collection of Photographs, Burma, ca. 1880-1890</i>, , 1880–1890, &#60;http://nla.gov.au/nla.obj-151517274&#62;.</div>
+  <div class="csl-entry">Whyte, A.R., ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).</div>
 </div>
 <<===== RESULT =====<<
 
@@ -33,37 +33,22 @@ BIBLIOGRAPHY
 [
   {
       "type": "graphic",
-      "medium": "Digital image file",
-      "container-title": "Griffin Collection of Photographs, Burma, ca. 1880-1890",
-      "issued": {
+      "medium": "picture",
+      "title": "Griffin Collection of Photographs, Burma, ca. 1880-1890",
+      "accessed": {
         "date-parts": [
           [
-            1880
-          ],
-          [
-            1890
+            2019,
+            5,
+            2
           ]
         ]
       },
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 235,
       "URL": "http://nla.gov.au/nla.obj-151517274",
       "author": [
         {
           "family": "Whyte",
-          "given": "Adam R.",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
+          "given": "Adam R."
         }
       ]
   }

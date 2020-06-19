@@ -9,7 +9,7 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test028
+should pass
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -20,23 +20,22 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).
 SUBSEQUENT
-  Drusus.
+  Livius.
 SUBSEQUENT w/LOCATOR
-  Drusus, , p. 123.
+  Livius.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Livius, ‘Galle Chandelier Restored Sans Goldfish’, The History Blog [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).</div>
+  <div class="csl-entry">Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "document_id": 210,
       "type": "webpage",
+      "genre": "web blog",
       "container-title": "The History Blog",
-      "document_part_id": 234,
-      "URL": "http://www.thehistoryblog.com/archives/54960",
+      "URL": "http://www.thehistoryblog.com/archives/category/museums",
       "accessed": {
         "date-parts": [
           [
@@ -58,14 +57,7 @@ BIBLIOGRAPHY
       "title": "Galle Chandelier Restored Sans Goldfish",
       "author": [
         {
-          "family": null,
-          "given": "Livius",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
+          "family": "Livius"
         }
       ]
   }
