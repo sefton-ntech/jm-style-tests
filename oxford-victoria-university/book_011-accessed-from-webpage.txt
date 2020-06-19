@@ -50,9 +50,7 @@ BIBLIOGRAPHY
       "issued": {
         "date-parts": [
           [
-            2005,
-            1,
-            1
+            2005
           ]
         ]
       },
