@@ -49,9 +49,7 @@ BIBLIOGRAPHY
       "issued": {
         "date-parts": [
           [
-            2007,
-            6,
-            5
+            2007
           ]
         ]
       },
