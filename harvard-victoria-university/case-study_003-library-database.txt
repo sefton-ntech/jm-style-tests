@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Hamdulay &#38; Vidhani 2018)
+FIRST w/LOCATOR
+  (Hamdulay &#38; Vidhani 2018, p. 123)
+FIRST w/LABEL
+  (Hamdulay &#38; Vidhani 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Hamdulay, F &#38; Vidhani, H 2018, <i>The evolution of lean thinking at K-Way: where to next?</i> case study, retrieved from Emerald Emerging Markets Case Studies.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "report",
+      "container-title": "The evolution of lean thinking at K-Way: where to next?",
+      "note": "case study",
+      "archive": "Emerald Emerging Markets Case Studies",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Hamdulay",
+          "given": "Fatima"
+        },
+        {
+          "family": "Vidhani",
+          "given": "Himanshu"
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

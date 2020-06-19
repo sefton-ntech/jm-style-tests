@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Business Queensland 2016)
+FIRST w/LOCATOR
+  (Business Queensland 2016, p. 123)
+FIRST w/LABEL
+  (Business Queensland 2016, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Business Queensland 2016, Coastal Cruises Mooloolaba, case study, viewed 14 February 2017, <http://www.business.qld.gov.au/starting-business/advice-support/support/case-studies/coastal-cruises>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "report",
+      "container-title": "Coastal Cruises Mooloolaba",
+      "accessed": {
+        "date-parts": [
+          [
+            2017,
+            2,
+            14
+          ]
+        ]
+      },
+      "note": "case study",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Business Queensland"
+        }
+      ],
+      "URL": "http://www.business.qld.gov.au/starting-business/advice-support/support/case-studies/coastal-cruises"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
