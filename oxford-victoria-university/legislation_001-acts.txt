@@ -16,16 +16,16 @@ should pass test style_test030
 FIRST
   <i>Crimes Act 1958</i> (Vic), s. 28
 FIRST w/LOCATOR
-  <i>Crimes Act 1958</i> (Vic), s. 28, , p. 123.
+  <i>Crimes Act 1958</i> (Vic), s. 28
 FIRST w/LABEL
-  <i>Crimes Act 1958</i> (Vic), s. 28, , para. 123.
+  <i>Crimes Act 1958</i> (Vic), s. 28
 SUBSEQUENT
-  <i>Crimes Act 1958</i>.
+  <i>Crimes Act 1958</i>, s. 28
 SUBSEQUENT w/LOCATOR
-  <i>Crimes Act 1958</i>, , p. 123.
+  <i>Crimes Act 1958</i>, s. 28
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Crimes Act 1958<i> (Vic), s. 28</div>
+  <div class="csl-entry"><i>Crimes Act 1958</i> (Vic), s. 28</div>
 </div>
 <<===== RESULT =====<<
 
@@ -34,8 +34,8 @@ BIBLIOGRAPHY
   {
       "type": "legislation",
       "title": "Crimes Act 1958",
-      "publisher": "(Vic)",
-      "legal-jurisdiction": "juris",
+      "jurisdiction": "Vic",
+      "section": "s. 28",
       "issued": {
         "date-parts": [
           [
