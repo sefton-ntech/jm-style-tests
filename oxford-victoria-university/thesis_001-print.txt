@@ -16,13 +16,13 @@ should pass test style_test036
 FIRST
   C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267.
 FIRST w/LOCATOR
-  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267, p. 123.
+  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267 (p. 123).
 FIRST w/LABEL
-  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267, para. 123.
+  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267 (para. 123).
 SUBSEQUENT
-  Suwetwattanakul.
+  Suwetwattanakul, p. 267.
 SUBSEQUENT w/LOCATOR
-  Suwetwattanakul, , p. 123.
+  Suwetwattanakul, p. 267 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Suwetwattanakul, C., <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010.</div>
@@ -41,19 +41,13 @@ BIBLIOGRAPHY
         ]
       },
       "container-title": "Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand",
-      "note": "Ph.D. diss.",
-      "place": "Melbourne",
+      "genre": "Ph.D. diss.",
+      "publisher-place": "Melbourne",
       "publisher": "Victoria University",
       "author": [
         {
           "family": "Suwetwattanakul",
-          "given": "Chokchai",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
+          "given": "Chokchai"
         }],
       "page": "267"
   }

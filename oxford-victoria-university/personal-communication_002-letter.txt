@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  S. Alexander, ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.
+FIRST w/LOCATOR
+  S. Alexander, ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, , p. 123, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.
+FIRST w/LABEL
+  S. Alexander, ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, , para. 123, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.
+SUBSEQUENT
+  Alexander.
+SUBSEQUENT w/LOCATOR
+  Alexander, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Alexander, S., ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "personal_communication",
+      "title": "Peace March in Melbourne",
+      "archive": "Professor W.R. Gibson Collection",
+      "archive-place": "University of Melbourne Archives, Melbourne, VIC",
+      "author": [
+        {
+          "family": "Alexander",
+          "given": "S."
+        }],
+      "issued": {
+        "date-parts": [
+          [
+            1911,
+            11,
+            1
+          ]
+        ]
+      },
+      "genre": "letter to W.R. Gibson",
+      "call-number": "Box 2/1/1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
