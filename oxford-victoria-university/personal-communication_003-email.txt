@@ -1,0 +1,71 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  A. King, ‘History Report’ [email to J. Price], 18 October 2018, &#60;Alan.King@gmail.com&#62;, (accessed 7 November 2018).
+FIRST w/LOCATOR
+  A. King, ‘History Report’ [email to J. Price], 18 October 2018, , p. 123, &#60;Alan.King@gmail.com&#62;, (accessed 7 November 2018).
+FIRST w/LABEL
+  A. King, ‘History Report’ [email to J. Price], 18 October 2018, , para. 123, &#60;Alan.King@gmail.com&#62;, (accessed 7 November 2018).
+SUBSEQUENT
+  King.
+SUBSEQUENT w/LOCATOR
+  King, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">King, A., ‘History Report’ [email to J. Price], 18 October 2018, &#60;Alan.King@gmail.com&#62;, (accessed 7 November 2018).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "personal_communication",
+      "title": "History Report",
+      "author": [
+        {
+          "family": "King",
+          "given": "A."
+        }],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            7
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            18
+          ]
+        ]
+      },
+      "genre": "email to J. Price",
+      "call-number": "<Alan.King@gmail.com>"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
