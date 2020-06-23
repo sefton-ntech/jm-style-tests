@@ -14,16 +14,18 @@ should pass test style_test004
 
 >>===== RESULT =====>>
 FIRST
-  J. E. Maloney, 'Recollections of Canberra' [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
+  J.E. Maloney, ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
 FIRST w/LOCATOR
+  J.E. Maloney, ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, , p. 123, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
 FIRST w/LABEL
+  J.E. Maloney, ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, , para. 123, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
 SUBSEQUENT
   Maloney.
 SUBSEQUENT w/LOCATOR
   Maloney, , p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Maloney, J.E., 'Recollections of Canberra' [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.</div>
+  <div class="csl-entry">Maloney, J.E., ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -32,8 +34,8 @@ BIBLIOGRAPHY
   {
       "type": "interview",
       "title": "Recollections of Canberra",
-      "archive": "John Curtin Prime Ministerial Library, Curtin University",
-      "archive_location": "Perth, WA",
+      "archive": "John Curtin Prime Ministerial Library",
+      "archive-place": "Curtin University, Perth, WA",
       "author": [
         {
           "family": "Maloney",
@@ -48,7 +50,8 @@ BIBLIOGRAPHY
           ]
         ]
       },
-      "source": "JCMPL00897/3"
+      "medium": "interviewed by John Ferrell",
+      "call-number": "JCMPL00897/3"
   }
 ]
 <<===== INPUT =====<<
