@@ -20,9 +20,9 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   <i>The Red Badge of Courage</i> [DVD], Director J. Huston, Burbank, CA, MGM, 1951, , para. 123.
 SUBSEQUENT
-  , p. 123.
+  <i>The Red Badge of Courage</i>.
 SUBSEQUENT w/LOCATOR
-  , p. 123.
+  <i>The Red Badge of Courage</i>, , p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>The Red Badge of Courage</i> [DVD], Director J. Huston, Burbank, CA, MGM, 1951.</div>
@@ -34,19 +34,13 @@ BIBLIOGRAPHY
   {
       "type": "motion_picture",
       "medium": "DVD",
-      "container-title": "The Red Badge of Courage",
+      "title": "The Red Badge of Courage",
       "publisher": "MGM",
       "publisher-place": "Burbank, CA",
       "director": [
         {
           "family": "Huston",
-          "given": "John",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
+          "given": "John"
         }
       ],
       "issued": {

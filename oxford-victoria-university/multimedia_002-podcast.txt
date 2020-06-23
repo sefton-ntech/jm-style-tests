@@ -14,18 +14,18 @@ should pass test style_test036
 
 >>===== RESULT =====>>
 FIRST
-  ‘The Hipster Philosopher’, <i>The Philosopher's Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 Jan 2014, www.abc.net.au/radionational, (accessed 9 June 2014).
+  ‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, www.abc.net.au/radionational, (accessed 9 June 2014).
 FIRST w/LOCATOR
-  ‘The Hipster Philosopher’, <i>The Philosopher's Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 Jan 2014, , p. 123, www.abc.net.au/radionational, (accessed 9 June 2014).
+  ‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, , p. 123, www.abc.net.au/radionational, (accessed 9 June 2014).
 FIRST w/LABEL
-  ‘The Hipster Philosopher’, <i>The Philosopher's Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 Jan 2014, , para. 123, www.abc.net.au/radionational, (accessed 9 June 2014).
+  ‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, , para. 123, www.abc.net.au/radionational, (accessed 9 June 2014).
 SUBSEQUENT
-  interview with Mark Kingwell.
+  ‘The Hipster Philosopher’.
 SUBSEQUENT w/LOCATOR
-  interview with Mark Kingwell, , p. 123.
+  ‘The Hipster Philosopher’, , p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">‘The Hipster Philosopher’, <i>The Philosopher's Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 Jan 2014, www.abc.net.au/radionational, (accessed 9 June 2014).</div>
+  <div class="csl-entry">‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, www.abc.net.au/radionational, (accessed 9 June 2014).</div>
 </div>
 <<===== RESULT =====<<
 
@@ -33,18 +33,30 @@ BIBLIOGRAPHY
 [
   {
       "type": "broadcast",
-      "medium": "Digital audio file",
+      "medium": "podcast",
+      "note": "interview with Mark Kingwell",
       "container-title": "The Philosopher's Zone",
       "publisher": "ABC Radio National",
       "issued": {
         "date-parts": [
           [
-            2014
+            2014,
+            1,
+            5
           ]
         ]
       },
-      "document_part_id": 240,
-      "title": "The Hipster Philosopher"
+      "accessed": {
+        "date-parts": [
+          [
+            2014,
+            6,
+            9
+          ]
+        ]
+      },
+      "title": "The Hipster Philosopher",
+      "URL": "www.abc.net.au/radionational"
   }
 ]
 <<===== INPUT =====<<

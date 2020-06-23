@@ -20,7 +20,9 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   <i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, , para. 123, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).
 SUBSEQUENT
+  .
 SUBSEQUENT w/LOCATOR
+  , p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).</div>
@@ -31,7 +33,19 @@ BIBLIOGRAPHY
 [
   {
       "type": "broadcast",
-      "medium": "Digital video file",
+      "medium": "online video",
+      "note": "Presenter A. Denton",
+      "publisher": "Studio 10",
+      "publisher-place": "Sydney, Australia",
+      "accessed": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            2
+          ]
+        ]
+      },
       "issued": {
         "date-parts": [
           [
