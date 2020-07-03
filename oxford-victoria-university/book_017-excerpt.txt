@@ -1,0 +1,80 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  E. Malcolm and D. Hall, ‘Conscription and Home Rule in Australia and Ireland, 1914-18’, <i>A New History of the Irish in Australia</i>, Sydney, NewSouth Publishing, 2018, pp. 308–322.
+FIRST w/LOCATOR
+  E. Malcolm and D. Hall, ‘Conscription and Home Rule in Australia and Ireland, 1914-18’, <i>A New History of the Irish in Australia</i>, Sydney, NewSouth Publishing, 2018, pp. 308–322 (p. 123).
+FIRST w/LABEL
+  E. Malcolm and D. Hall, ‘Conscription and Home Rule in Australia and Ireland, 1914-18’, <i>A New History of the Irish in Australia</i>, Sydney, NewSouth Publishing, 2018, pp. 308–322 (para. 123).
+SUBSEQUENT
+  Malcolm and Hall, pp. 308–322.
+SUBSEQUENT w/LOCATOR
+  Malcolm and Hall, pp. 308–322 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Malcolm, E. and Hall, D., ‘Conscription and Home Rule in Australia and Ireland, 1914-18’, <i>A New History of the Irish in Australia</i>, Sydney, NewSouth Publishing, 2018.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "chapter",
+      "container-title": "A new history of the Irish in Australia",
+      "author": [
+        {
+          "family": "Malcolm",
+          "given": "E",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Hall",
+          "given": "D",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "NewSouth Publishing",
+      "publisher-place": "Sydney",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "URL": "https://ebookcentral.proquest.com/lib/vu/reader.action?docID=5581045\\u0026ppg=316",
+      "title": "Conscription and home rule in Australia and Ireland, 1914-18",
+      "page": "308-322"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

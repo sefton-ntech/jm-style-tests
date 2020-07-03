@@ -14,18 +14,18 @@ should pass
 
 >>===== RESULT =====>>
 FIRST
-  S. Deane (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991, pp. 105–110.
+  S. Deane (ed.), ‘Political Ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991, pp. 105–110.
 FIRST w/LOCATOR
-  S. Deane (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991, pp. 105–110 (p. 123).
+  S. Deane (ed.), ‘Political Ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991, pp. 105–110 (p. 123).
 FIRST w/LABEL
-  S. Deane (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991, pp. 105–110 (para. 123).
+  S. Deane (ed.), ‘Political Ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991, pp. 105–110 (para. 123).
 SUBSEQUENT
   Deane, vol. 2, pp. 105–110.
 SUBSEQUENT w/LOCATOR
   Deane, vol. 2, pp. 105–110 (p. 123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Deane, S. (ed.), ‘Political ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991.</div>
+  <div class="csl-entry">Deane, S. (ed.), ‘Political Ballads’, <i>The Field Day Anthology of Irish Writing</i>, vol. 2, Derry, Northern Ireland, Field Day Publications, 1991.</div>
 </div>
 <<===== RESULT =====<<
 
