@@ -14,18 +14,18 @@ should pass test style_test002
 
 >>===== RESULT =====>>
 FIRST
-  <i>This is a title: But this is a subtitle</i>.
+  <i>This Is a Title: But This Is a Subtitle</i>.
 FIRST w/LOCATOR
-  <i>This is a title: But this is a subtitle</i>, , p. 123.
+  <i>This Is a Title: But This Is a Subtitle</i>, , p. 123.
 FIRST w/LABEL
-  <i>This is a title: But this is a subtitle</i>, , para. 123.
+  <i>This Is a Title: But This Is a Subtitle</i>, , para. 123.
 SUBSEQUENT
   <i>This Is a Title</i>.
 SUBSEQUENT w/LOCATOR
   <i>This Is a Title</i>, , p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>This is a title: But this is a subtitle</i> .</div>
+  <div class="csl-entry"><i>This Is a Title: But This Is a Subtitle</i> .</div>
 </div>
 <<===== RESULT =====<<
 
