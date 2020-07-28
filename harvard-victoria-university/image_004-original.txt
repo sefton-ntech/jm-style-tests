@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (1895)
+  (Sutherland 1895)
 FIRST w/LOCATOR
-  (1895, p. 123)
+  (Sutherland 1895, p. 123)
 FIRST w/LABEL
-  (1895, para. 123)
+  (Sutherland 1895, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Sutherland, J 1895, <i>The mushroom gatherers</i>, Oil on canvas, 481x993 mm, Australian Collection, National Gallery of Victoria, Melbourne.</div>

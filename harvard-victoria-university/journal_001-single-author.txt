@@ -14,7 +14,7 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Gray 2018)
+  (Gray 2018, p. 175)
 FIRST w/LOCATOR
   (Gray 2018, p. 123)
 FIRST w/LABEL

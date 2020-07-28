@@ -14,7 +14,7 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Winstone &#38; Boud 2017)
+  (Winstone &#38; Boud 2017, p. 2)
 FIRST w/LOCATOR
   (Winstone &#38; Boud 2017, p. 123)
 FIRST w/LABEL
@@ -50,6 +50,7 @@ BIBLIOGRAPHY
 				]
 			]
 		},
+    "section": "p. 2",
 		"accessed": {
 			"date-parts": [
 				[

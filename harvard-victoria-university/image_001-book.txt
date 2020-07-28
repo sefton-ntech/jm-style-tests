@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (2018, p. 138)
+  (Millner &#38; Moore 2018, p. 138)
 FIRST w/LOCATOR
-  (2018, p. 138)
+  (Millner &#38; & Moore 2018, p. 138 p. 123)
 FIRST w/LABEL
-  (2018, p. 138)
+  (Millner &#38; Moore 2018, p. 138 para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Millner, J &#38; Moore, C 2018, <i>Feminist perspectives on art: contemporary outtakes</i>, Routledge, London.</div>
@@ -32,6 +32,7 @@ BIBLIOGRAPHY
       "title": "Feminist perspectives on art: contemporary outtakes",
       "publisher": "Routledge",
       "publisher-place": "London",
+      "section": "p. 138",
       "issued": {
         "date-parts": [
           [

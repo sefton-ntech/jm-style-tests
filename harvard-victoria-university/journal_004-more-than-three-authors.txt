@@ -14,7 +14,7 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Battisti et al. 2018)
+  (Battisti et al. 2018, p. 40)
 FIRST w/LOCATOR
   (Battisti et al. 2018, p. 123)
 FIRST w/LABEL
@@ -41,6 +41,7 @@ BIBLIOGRAPHY
       "issue": "1",
       "title": "Non-native invasive species as paradoxical ecosystem services in urban conservation education",
       "page": "37-40",
+      "section": "p. 40",
       "author": [
         {
           "family": "Battisti",

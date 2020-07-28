@@ -14,7 +14,7 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Wilmott, Fraser &#38; Lammes 2018)
+  (Wilmott, Fraser &#38; Lammes 2018, p. 79)
 FIRST w/LOCATOR
   (Wilmott, Fraser &#38; Lammes 2018, p. 123)
 FIRST w/LABEL
@@ -41,6 +41,7 @@ BIBLIOGRAPHY
       "issue": "1",
       "title": "I am he. I am he. Siri rules: work and play with the Apple Watch",
       "page": "78-95",
+      "section": "p. 79",
       "author": [
         {
           "family": "Wilmott",

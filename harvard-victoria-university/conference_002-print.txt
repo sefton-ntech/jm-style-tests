@@ -14,7 +14,7 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Hay 2016)
+  (Hay 2016, pp. 50-51)
 FIRST w/LOCATOR
   (Hay 2016, p. 123)
 FIRST w/LABEL
@@ -37,6 +37,7 @@ BIBLIOGRAPHY
     ],
 		"title": "Drone tourism: a study of the current and potential use of drones in hospitality and tourism",
 		"container-title": "CAUTHE 2016: the changing landscape of tourism and hospitality: the impact of emerging markets and emerging destinations, Blue Mountains, Sydney, 8-11 February, 2016",
+    "section": "pp. 50-51",
 		"issued": {
 			"date-parts": [
 				[

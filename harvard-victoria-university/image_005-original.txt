@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (2017)
+  (Hirst 2017)
 FIRST w/LOCATOR
-  (2017, p. 123)
+  (Hirst 2017, p. 123)
 FIRST w/LABEL
-  (2017, para. 123)
+  (Hirst 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Hirst, D 2017, <i>Veil of love’s secrets</i>, Oil on canvas, 144×108 inches, Gagosian Gallery, New York.</div>
@@ -43,7 +43,7 @@ BIBLIOGRAPHY
       },
       "author": [
         {
-          "family": "Hurst",
+          "family": "Hirst",
           "given": "Damien"
         }
       ]

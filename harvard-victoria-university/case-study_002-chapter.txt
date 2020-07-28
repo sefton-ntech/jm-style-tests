@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (2018, p. 92)
+  (Gorski &#38; Pothini 2018, p. 92)
 FIRST w/LOCATOR
-  (2018, p. 92)
+  (Gorski &#38; Pothini 2018, p. 92)
 FIRST w/LABEL
-  (2018, p. 92)
+  (Gorski &#38; Pothini 2018, p. 92)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Gorski, PC, & Pothini, SG 2018, ‘Cases on immigrant status’, case study, in Gorski, PC, & Pothini, SG (eds), Case Studies on Diversity and Social Justice Education, Routledge, Milton, Qld, 92-100.</div>
+  <div class="csl-entry">Gorski, PC, &#38; Pothini, SG 2018, ‘Cases on immigrant status’, case study, in Gorski, PC, & Pothini, SG (eds), Case Studies on Diversity and Social Justice Education, Routledge, Milton, Qld, 92-100.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -30,6 +30,7 @@ BIBLIOGRAPHY
     {
       "type": "chapter",
       "title": "Cases on immigrant status",
+      "section": "p. 92",
       "container-title": "Case Studies on Diversity and Social Justice Education",
       "note": "case study",
       "issued": {

@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (2014)
+  (Ektoras 2014)
 FIRST w/LOCATOR
-  (2014, p. 123)
+  (Ektoras 2014, p. 123)
 FIRST w/LABEL
-  (2014, para. 123)
+  (Ektoras 2014, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Ektoras, M 2014, <i>Wishing well</i>, Mono-print: Acrylic on rice paper, Exhibited at: Light & Shade exhibition, Beth Hulme Gallery & Studio, Melbourne, 15 May - 6 Jun 2015.</div>

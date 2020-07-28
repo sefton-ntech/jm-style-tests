@@ -14,7 +14,7 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Blocker &#38; Wahl-Alexander 2018)
+  (Blocker &#38; Wahl-Alexander 2018, pp. 57-58)
 FIRST w/LOCATOR
   (Blocker &#38; Wahl-Alexander 2018, p. 123)
 FIRST w/LABEL
@@ -41,6 +41,7 @@ BIBLIOGRAPHY
       "issue": "2",
       "title": "Using sport education in a university physical activity course",
       "page": "56-61",
+      "section": "pp. 57-58",
       "author": [
         {
           "family": "Blocker",
