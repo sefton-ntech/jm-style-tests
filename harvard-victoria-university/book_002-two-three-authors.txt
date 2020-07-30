@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Puccio, Cabra &#38; Schwagler 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Puccio, GJ, Cabra, JF &#38; Schwagler, N 2018, <i>Organizational creativity: A practical guide for innovators \u0026 entrepreneurs</i>, Sage, Thousand Oaks, CA.</div>
+  <div class="csl-entry">Puccio, GJ, Cabra, JF &#38; Schwagler, N 2018, <i>Organizational creativity: a practical guide for innovators \u0026 entrepreneurs</i>, Sage, Thousand Oaks, CA.</div>
 </div>
 <<===== RESULT =====<<
 
