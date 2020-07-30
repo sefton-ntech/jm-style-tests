@@ -28,7 +28,7 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-    "type": "book",
+    "type": "webpage",
     "container-title": "The principles of economics: with applications to practical problems",
     "author": [
       {
