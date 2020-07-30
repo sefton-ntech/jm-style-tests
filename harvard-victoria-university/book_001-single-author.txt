@@ -16,9 +16,9 @@ should pass test
 FIRST
   (Hasler 2018, p. 39)
 FIRST w/LOCATOR
-  (Hasler 2018, p. 123)
+  (Hasler 2018, p. 39, p. 123)
 FIRST w/LABEL
-  (Hasler 2018, para. 123)
+  (Hasler 2018, p. 39, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Hasler, E 2018, <i>The built environment</i>, Liverpool University Press, Liverpool.</div>
@@ -30,7 +30,7 @@ BIBLIOGRAPHY
     {
       "document_id": 210,
       "type": "book",
-      "container-title": "The Built Environment",
+      "container-title": "The built environment",
       "author": [
         {
           "family": "Hasler",
