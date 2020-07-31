@@ -28,10 +28,11 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-    "type": "chapter",
+    "type": "book",
     "container-title": "Style manual for authors, editors and printers",
     "publisher": "AGPS",
     "section": "p. 197",
+    "page": "1-197",
     "publisher-place": "Canberra, ACT",
     "edition": "6th",
     "issued": {
