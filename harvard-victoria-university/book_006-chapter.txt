@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Wang 2018, p. 137, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Wang, S 2018, ‘From special economic zones to special technological zones’, in C Hsieh &#38; M Lu (eds), <i>Changing China: a geographic appraisal</i>, Taylor \u0026 Francis, Boulder, CO, pp. 137–155.</div>
+  <div class="csl-entry">Wang, S 2018, ‘From special economic zones to special technological zones’, in C min Hsieh &#38; M Lu (eds), <i>Changing China: a geographic appraisal</i>, Taylor \u0026 Francis, Boulder, CO, pp. 137–155.</div>
 </div>
 <<===== RESULT =====<<
 
