@@ -14,32 +14,32 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Anon 2018)
+  (<i>The Age</i> 24 January 2018)
 FIRST w/LOCATOR
-  (Anon 2018, p. 123)
+  (<i>The Age</i> 24 January 2018, p. 123)
 FIRST w/LABEL
-  (Anon 2018, para. 123)
+  (<i>The Age</i> 24 January 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Anon 2018, <i>The Age</i>, 24 January, p. 12.</div>
+  <div class="csl-entry"><i>The Age</i> 2018, 24 January, p. 12.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "type": "article-newspaper",
-      "container-title": "The Age",
-      "issued": {
-        "date-parts": [
-          [
-            2018,
-            1,
-            24
-          ]
+    "type": "article-newspaper",
+    "container-title": "The Age",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          24
         ]
-      },
-      "page": "12"
+      ]
+    },
+    "page": "12"
   }
 ]
 <<===== INPUT =====<<
