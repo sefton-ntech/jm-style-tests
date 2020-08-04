@@ -16,44 +16,45 @@ should pass test
 FIRST
   (Department of the Prime Minister and Cabinet 2018, p. 11)
 FIRST w/LOCATOR
-  (Department of the Prime Minister and Cabinet 2018, p. 123)
+  (Department of the Prime Minister and Cabinet 2018, p. 11, p. 123)
 FIRST w/LABEL
-  (Department of the Prime Minister and Cabinet 2018, para. 123)
+  (Department of the Prime Minister and Cabinet 2018, p. 11, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Department of the Prime Minister and Cabinet 2018, <i>Closing the gap - Prime Minister’s report 2018</i>, Department of the Prime Minister and Cabinet, viewed 13 February, &#60;https://www.pmc.gov.au/sites/default/files/reports/closing-the-gap-2018/sites/default/files/ctg-report-20183872.pdf?a=1&#62;.</div>
+  <div class="csl-entry">Department of the Prime Minister and Cabinet 2018, <i>Closing the gap - Prime Minister’s report 2018</i>, Department of the Prime Minister and Cabinet, Canberra, viewed 13 February 2018, &#60;https://www.pmc.gov.au/sites/default/files/reports/closing-the-gap-2018/sites/default/files/ctg-report-20183872.pdf?a=1&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "type": "webpage",
-      "container-title": "Closing the gap - Prime Minister's report 2018",
-      "issued": {
-        "date-parts": [
-          [
-            2018
-          ]
+    "type": "webpage",
+    "container-title": "Closing the gap - Prime Minister's report 2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
         ]
-      },
-      "author": [
-        {
-          "family": "Department of the Prime Minister and Cabinet"
-        }
-      ],
-      "publisher": "Department of the Prime Minister and Cabinet",
-      "accessed": {
-        "date-parts": [
-          [
-            2018,
-            2,
-            13
-          ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Department of the Prime Minister and Cabinet"
+      }
+    ],
+    "publisher": "Department of the Prime Minister and Cabinet",
+    "publisher-place": "Canberra",
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          13
         ]
-      },
-      "section": "p. 11",
-      "URL": "https://www.pmc.gov.au/sites/default/files/reports/closing-the-gap-2018/sites/default/files/ctg-report-20183872.pdf?a=1"
+      ]
+    },
+    "section": "p. 11",
+    "URL": "https://www.pmc.gov.au/sites/default/files/reports/closing-the-gap-2018/sites/default/files/ctg-report-20183872.pdf?a=1"
   }
 ]
 <<===== INPUT =====<<

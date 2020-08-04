@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Australian Building Codes Board 2017)
+  (Australian Building Codes Board 2017, p. 2)
 FIRST w/LOCATOR
-  (Australian Building Codes Board 2017, p. 123)
+  (Australian Building Codes Board 2017, p. 2, p. 123)
 FIRST w/LABEL
-  (Australian Building Codes Board 2017, para. 123)
+  (Australian Building Codes Board 2017, p. 2, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Australian Building Codes Board 2017, <i>Watermark Certification Scheme</i>, Department of Industry, Innovation and Science, viewed 21 May, 2018, &#60;https://www.abcb.gov.au/Resources/Publications/Certification/WaterMark-Brochure&#62;.</div>
+  <div class="csl-entry">Australian Building Codes Board 2017, <i>Watermark Certification Scheme</i>, Department of Industry, Innovation and Science, Canberra, viewed 21 May 2018, &#60;https://www.abcb.gov.au/Resources/Publications/Certification/WaterMark-Brochure&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -44,6 +44,7 @@ BIBLIOGRAPHY
       ],
       "publisher": "Department of Industry, Innovation and Science",
       "publisher-place": "Canberra",
+      "section": "p. 2",
       "accessed": {
         "date-parts": [
           [
@@ -53,7 +54,6 @@ BIBLIOGRAPHY
           ]
         ]
       },
-      "section": "p. 2",
       "URL": "https://www.abcb.gov.au/Resources/Publications/Certification/WaterMark-Brochure"
   }
 ]

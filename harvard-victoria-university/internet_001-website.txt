@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Cancer Council 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Cancer Council 2017, <i>Causes of cancer</i>, viewed 24 May, 2018, &#60;https://www.cancer.org.au/about-cancer/causes-of-cancer/&#62;.</div>
+  <div class="csl-entry">Cancer Council 2017, <i>Causes of cancer</i>, Cancer Council, viewed 21 May 2018, &#60;https://www.cancer.org.au/about-cancer/causes-of-cancer/&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
