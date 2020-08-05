@@ -50,7 +50,7 @@ BIBLIOGRAPHY
           ]
         ]
       },
-      "genre": "computer software",
+      "edition": "computer software",
       "URL": "http://www.openoffice.org"
   }
 ]
