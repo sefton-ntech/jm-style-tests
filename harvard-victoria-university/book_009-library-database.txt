@@ -29,7 +29,7 @@ BIBLIOGRAPHY
 [
     {
       "type": "book",
-      "container-title": "Hospitality Marketing",
+      "container-title": "Hospitality marketing",
       "author": [
         { 
           "family": "Bowie",
@@ -64,6 +64,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

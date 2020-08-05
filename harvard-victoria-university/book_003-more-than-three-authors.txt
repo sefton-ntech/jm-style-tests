@@ -29,7 +29,7 @@ BIBLIOGRAPHY
 [
   {
       "document_request_id": 21,
-      "type": "chapter",
+      "type": "book",
       "container-title": "Quantitative literacy: thinking between the lines",
       "author": [
         {
@@ -97,6 +97,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

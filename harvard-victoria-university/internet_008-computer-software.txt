@@ -21,14 +21,14 @@ FIRST w/LABEL
   (OpenOffice.org 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">OpenOffice.org 2017, viewed 17 May, 2018, &#60;http://www.openoffice.org&#62;.</div>
+  <div class="csl-entry">OpenOffice.org 2017, computer software, accessed 17 May 2018 from http://www.openoffice.org.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "type": "webpage",
+      "type": "book",
       "issued": {
         "date-parts": [
           [
@@ -50,6 +50,7 @@ BIBLIOGRAPHY
           ]
         ]
       },
+      "edition": "computer software",
       "URL": "http://www.openoffice.org"
   }
 ]
@@ -58,6 +59,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

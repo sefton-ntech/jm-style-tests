@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Millner &#38; Moore 2018, p. 138)
+FIRST w/LOCATOR
+  (Millner &#38; & Moore 2018, p. 138 p. 123)
+FIRST w/LABEL
+  (Millner &#38; Moore 2018, p. 138 para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Millner, J &#38; Moore, C 2018, <i>Feminist perspectives on art: contemporary outtakes</i>, Routledge, London.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "graphic",
+      "title": "Feminist perspectives on art: contemporary outtakes",
+      "publisher": "Routledge",
+      "publisher-place": "London",
+      "section": "p. 138",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Millner",
+          "given": "Jacqueline"
+        },
+        {
+          "family": "Moore",
+          "given": "Catriona"
+        }
+      ],
+      "page": 138
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

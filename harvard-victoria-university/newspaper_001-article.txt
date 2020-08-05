@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Schultz &#38; Butt 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Schultz, A &#38; Butt, C 2018, ‘The life cycle of Melburnians: How we age and move’, <i>The Age</i>, 7 April, p. 10.</div>
+  <div class="csl-entry">Schultz, A &#38; Butt, C 2018, ‘The life cycle of Melburnians: how we age and move’, <i>The Age</i>, 7 April, p. 10.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -58,6 +58,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

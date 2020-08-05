@@ -14,63 +14,63 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Celume, Besançon &#38; Zenasni 2019)
+  (Celume, Besançon &#38; Zenasni 2019, Introduction section)
 FIRST w/LOCATOR
-  (Celume, Besançon &#38; Zenasni 2019, p. 123)
+  (Celume, Besançon &#38; Zenasni 2019, Introduction section, p. 123)
 FIRST w/LABEL
-  (Celume, Besançon &#38; Zenasni 2019, para. 123)
+  (Celume, Besançon &#38; Zenasni 2019, Introduction section, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Celume, M-P, Besançon, M &#38; Zenasni, F 2019, ‘Fostering children and adolescents’ creative thinking in education: theoretical model of drama pedagogy training’, <i>Frontiers in Psychology</i>, vol. 9, viewed 11 February, 2019, &#60;https://www.frontiersin.org/article/10.3389/fpsyg.2018.02611&#62;.</div>
+  <div class="csl-entry">Celume, MP, Besançon, M &#38; Zenasni, F 2019, ‘Fostering children and adolescents’ creative thinking in education: theoretical model of drama pedagogy training’, <i>Frontiers in Psychology</i>, vol. 9, viewed 11 February 2019, &#60;https://www.frontiersin.org/article/10.3389/fpsyg.2018.02611&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "article-journal",
-      "container-title": "Frontiers in Psychology",
-      "issued": {
-        "date-parts": [
-          [
-            2019
-          ]
+  {
+    "type": "article-journal",
+    "container-title": "Frontiers in Psychology",
+    "issued": {
+      "date-parts": [
+        [
+          2019
         ]
+      ]
+    },
+    "volume": "9",
+    "title": "Fostering children and adolescents’ creative thinking in education: theoretical model of drama pedagogy training",
+    "author": [
+      {
+        "family": "Celume",
+        "given": "Macarena-Paz"
       },
-      "volume": "9",
-      "title": "Fostering children and adolescents’ creative thinking in education: theoretical model of drama pedagogy training",
-      "author": [
-        {
-          "family": "Celume",
-          "given": "Macarena-Paz"
-        },
-        {
-          "family": "Besançon",
-          "given": "Maud"
-        },
-        {
-          "family": "Zenasni",
-          "given": "Franck"
-        }
-      ],
-      "accessed": {
-        "date-parts": [
-          [
-            2019,
-            2,
-            11
-          ]
+      {
+        "family": "Besançon",
+        "given": "Maud"
+      },
+      {
+        "family": "Zenasni",
+        "given": "Franck"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          11
         ]
-      },
-      "section": "Introduction section",
-      "URL": "https://www.frontiersin.org/article/10.3389/fpsyg.2018.02611"
-    }
+      ]
+    },
+    "section": "Introduction section",
+    "URL": "https://www.frontiersin.org/article/10.3389/fpsyg.2018.02611"
+  }
 ]
 <<===== INPUT =====<<
 
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

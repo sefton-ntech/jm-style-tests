@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Victoria University 2018)
+FIRST w/LOCATOR
+  (Victoria University 2018, p. 123)
+FIRST w/LABEL
+  (Victoria University 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Victoria University 2018, 'Students celebrate with 85% pass rates thanks to VU’s First Year Model', <i>Victoria University, Melbourne Australia</i>, Facebook, 23 May, viewed 23 May 2018, &#60;https://www.facebook.com/victoria.university&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "post-weblog",
+      "title": "Students celebrate with 85% pass rates thanks to VU’s First Year Model",
+      "container-title": "Victoria University, Melbourne Australia",
+      "author": [
+        {
+          "family": "Victoria University"
+        }
+      ],
+      "genre": "Facebook",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "URL": "https://www.facebook.com/victoria.university"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

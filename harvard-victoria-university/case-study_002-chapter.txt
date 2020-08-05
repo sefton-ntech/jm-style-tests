@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Gorski &#38; Pothini 2018, p. 92)
+FIRST w/LOCATOR
+  (Gorski &#38; Pothini 2018, p. 92)
+FIRST w/LABEL
+  (Gorski &#38; Pothini 2018, p. 92)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Gorski, PC, &#38; Pothini, SG 2018, ‘Cases on immigrant status’, case study, in Gorski, PC, & Pothini, SG (eds), Case Studies on Diversity and Social Justice Education, Routledge, Milton, Qld, 92-100.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "chapter",
+      "title": "Cases on immigrant status",
+      "section": "p. 92",
+      "container-title": "Case Studies on Diversity and Social Justice Education",
+      "note": "case study",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Gorski",
+          "given": "Paul C."
+        },
+        {
+          "family": "Pothini",
+          "given": "Seema G."
+        }
+      ],
+      "editor": [
+        {
+          "family": "Gorski",
+          "given": "Paul C."
+        },
+        {
+          "family": "Pothini",
+          "given": "Seema G."
+        }
+      ],
+      "publisher": "Routledge",
+      "publisher-place": "Milton, Qld",
+      "page": "92-100",
+      "section": "p. 92",
+      "note": "case study"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

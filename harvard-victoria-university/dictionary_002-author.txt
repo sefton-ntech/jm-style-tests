@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Law 2018)
+FIRST w/LOCATOR
+  (Law 2018, p. 123)
+FIRST w/LABEL
+  (Law 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Law, J 2018, ‘macroenvironment’, A dictionary of finance and banking, 6th edn, Oxford University Press, Oxford.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "entry-dictionary",
+      "container-title": "A dictionary of finance and banking",
+      "title": "macroenvironment",
+      "author":[
+        {
+          "family": "Law",
+          "given": "Jonathan"
+        }
+      ],
+      "edition": 6,
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "publisher": "Oxford University Press",
+      "publisher-place": "Oxford"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

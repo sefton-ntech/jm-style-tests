@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (IAENG 2017)
+FIRST w/LOCATOR
+  (IAENG 2017, p. 123)
+FIRST w/LABEL
+  (IAENG 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">IAENG (International Association of Engineers) 2017, World Congress on Engineering 2017, Imperial College, London, UK, 5-7 July 2017.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+		"type": "paper-conference",
+    "author": [
+      {
+        "family": "IAENG"
+      }
+    ],
+		"container-title": "World Congress on Engineering 2017, Imperial College, London, UK, 5-7 July 2017",
+		"issued": {
+			"date-parts": [
+				[
+					2017
+				]
+			]
+		}
+	}
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

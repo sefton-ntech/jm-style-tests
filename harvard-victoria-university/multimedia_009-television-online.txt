@@ -1,0 +1,89 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Quilty et al. 2018)
+FIRST w/LOCATOR
+  (Quilty et al. 2018, p. 123)
+FIRST w/LABEL
+  (Quilty et al. 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Quilty, B, Bainbridge, M, Bainbridge, B, Oddie, J, Lambie, J & Bainbridge, T 2018, <i>When the war is over: the challenges that Mick had was mortal loss, friends that had been killed around him - Australian Story</i>, television broadcast, Australian Broadcasting Corporation, 9 April, viewed 23 May 2018, <https://search-informit-com-au.wallaby.vu.edu.au:4433/documentSummary;dn=TSM201804090107;res=TVNEWS>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "broadcast",
+      "container-title": "When the war is over: the challenges that Mick had was mortal loss, friends that had been killed around him - Australian Story",
+      "publisher": "Australian Broadcasting Corporation",
+      "medium": "television broadcast",
+      "author": [
+        {
+          "family": "Quilty",
+          "given": "Ben"
+        },
+        {
+          "family": "Bainbridge",
+          "given": "Michael"
+        },
+        {
+          "family": "Bainbridge",
+          "given": "Brooke"
+        },
+        {
+          "family": "Oddie",
+          "given": "John"
+        },
+        {
+          "family": "Lambie",
+          "given": "Jacqui"
+        },
+        {
+          "family": "Bainbridge",
+          "given": "Tim"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            9
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "URL": "https://search-informit-com-au.wallaby.vu.edu.au:4433/documentSummary;dn=TSM201804090107;res=TVNEWS"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

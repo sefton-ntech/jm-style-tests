@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (When the war is over 2018)
+FIRST w/LOCATOR
+  (When the war is over 2018, p. 123)
+FIRST w/LABEL
+  (When the war is over 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">When the war is over 2018, television program, Australian Story, ABC TV, Sydney, 9 April.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "broadcast",
+      "title": "When the war is over",
+      "container-title": "Australian Story",
+      "publisher": "ABC TV",
+      "publisher-place": "Sydney",
+      "medium": "television program",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            9
+          ]
+        ]
+      }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

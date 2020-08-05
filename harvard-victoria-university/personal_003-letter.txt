@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (B Smith 2018, personal communication, 17 May)
+FIRST w/LOCATOR
+  (B Smith 2018, personal communication, 17 May, p. 123)
+FIRST w/LABEL
+  (B Smith 2018, personal communication, 17 May, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">You do not need to include an entry in the reference list.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+		"type": "personal_communication",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Ben"
+      }
+    ],
+		"issued": {
+			"date-parts": [
+				[
+					2018,
+					5,
+				  17	
+				]
+			]
+		}
+	}
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

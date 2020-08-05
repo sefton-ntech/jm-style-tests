@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Larson, Reid &#38; Oronsky 2018)
+FIRST w/LOCATOR
+  (Larson, Reid &#38; Oronsky 2018, p. 123)
+FIRST w/LABEL
+  (Larson, Reid &#38; Oronsky 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Larson, C, Reid, TR &#38; Oronsky, BT 2018, Immunomodulatory fusion proteins, US20180134766, viewed 23 May 2018, retrieved from Scopus.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "patent",
+      "title": "Immunomodulatory fusion proteins",
+      "number": "US20180134766",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Larson",
+          "given": "Christopher"
+        },
+        {
+          "family": "Reid",
+          "given": "Tony R."
+        },
+        {
+          "family": "Oronsky",
+          "given": "Bryan T."
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Fluker 2017)
+FIRST w/LOCATOR
+  (Fluker 2017, p. 123)
+FIRST w/LABEL
+  (Fluker 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Fluker, M 2017, Fluker posts: community based environmental monitoring, electronic dataset, Fluker Post Research Project, viewed 12 June 2018, <http://www.flukerpost.com>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "article-journal",
+      "container-title": "Fluker posts: community based environmental monitoring",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            12
+          ]
+        ]
+      },
+      "note": "electronic dataset",
+      "publisher": "Fluker Post Research Project",
+      "author": [
+        {
+          "family": "Fluker",
+          "given": "M"
+        }
+      ],
+      "URL": "http://www.flukerpost.com"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

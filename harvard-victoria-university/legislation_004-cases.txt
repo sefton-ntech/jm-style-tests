@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.
+FIRST w/LOCATOR
+  <i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.
+FIRST w/LABEL
+  <i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "legal_case",
+      "container-title": "FCA",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "issue": "680",
+      "title": "Reurich v Sureway Employment and Training Pty Ltd"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

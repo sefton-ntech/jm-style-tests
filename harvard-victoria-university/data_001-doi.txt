@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Woods et al. 2018)
+FIRST w/LOCATOR
+  (Woods et al. 2018, p. 123)
+FIRST w/LABEL
+  (Woods et al. 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Woods, C, Fernee, C, Browne, M, Zakrzewski, S & Dickinson, A 2018, The potential of statistical shape modelling for geometric morphometric analysis of human teeth in archaeological research, electronic dataset, University of Southampton Institutional Repository, doi:10.5258/SOTON/404043.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "article-journal",
+      "container-title": "The potential of statistical shape modelling for geometric morphometric analysis of human teeth in archaeological research",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "note": "electronic dataset",
+      "publisher": "University of Southampton Institutional Repository",
+      "author": [
+        {
+          "family": "Woods",
+          "given": "Christopher"
+        },
+        {
+          "family": "Fernee",
+          "given": "Christianne"
+        },
+        {
+          "family": "Browne",
+          "given": "Martin"
+        },
+        {
+          "family": "Zakrzewski",
+          "given": "Sonia"
+        },
+        {
+          "family": "Dickinson",
+          "given": "Alexander"
+        }
+      ],
+      "DOI": "10.5258/SOTON/404043"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

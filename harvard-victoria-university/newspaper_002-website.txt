@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Smee 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Smee, B 2018, ‘Deep in cattle country, graziers go against the flow to help the Great Barrier Reef’, <i>The Guardian</i>, 20 May, viewed 21 May, 2018, &#60;https://www.theguardian.com/environment/2018/may/21/deep-in-cattle-country-graziers-go-against-the-flow-to-help-the-great-barrier-reef&#62;.</div>
+  <div class="csl-entry">Smee, B 2018, ‘Deep in cattle country, graziers go against the flow to help the Great Barrier Reef’, <i>The Guardian</i>, 20 May, viewed 21 May 2018, &#60;https://www.theguardian.com/environment/2018/may/21/deep-in-cattle-country-graziers-go-against-the-flow-to-help-the-great-barrier-reef&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -63,6 +63,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

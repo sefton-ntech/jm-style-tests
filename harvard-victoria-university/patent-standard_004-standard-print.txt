@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Standards Australia/New Zealand Standard 2016)
+FIRST w/LOCATOR
+  (Standards Australia/New Zealand Standard 2016, p. 123)
+FIRST w/LABEL
+  (Standards Australia/New Zealand Standard 2016, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Standards Australia 2016, Quality management systems - requirements, AS/NZS ISO 9001:2016, Standards Australia, NSW.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "report",
+      "title": "Quality management systems - requirements",
+      "number": "AS/NZS ISO 9001:2016",
+      "archive": "SAI Global database",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "publisher": "Standards Australia",
+      "publisher-place": "NSW",
+      "author": [
+        {
+          "family": "Standards Australia"
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

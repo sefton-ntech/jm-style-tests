@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Dugdale et al. 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Dugdale, S, Holeton, R, Finkelstein, A, Johnston, J &#38; Smith, R 2018, <i>7 Things you should know about emerging classroom technologies</i>, Educause, viewed 29 June, 2018, &#60;https://library.educause.edu/resources/2018/4/7-things-you-should-know-about-emerging-classroom-technologies&#62;.</div>
+  <div class="csl-entry">Dugdale, S, Holeton, R, Finkelstein, A, Johnston, J &#38; Smith, R 2018, <i>7 Things you should know about emerging classroom technologies</i>, Educause, viewed 29 June 2018, &#60;https://library.educause.edu/resources/2018/4/7-things-you-should-know-about-emerging-classroom-technologies&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -77,6 +77,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

@@ -36,11 +36,20 @@ BIBLIOGRAPHY
           "given": "Rose"
         }
       ],
-      "publisher": "HarperOne",
+      "edition": "eReader version",
       "issued": {
         "date-parts": [
           [
             2018
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            18
           ]
         ]
       },
@@ -52,6 +61,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Lamar &#38; SZA 2018)
+FIRST w/LOCATOR
+  (Lamar &#38; SZA 2018, p. 123)
+FIRST w/LABEL
+  (Lamar &#38; SZA 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Lamar, K &#38; SZA 2018, ‘All the stars’, on Black Panther: the album, sound recording, Top Dawg, USA.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "song",
+      "collection-title": "Black Panther: the album",
+      "title": "All the stars",
+      "publisher": "Top Dawg",
+      "publisher-place": "USA",
+      "medium": "sound recording",
+      "author": [
+        {
+          "family": "Lamar",
+          "given": "Kendrick"
+        },
+        {
+          "family": "SZA"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

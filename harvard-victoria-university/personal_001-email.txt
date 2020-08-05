@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (JW Ayers 2018, personal communication, 2 February)
+FIRST w/LOCATOR
+  (JW Ayers 2018, personal communication, 2 February, p. 123)
+FIRST w/LABEL
+  (JW Ayers 2018, personal communication, 2 February, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">You do not need to include an entry in the reference list.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+		"type": "personal_communication",
+    "author": [
+      {
+        "family": "Ayers",
+        "given": "John W."
+      }
+    ],
+		"issued": {
+			"date-parts": [
+				[
+					2018,
+					2,
+					2
+				]
+			]
+		}
+	}
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

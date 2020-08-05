@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Marketline 2017)
+FIRST w/LOCATOR
+  (Marketline 2017, p. 123)
+FIRST w/LABEL
+  (Marketline 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Marketline 2017, <i>Tesla Motors Inc.</i>, company profile, viewed 15 May 2018, retrieved from Business Source Complete database.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "report",
+      "title": "Tesla Motors Inc.",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Marketline"
+        }
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            15
+          ]
+        ]
+      },
+      "archive": "Business Source Complete database",
+      "genre": "company profile"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

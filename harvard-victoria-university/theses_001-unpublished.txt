@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Kyei-Nimakoh 2017)
+FIRST w/LOCATOR
+  (Kyei-Nimakoh 2017, p. 123)
+FIRST w/LABEL
+  (Kyei-Nimakoh 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Kyei-Nimakoh, M 2017, ‘Management and referral of obstetric complications: a study in the upper east region of Ghana’, PhD thesis, Victoria University, Melbourne.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "thesis",
+      "container-title": "Management and referral of obstetric complications: a study in the upper east region of Ghana",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Kyei-Nimakoh",
+          "given": "Minerva"
+        }
+      ],
+      "publisher": "Victoria University",
+      "publisher-place": "Melbourne",
+      "note": "PhD thesis"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<
