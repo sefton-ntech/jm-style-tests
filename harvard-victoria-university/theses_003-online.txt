@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Kashuk 2017)
+FIRST w/LOCATOR
+  (Kashuk 2017, p. 123)
+FIRST w/LABEL
+  (Kashuk 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Kashuk, S 2017, <i>Investigation of MRI brain changes in developmental coordination disorder and Friedreich’s ataxia</i>, PhD thesis, Victoria University, Melbourne, viewed 22 May 2018, &#60;http://vuir.vu.edu.au/id/eprint/33211&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "thesis",
+      "title": "Investigation of MRI brain changes in developmental coordination disorder and Friedreich’s ataxia",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Kashuk",
+          "given": "Sam"
+        }
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            22
+          ]
+        ]
+      },
+      "URL": "http://vuir.vu.edu.au/id/eprint/33211",
+      "publisher": "Victoria University",
+      "publisher-place": "Melbourne",
+      "note": "PhD thesis"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<
