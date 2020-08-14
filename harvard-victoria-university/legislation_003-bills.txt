@@ -14,33 +14,31 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth).
+  (Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth))
 FIRST w/LOCATOR
-  Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth).
+  (Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth), p. 123)
 FIRST w/LABEL
-  Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth).
+  (Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth), para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth)</div>
+  <div class="csl-entry">Marriage Amendment (Definition and Religious Freedoms) Bill 2017 (Cth).</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "bill",
-      "container-title": "Marriage Amendment",
-      "publisher": "Cth",
-      "legal-jurisdiction": "Cth",
-      "issued": {
-        "date-parts": [
-          [
-            2017
-          ]
+  {
+    "type": "bill",
+    "title": "Marriage Amendment (Definition and Religious Freedoms) Bill 2017",
+    "jurisdiction": "Cth",
+    "issued": {
+      "date-parts": [
+        [
+          2017
         ]
-      },
-      "title": "Definition and Religious Freedoms"
+      ]
     }
+  }
 ]
 <<===== INPUT =====<<
 

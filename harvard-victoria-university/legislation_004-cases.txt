@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  <i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.
+  (<i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680)
 FIRST w/LOCATOR
-  <i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.
+  (<i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680, p. 123)
 FIRST w/LABEL
-  <i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.
+  (<i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Reurich v Sureway Employment and Training Pty Ltd</i> (2018) FCA 680.</div>
@@ -27,19 +27,20 @@ BIBLIOGRAPHY
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "legal_case",
-      "container-title": "FCA",
-      "issued": {
-        "date-parts": [
-          [
-            2018
-          ]
+  {
+    "type": "legal_case",
+    "title-short": "FCA",
+    "issued": {
+      "date-parts": [
+        [
+          2018
         ]
-      },
-      "issue": "680",
-      "title": "Reurich v Sureway Employment and Training Pty Ltd"
-    }
+      ]
+    },
+    "page": "680",
+    "container-title": "Federal Court of Australia",
+    "title": "Reurich v Sureway Employment and Training Pty Ltd"
+  }
 ]
 <<===== INPUT =====<<
 
