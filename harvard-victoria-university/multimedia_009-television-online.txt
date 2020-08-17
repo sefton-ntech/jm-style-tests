@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Quilty et al. 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Quilty, B, Bainbridge, M, Bainbridge, B, Oddie, J, Lambie, J & Bainbridge, T 2018, <i>When the war is over: the challenges that Mick had was mortal loss, friends that had been killed around him - Australian Story</i>, television broadcast, Australian Broadcasting Corporation, 9 April, viewed 23 May 2018, <https://search-informit-com-au.wallaby.vu.edu.au:4433/documentSummary;dn=TSM201804090107;res=TVNEWS>.</div>
+  <div class="csl-entry">Quilty, B, Bainbridge, M, Bainbridge, B, Oddie, J, Lambie, J &#38; Bainbridge, T 2018, <i>When the war is over: the challenges that Mick had was mortal loss, friends that had been killed around him - Australian Story</i>, television broadcast, Australian Broadcasting Corporation, 9 April, viewed 23 May 2018, &#60;https://search-informit-com-au.wallaby.vu.edu.au:4433/documentSummary;dn=TSM201804090107;res=TVNEWS&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -29,7 +29,7 @@ BIBLIOGRAPHY
 [
   {
       "type": "broadcast",
-      "container-title": "When the war is over: the challenges that Mick had was mortal loss, friends that had been killed around him - Australian Story",
+      "title": "When the war is over: the challenges that Mick had was mortal loss, friends that had been killed around him - Australian Story",
       "publisher": "Australian Broadcasting Corporation",
       "medium": "television broadcast",
       "author": [

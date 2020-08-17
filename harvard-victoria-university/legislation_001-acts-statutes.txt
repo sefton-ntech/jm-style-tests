@@ -14,31 +14,31 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  <i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67
+  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67)
 FIRST w/LOCATOR
-  <i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67
+  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67, p. 123)
 FIRST w/LABEL
-  <i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67
+  (<i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic), s. 67, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Yarra River Protection (Wilip-Gin Birrarung Murron Act 2017</i> (Vic)</div>
+  <div class="csl-entry"><i>Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017</i> (Vic).</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "type": "legislation",
-		  "title": "Yarra River Protection (Wilip-gin Birrarung murron)",
-      "publisher": "Vic",
-		  "section": "s. 67",
-      "issued": {
-        "date-parts": [
-          [
-            2017
-          ]
+    "type": "legislation",
+    "title": "Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017",
+    "jurisdiction": "Vic",
+    "section": "s. 67",
+    "issued": {
+      "date-parts": [
+        [
+          2017
         ]
-      }
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

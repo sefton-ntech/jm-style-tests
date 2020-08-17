@@ -21,30 +21,30 @@ FIRST w/LABEL
   (B Smith 2018, personal communication, 17 May, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">You do not need to include an entry in the reference list.</div>
+  <div class="csl-entry">Smith, B 2018.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-	{
-		"type": "personal_communication",
+  {
+    "type": "personal_communication",
     "author": [
       {
         "family": "Smith",
         "given": "Ben"
       }
     ],
-		"issued": {
-			"date-parts": [
-				[
-					2018,
-					5,
-				  17	
-				]
-			]
-		}
-	}
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          17
+        ]
+      ]
+    }
+  }
 ]
 <<===== INPUT =====<<
 

@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Aida’s secrets 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Aida’s secrets 2017, DVD, Music Box Films, Chicago, directed by Alon Schwarz & Shaul Schwarz.</div>
+  <div class="csl-entry">Aida’s secrets 2017, DVD, Music Box Films, Chicago, directed by Alon Schwarz &#38; Shaul Schwarz.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -29,7 +29,7 @@ BIBLIOGRAPHY
 [
   {
       "type": "motion_picture",
-      "container-title": "Aida's secrets",
+      "title": "Aida's secrets",
       "publisher": "Music Box Films",
       "publisher-place": "Chicago",
       "medium": "DVD",

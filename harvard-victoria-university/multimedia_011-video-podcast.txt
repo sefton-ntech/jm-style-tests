@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Cordon 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Cordon, J 2017, ‘Bruno Mars Carpool Karaoke’, The late late show with James Cordon, accessed 23 May 2018, &#60;https://youtu.be/AFxCO_DyzYM&#62;.</div>
+  <div class="csl-entry">Cordon, J 2017, ‘Bruno Mars Carpool Karaoke’, <i>The late late show with James Cordon</i>, viewed 23 May 2018, &#60;https://youtu.be/AFxCO_DyzYM&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -33,7 +33,7 @@ BIBLIOGRAPHY
       "title": "Bruno Mars Carpool Karaoke",
       "author": [
         {
-          "family": "Corden",
+          "family": "Cordon",
           "given": "James"
         }
       ],

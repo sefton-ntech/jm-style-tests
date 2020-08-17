@@ -28,8 +28,8 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "thesis",
-      "container-title": "Management and referral of obstetric complications: a study in the upper east region of Ghana",
+      "type": "article",
+      "title": "Management and referral of obstetric complications: a study in the upper east region of Ghana",
       "issued": {
         "date-parts": [
           [

@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Foot 2019, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Foot, G 2019, ‘Health drinks: turmeric', <i>The best thing since sliced bread?</i>, podcast, 20 February, accessed 25 February 2019, &#60;https://www.bbc.co.uk/programmes/p071h3tx&#62;.</div>
+  <div class="csl-entry">Foot, G 2019, ‘Health drinks: turmeric’, <i>The best thing since sliced bread?</i>, podcast, 20 February, accessed 25 February 2019, &#60;https://www.bbc.co.uk/programmes/p071h3tx&#62;.</div>
 </div>
 <<===== RESULT =====<<
 

@@ -21,30 +21,30 @@ FIRST w/LABEL
   (H Moore 2018, personal communication, 6 June, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">You do not need to include an entry in the reference list.</div>
+  <div class="csl-entry">Moore, H 2018.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-	{
-		"type": "personal_communication",
+  {
+    "type": "personal_communication",
     "author": [
       {
         "family": "Moore",
         "given": "Helena"
       }
     ],
-		"issued": {
-			"date-parts": [
-				[
-					2018,
-					6,
-					6
-				]
-			]
-		}
-	}
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          6
+        ]
+      ]
+    }
+  }
 ]
 <<===== INPUT =====<<
 

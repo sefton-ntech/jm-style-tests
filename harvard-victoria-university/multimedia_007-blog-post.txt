@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Ecker 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Ecker, M 2018, ‘A very different environment for early toolmakers in South Africa’, <i>Oxford Science Blog</i>, weblog post, 21 May, viewed 23 May 2018, <http://www.ox.ac.uk/news/science-blog/very-different-environment-early-toolmakers-south-africa>.</div>
+  <div class="csl-entry">Ecker, M 2018, ‘A very different environment for early toolmakers in South Africa’, <i>Oxford Science Blog</i>, weblog post, 21 May, viewed 23 May 2018, &#60;http://www.ox.ac.uk/news/science-blog/very-different-environment-early-toolmakers-south-africa&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
