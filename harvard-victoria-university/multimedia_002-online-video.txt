@@ -21,14 +21,14 @@ FIRST w/LABEL
   (Victoria University Library 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Victoria University Library 2017, <i>Ebooks: how to download an EBook Central e-book</i>, online video, viewed 16 February 2017, <https://vimeo.com/vicunilibrary/ebookcentral>.</div>
+  <div class="csl-entry">Victoria University Library 2017, <i>Ebooks: how to download an EBook Central e-book</i>, online video, viewed 16 February 2017, &#60;https://vimeo.com/vicunilibrary/ebookcentral&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "type": "motion_picture",
+      "type": "broadcast",
       "medium": "online video",
       "title": "Ebooks: how to download an EBook Central e-book",
       "publisher": "",

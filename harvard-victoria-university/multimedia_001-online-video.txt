@@ -21,7 +21,7 @@ FIRST w/LABEL
   (<i>Loving Vincent</i> 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Loving Vincent</i> 2017, online video, Madmen Entertainment, viewed 1 June 2018, <https://vu.kanopy.com/video/loving-vincent-0>.</div>
+  <div class="csl-entry"><i>Loving Vincent</i> 2017, online video, Madmen Entertainment, viewed 1 June 2018, &#60;https://vu.kanopy.com/video/loving-vincent-0&#62;.</div>
 </div>
 <<===== RESULT =====<<
 

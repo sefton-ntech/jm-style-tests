@@ -21,43 +21,42 @@ FIRST w/LABEL
   (Singh Sidhu 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Singh Sidhu, B 2018, <i>Are we running out of clean water</i>, YouTube, 6 December, TED-Ed, viewed 13 February, &#60;https://youtu.be/OCzYdNSJF-k&#62;.</div>
+  <div class="csl-entry">Singh Sidhu, B 2018, <i>Are we running out of clean water</i>, YouTube, TED-Ed, 6 December, viewed 13 February 2020, &#60;https://youtu.be/OCzYdNSJF-k&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "type": "motion_picture",
-      "medium": "online video",
-      "title": "Are we running out of clean water",
-      "publisher": "YouTube",
-      "publisher-place": "6 December, TED-Ed",
-      "author": [
-        {
-          "family": "Singh Sidhu",
-          "given": "Balsher"
-        }
-      ],
-      "issued": {
-        "date-parts": [
-          [
-            2018,
-            12,
-            6
-          ]
+    "type": "broadcast",
+    "title": "Are we running out of clean water",
+    "publisher": "YouTube",
+    "publisher-place": "TED-Ed",
+    "author": [
+      {
+        "family": "Singh Sidhu",
+        "given": "Balsher"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          6
         ]
-      },
-      "accessed": {
-        "date-parts": [
-          [
-            2020,
-            2,
-            13
-          ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
         ]
-      },
-      "URL": "https://youtu.be/OCzYdNSJF-k"
+      ]
+    },
+    "URL": "https://youtu.be/OCzYdNSJF-k"
   }
 ]
 <<===== INPUT =====<<

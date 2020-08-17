@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Sheeran 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Sheeran, E 2018, <i>Dive</i>, online audio, accessed 29 May 2018, &#60;https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=SiT6FezxSFKqDbXXg4fdOA&#62;</div>
+  <div class="csl-entry">Sheeran, E 2018, <i>Dive</i>, online audio, accessed 29 May 2018, &#60;https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=SiT6FezxSFKqDbXXg4fdOA&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
