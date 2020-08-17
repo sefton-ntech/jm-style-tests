@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Lamar &#38; SZA 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Lamar, K &#38; SZA 2018, ‘All the stars’, on Black Panther: the album, sound recording, Top Dawg, USA.</div>
+  <div class="csl-entry">Lamar, K &#38; SZA 2018, ‘All the stars’, on <i>Black Panther: the album</i>, sound recording, Top Dawg, USA.</div>
 </div>
 <<===== RESULT =====<<
 
