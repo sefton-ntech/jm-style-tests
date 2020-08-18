@@ -14,31 +14,32 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (World encyclopedia 2014, microeconomics entry)
+  (<i>World encyclopedia</i> 2014, microeconomics entry)
 FIRST w/LOCATOR
-  (World encyclopedia 2014, microeconomics entry, p. 123)
+  (<i>World encyclopedia</i> 2014, microeconomics entry, p. 123)
 FIRST w/LABEL
-  (World encyclopedia 2014, microeconomics entry, para. 123)
+  (<i>World encyclopedia</i> 2014, microeconomics entry, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"></div>
+  <div class="csl-entry"><i>World encyclopedia</i> 2014, ‘microeconomics’.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "entry-encyclopedia",
-      "container-title": "World encyclopedia",
-      "issued": {
-        "date-parts": [
-          [
-            2014
-          ]
+  {
+    "type": "entry-encyclopedia",
+    "container-title": "World encyclopedia",
+    "issued": {
+      "date-parts": [
+        [
+          2014
         ]
-      },
-      "title": "microeconomics"
-    }
+      ]
+    },
+    "title": "microeconomics",
+    "section": "microeconomics entry"
+  }
 ]
 <<===== INPUT =====<<
 

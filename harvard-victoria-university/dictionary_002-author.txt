@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Law 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Law, J 2018, ‘macroenvironment’, A dictionary of finance and banking, 6th edn, Oxford University Press, Oxford.</div>
+  <div class="csl-entry">Law, J 2018, ‘macroenvironment’, <i>A dictionary of finance and banking</i>, 6th edn, Oxford University Press, Oxford.</div>
 </div>
 <<===== RESULT =====<<
 
