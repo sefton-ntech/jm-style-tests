@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Fluker 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Fluker, M 2017, Fluker posts: community based environmental monitoring, electronic dataset, Fluker Post Research Project, viewed 12 June 2018, <http://www.flukerpost.com>.</div>
+  <div class="csl-entry">Fluker, M 2017, <i>Fluker posts: community based environmental monitoring</i>, electronic dataset, Fluker Post Research Project, viewed 12 June 2018, &#60;http://www.flukerpost.com&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
