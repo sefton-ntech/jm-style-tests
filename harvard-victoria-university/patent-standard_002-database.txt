@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Larson, Reid &#38; Oronsky 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Larson, C, Reid, TR &#38; Oronsky, BT 2018, Immunomodulatory fusion proteins, US20180134766, viewed 23 May 2018, retrieved from Scopus.</div>
+  <div class="csl-entry">Larson, C, Reid, TR &#38; Oronsky, BT 2018, <i>Immunomodulatory fusion proteins</i>, US20180134766, viewed 23 May 2018, retrieved from Scopus.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -51,7 +51,17 @@ BIBLIOGRAPHY
           "family": "Oronsky",
           "given": "Bryan T."
         }
-      ]
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "note": "retrieved from Scopus"
     }
 ]
 <<===== INPUT =====<<

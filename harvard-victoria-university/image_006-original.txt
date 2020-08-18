@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Ektoras 2014, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Ektoras, M 2014, <i>Wishing well</i>, Mono-print: Acrylic on rice paper, Exhibited at: Light & Shade exhibition, Beth Hulme Gallery & Studio, Melbourne, 15 May - 6 Jun 2015.</div>
+  <div class="csl-entry">Ektoras, M 2014, <i>Wishing well</i>, Mono-print: Acrylic on rice paper, Exhibited at: Light &#38; Shade exhibition, Beth Hulme Gallery &#38; Studio, Melbourne, 15 May - 6 Jun 2015.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -31,9 +31,8 @@ BIBLIOGRAPHY
       "type": "graphic",
       "title": "Wishing well",
       "medium": "Mono-print: Acrylic on rice paper",
-      "dimensions": "481x993 mm",
       "archive": "Exhibited at: Light & Shade exhibition, Beth Hulme Gallery & Studio",
-      "archive-location": "Melbourne, 15 May - 6 Jun 2015",
+      "archive_location": "Melbourne, 15 May - 6 Jun 2015",
       "issued": {
         "date-parts": [
           [

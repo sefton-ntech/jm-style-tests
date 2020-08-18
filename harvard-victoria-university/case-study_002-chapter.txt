@@ -16,56 +16,54 @@ should pass test
 FIRST
   (Gorski &#38; Pothini 2018, p. 92)
 FIRST w/LOCATOR
-  (Gorski &#38; Pothini 2018, p. 92)
+  (Gorski &#38; Pothini 2018, p. 92, p. 123)
 FIRST w/LABEL
-  (Gorski &#38; Pothini 2018, p. 92)
+  (Gorski &#38; Pothini 2018, p. 92, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Gorski, PC, &#38; Pothini, SG 2018, ‘Cases on immigrant status’, case study, in Gorski, PC, & Pothini, SG (eds), Case Studies on Diversity and Social Justice Education, Routledge, Milton, Qld, 92-100.</div>
+  <div class="csl-entry">Gorski, PC &#38; Pothini, SG 2018, ‘Cases on immigrant status’, case study, in PC Gorski &#38; SG Pothini (eds), <i>Case Studies on Diversity and Social Justice Education</i>, Routledge, Milton, Qld, pp. 92–100.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "chapter",
-      "title": "Cases on immigrant status",
-      "section": "p. 92",
-      "container-title": "Case Studies on Diversity and Social Justice Education",
-      "note": "case study",
-      "issued": {
-        "date-parts": [
-          [
-            2018
-          ]
+  {
+    "type": "chapter",
+    "title": "Cases on immigrant status",
+    "section": "p. 92",
+    "container-title": "Case Studies on Diversity and Social Justice Education",
+    "note": "case study",
+    "issued": {
+      "date-parts": [
+        [
+          2018
         ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Gorski",
+        "given": "Paul C."
       },
-      "author": [
-        {
-          "family": "Gorski",
-          "given": "Paul C."
-        },
-        {
-          "family": "Pothini",
-          "given": "Seema G."
-        }
-      ],
-      "editor": [
-        {
-          "family": "Gorski",
-          "given": "Paul C."
-        },
-        {
-          "family": "Pothini",
-          "given": "Seema G."
-        }
-      ],
-      "publisher": "Routledge",
-      "publisher-place": "Milton, Qld",
-      "page": "92-100",
-      "section": "p. 92",
-      "note": "case study"
-    }
+      {
+        "family": "Pothini",
+        "given": "Seema G."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Gorski",
+        "given": "Paul C."
+      },
+      {
+        "family": "Pothini",
+        "given": "Seema G."
+      }
+    ],
+    "publisher": "Routledge",
+    "publisher-place": "Milton, Qld",
+    "page": "92-100"
+  }
 ]
 <<===== INPUT =====<<
 

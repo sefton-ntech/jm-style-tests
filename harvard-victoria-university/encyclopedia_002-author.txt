@@ -14,45 +14,45 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Riches & Stalker 2016, p.1)
+  (Riches &#38; Stalker 2016, p.1)
 FIRST w/LOCATOR
-  (Riches & Stalker 2016, p.1)
+  (Riches &#38; Stalker 2016, p.1, p. 123)
 FIRST w/LABEL
-  (Riches & Stalker 2016, p.1)
+  (Riches &#38; Stalker 2016, p.1, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Riches, C & Stalker, P 2016, ‘Russia’, A guide to countries of the world, 4th edn, Oxford University Press, Oxford.</div>
+  <div class="csl-entry">Riches, C &#38; Stalker, P 2016, ‘Russia’, <i>A guide to countries of the world</i>, 4th edn, Oxford University Press, Oxford.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "entry-encyclopedia",
-      "container-title": "A guide to countries of the world",
-      "title": "Russia",
-      "author":[
-        {
-          "family": "Riches",
-          "given": "Christopher"
-        },
-        {
-          "family": "Stalker",
-          "given": "Peter"
-        }
-      ],
-      "page": 1,
-      "edition": 4,
-      "issued": {
-        "date-parts": [
-          [
-            2016
-          ]
-        ]
+  {
+    "type": "entry-encyclopedia",
+    "container-title": "A guide to countries of the world",
+    "title": "Russia",
+    "author": [
+      {
+        "family": "Riches",
+        "given": "Christopher"
       },
-      "publisher": "Oxford University Press",
-      "publisher-place": "Oxford"
-    }
+      {
+        "family": "Stalker",
+        "given": "Peter"
+      }
+    ],
+    "section": "p.1",
+    "edition": 4,
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "publisher-place": "Oxford"
+  }
 ]
 <<===== INPUT =====<<
 

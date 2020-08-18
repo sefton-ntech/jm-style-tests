@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Standards Australia/New Zealand Standard 2016, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Standards Australia 2016, Quality management systems - requirements, AS/NZS ISO 9001:2016, Standards Australia, NSW.</div>
+  <div class="csl-entry">Standards Australia/New Zealand Standard 2016, <i>Quality management systems - requirements</i>, AS/NZS ISO 9001:2016, Standards Australia, NSW.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -31,7 +31,6 @@ BIBLIOGRAPHY
       "type": "report",
       "title": "Quality management systems - requirements",
       "number": "AS/NZS ISO 9001:2016",
-      "archive": "SAI Global database",
       "issued": {
         "date-parts": [
           [
@@ -43,7 +42,7 @@ BIBLIOGRAPHY
       "publisher-place": "NSW",
       "author": [
         {
-          "family": "Standards Australia"
+          "family": "Standards Australia/New Zealand Standard"
         }
       ]
     }

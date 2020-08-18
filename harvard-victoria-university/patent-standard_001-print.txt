@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Kassiou et al. 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Kassiou, M, Jorgensen, W, Munoz, L & The University of Sydney 2018, Anti-cancer compounds, 2018900315.</div>
+  <div class="csl-entry">Kassiou, M, Jorgensen, W, Munoz, L &#38; The University of Sydney 2018, <i>Anti-cancer compounds</i>, 2018900315.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -38,16 +38,6 @@ BIBLIOGRAPHY
           ]
         ]
       },
-      "accessed": {
-        "date-parts": [
-          [
-            2018,
-            5,
-            23
-          ]
-        ]
-      },
-      "archive": "Scopus",
       "author": [
         {
           "family": "Kassiou",
