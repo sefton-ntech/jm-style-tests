@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Ibisworld 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Ibisworld 2018, Employment placement and recruitment services in Australia: global industry report, viewed 7 March 2018, retrieved from IbisWorld database.</div>
+  <div class="csl-entry">Ibisworld 2018, <i>Employment placement and recruitment services in Australia: global industry report</i>, viewed 7 March 2018, retrieved from IbisWorld database.</div>
 </div>
 <<===== RESULT =====<<
 

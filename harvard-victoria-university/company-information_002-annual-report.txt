@@ -29,7 +29,7 @@ BIBLIOGRAPHY
 [
     {
       "type": "report",
-      "title": "Telsta annual report 2018",
+      "title": "Telstra annual report 2018",
       "issued": {
         "date-parts": [
           [
