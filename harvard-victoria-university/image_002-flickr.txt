@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Crazzolara 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Crazzolara, T 2018, Alpine panorama, image, Flickr, viewed 24 May 2018, <https://flic.kr/p/27fJCsF>.</div>
+  <div class="csl-entry">Crazzolara, T 2018, <i>Alpine panorama</i>, image, Flickr, viewed 24 May 2018, &#60;https://flic.kr/p/27fJCsF&#62;.</div>
 </div>
 <<===== RESULT =====<<
 

@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Kreisa 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Kreisa, M 2018, <i>60+ vital first words and phrases to learn in a new language</i>, image, FluentU Travel, viewed 24 May 2018, <https://www.fluentu.com/blog/first-phrases-to-learn-in-a-new-language/>.</div>
+  <div class="csl-entry">Kreisa, M 2018, <i>60+ vital first words and phrases to learn in a new language</i>, image, FluentU Travel, viewed 24 May 2018, &#60;https://www.fluentu.com/blog/first-phrases-to-learn-in-a-new-language/&#62;.</div>
 </div>
 <<===== RESULT =====<<
 

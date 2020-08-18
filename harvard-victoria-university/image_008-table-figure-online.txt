@@ -14,48 +14,48 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (AIHW, 2017, Table 3.6, p. 56)
+  (Australian Institute of Health and Welfare 2017, Table 3.6, p. 56)
 FIRST w/LOCATOR
-  (AIHW, 2017, Table 3.6, p. 56)
+  (Australian Institute of Health and Welfare 2017, Table 3.6, p. 56, p. 123)
 FIRST w/LABEL
-  (AIHW, 2017, Table 3.6, p. 56)
+  (Australian Institute of Health and Welfare 2017, Table 3.6, p. 56, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Australian Institute of Health and Welfare 2017, <i>Admitted patient care 2016–17 Australian hospital statistics</i>, Health Services series no.84, AIHW, Canberra, viewed 24 May 2018, <https://www.aihw.gov.au/getmedia/acee86da-d98e-4286-85a4-52840836706f/aihw-hse-201.pdf.aspx?inline=true>.</div>
+  <div class="csl-entry">Australian Institute of Health and Welfare 2017, <i>Admitted patient care 2016–17 Australian hospital statistics</i>, Health Services series no.84, AIHW, Canberra, viewed 24 May 2018, &#60;https://www.aihw.gov.au/getmedia/acee86da-d98e-4286-85a4-52840836706f/aihw-hse-201.pdf.aspx?inline=true&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "graphic",
-      "title": "Admitted patient care 2016–17 Australian hospital statistics",
-      "archive": "Health Services series no.84, AIHW",
-      "archive-location": "Canberra",
-      "issued": {
-        "date-parts": [
-          [
-            2017
-          ]
+  {
+    "type": "graphic",
+    "title": "Admitted patient care 2016–17 Australian hospital statistics",
+    "archive": "Health Services series no.84, AIHW",
+    "archive_location": "Canberra",
+    "issued": {
+      "date-parts": [
+        [
+          2017
         ]
-      },
-      "accessed": {
-        "date-parts": [
-          [
-            2018,
-            5,
-            24
-          ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
         ]
-      },
-      "author": [
-        {
-          "family": "Australian Institute of Health and Welfare"
-        }
-      ],
-      "note": "Table 3.6, p. 56",
-      "URL": "https://www.aihw.gov.au/getmedia/acee86da-d98e-4286-85a4-52840836706f/aihw-hse-201.pdf.aspx?inline=true"
-    }
+      ]
+    },
+    "author": [
+      {
+        "family": "Australian Institute of Health and Welfare"
+      }
+    ],
+    "section": "Table 3.6, p. 56",
+    "URL": "https://www.aihw.gov.au/getmedia/acee86da-d98e-4286-85a4-52840836706f/aihw-hse-201.pdf.aspx?inline=true"
+  }
 ]
 <<===== INPUT =====<<
 

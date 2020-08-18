@@ -14,43 +14,43 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Rasch & Schott 2018, Fig. 3.1, p. 81)
+  (Rasch &#38; Schott 2018, Fig. 3.1, p. 81)
 FIRST w/LOCATOR
-  (Rasch & Schott 2018, Fig. 3.1, p. 81)
+  (Rasch &#38; Schott 2018, Fig. 3.1, p. 81, p. 123)
 FIRST w/LABEL
-  (Rasch & Schott 2018, Fig. 3.1, p. 81)
+  (Rasch &#38; Schott 2018, Fig. 3.1, p. 81, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Rasch, D, & Schott, D 2018, <i>Mathematical statistics</i>, Wiley, Hoboken, NJ.</div>
+  <div class="csl-entry">Rasch, D &#38; Schott, D 2018, <i>Mathematical statistics</i>, Wiley, Hoboken, NJ.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
-    {
-      "type": "graphic",
-      "title": "Mathematical statistics",
-      "archive": "Wiley",
-      "archive-location": "Hoboken, NJ",
-      "issued": {
-        "date-parts": [
-          [
-            2018
-          ]
+  {
+    "type": "graphic",
+    "title": "Mathematical statistics",
+    "archive": "Wiley",
+    "archive_location": "Hoboken, NJ",
+    "issued": {
+      "date-parts": [
+        [
+          2018
         ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rasch",
+        "given": "Dieter"
       },
-      "author": [
-        {
-          "family": "Rasch",
-          "given": "Dieter"
-        },
-        {
-          "family": "Schott",
-          "given": "Dieter"
-        }
-      ],
-      "note": "Fig. 3.1, p. 81"
-    }
+      {
+        "family": "Schott",
+        "given": "Dieter"
+      }
+    ],
+    "section": "Fig. 3.1, p. 81"
+  }
 ]
 <<===== INPUT =====<<
 
