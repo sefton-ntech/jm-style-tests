@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Riches &#38; Stalker, 2016)
+FIRST w/LOCATOR
+  (Riches &#38; Stalker, 2016, p. 123)
+FIRST w/LABEL
+  (Riches &#38; Stalker, 2016, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Riches, C., &#38; Stalker, P. (2016). Russia. In <i>A guide to countries of the world</i> (4th ed.). Oxford University Press.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "entry-encyclopedia",
+    "container-title": "A guide to countries of the world",
+    "title": "Russia",
+    "author": [
+      {
+        "family": "Riches",
+        "given": "Christopher"
+      },
+      {
+        "family": "Stalker",
+        "given": "Peter"
+      }
+    ],
+    "section": "p.1",
+    "edition": 4,
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "publisher-place": "Oxford"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

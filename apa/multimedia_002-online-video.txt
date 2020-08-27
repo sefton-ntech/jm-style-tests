@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Victoria University Library, 2017)
+FIRST w/LOCATOR
+  (Victoria University Library, 2017, p. 123)
+FIRST w/LABEL
+  (Victoria University Library, 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Victoria University Library. (2017). <i>Ebooks: how to download an EBook Central e-book</i> [Online video]. https://vimeo.com/vicunilibrary/ebookcentral</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "broadcast",
+    "medium": "online video",
+    "title": "Ebooks: how to download an EBook Central e-book",
+    "publisher": "",
+    "author": [
+      {
+        "family": "Victoria University Library"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          16
+        ]
+      ]
+    },
+    "URL": "https://vimeo.com/vicunilibrary/ebookcentral"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

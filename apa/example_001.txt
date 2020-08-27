@@ -9,19 +9,19 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test002
+should pass test
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  (<i>This Is a Title</i>, n.d.)
+  (Author, 2001)
 FIRST w/LOCATOR
-  (<i>This Is a Title</i>, n.d., p. 123)
+  (Author, 2001, p. 123)
 FIRST w/LABEL
-  (<i>This Is a Title</i>, n.d., para. 123)
+  (Author, 2001, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>This is a title: But this is a subtitle</i>. (n.d.).</div>
+  <div class="csl-entry">Author, A. (2001). <i>The book</i>.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -29,8 +29,20 @@ BIBLIOGRAPHY
 [
   {
     "type": "book",
-    "title": "This is a title: but this is a subtitle",
-    "shortTitle": "This is a Title",
+    "title": "The book",
+    "author": [
+      {
+        "given": "Alan",
+        "family": "Author"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
     "multi": {
       "main": {},
       "_keys": {}
@@ -42,6 +54,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<

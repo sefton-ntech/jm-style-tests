@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (H. Moore, personal communication, June 6, 2018)
+FIRST w/LOCATOR
+  (H. Moore, personal communication, June 6, 2018, p. 123)
+FIRST w/LABEL
+  (H. Moore, personal communication, June 6, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Moore, H. (2018, June 6). [Personal communication].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "personal_communication",
+    "author": [
+      {
+        "family": "Moore",
+        "given": "Helena"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          6
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

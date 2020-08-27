@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Rasch &#38; Schott, 2018)
+FIRST w/LOCATOR
+  (Rasch &#38; Schott, 2018, p. 123)
+FIRST w/LABEL
+  (Rasch &#38; Schott, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Rasch, D., &#38; Schott, D. (2018). <i>Mathematical statistics</i> (Hoboken, NJ). Wiley.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "graphic",
+    "title": "Mathematical statistics",
+    "archive": "Wiley",
+    "archive_location": "Hoboken, NJ",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rasch",
+        "given": "Dieter"
+      },
+      {
+        "family": "Schott",
+        "given": "Dieter"
+      }
+    ],
+    "section": "Fig. 3.1, p. 81"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (<i>Reurich v Sureway Employment and Training Pty Ltd</i>, 2018)
+FIRST w/LOCATOR
+  (<i>Reurich v Sureway Employment and Training Pty Ltd</i>, 2018, p. 123)
+FIRST w/LABEL
+  (<i>Reurich v Sureway Employment and Training Pty Ltd</i>, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Reurich v Sureway Employment and Training Pty Ltd, Federal Court of Australia 680 (2018).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title-short": "FCA",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "680",
+    "container-title": "Federal Court of Australia",
+    "title": "Reurich v Sureway Employment and Training Pty Ltd"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

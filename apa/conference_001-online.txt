@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Winstone &#38; Boud, 2017)
+FIRST w/LOCATOR
+  (Winstone &#38; Boud, 2017, p. 123)
+FIRST w/LABEL
+  (Winstone &#38; Boud, 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Winstone, N., &#38; Boud, D. (2017, December 6). Supporting students’ engagement with feedback: the adoption of student-focused feedback practices in the UK and Australia. <i>Annual Conference of the Society for Research into Higher Education (SRHE), Newport, South Wales, 6-8 December 2017</i>. https://www.srhe.ac.uk/conference2017/abstracts/0074.pdf</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Winstone",
+        "given": "Naomi"
+      },
+      {
+        "family": "Boud",
+        "given": "David"
+      }
+    ],
+    "title": "Supporting students’ engagement with feedback: the adoption of student-focused feedback practices in the UK and Australia",
+    "container-title": "Annual Conference of the Society for Research into Higher Education (SRHE), Newport, South Wales, 6-8 December 2017",
+    "issued": {
+      "date-parts": [
+        [
+          "2017",
+          12,
+          6
+        ]
+      ]
+    },
+    "section": "p. 2",
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          5,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.srhe.ac.uk/conference2017/abstracts/0074.pdf"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

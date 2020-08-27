@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Singh Sidhu, 2018)
+FIRST w/LOCATOR
+  (Singh Sidhu, 2018, p. 123)
+FIRST w/LABEL
+  (Singh Sidhu, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Singh Sidhu, B. (2018, December 6). <i>Are we running out of clean water</i>. YouTube. https://youtu.be/OCzYdNSJF-k</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "broadcast",
+    "title": "Are we running out of clean water",
+    "publisher": "YouTube",
+    "publisher-place": "TED-Ed",
+    "author": [
+      {
+        "family": "Singh Sidhu",
+        "given": "Balsher"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          6
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "URL": "https://youtu.be/OCzYdNSJF-k"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

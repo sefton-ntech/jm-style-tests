@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017, 2017)
+FIRST w/LOCATOR
+  (Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017, 2017, p. 123)
+FIRST w/LABEL
+  (Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017, 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017, § s. 67 (2017).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Yarra River Protection (Wilip-Gin Birrarung Murron) Act 2017",
+    "jurisdiction": "Vic",
+    "section": "s. 67",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

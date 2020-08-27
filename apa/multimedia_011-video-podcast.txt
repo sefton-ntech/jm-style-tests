@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Cordon, 2017)
+FIRST w/LOCATOR
+  (Cordon, 2017, p. 123)
+FIRST w/LABEL
+  (Cordon, 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Cordon, J. (2017). Bruno Mars Carpool Karaoke. In <i>The late late show with James Cordon</i>. https://youtu.be/AFxCO_DyzYM</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "broadcast",
+    "container-title": "The late late show with James Cordon",
+    "title": "Bruno Mars Carpool Karaoke",
+    "author": [
+      {
+        "family": "Cordon",
+        "given": "James"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          23
+        ]
+      ]
+    },
+    "URL": "https://youtu.be/AFxCO_DyzYM"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

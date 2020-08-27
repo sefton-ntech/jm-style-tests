@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Ektoras, 2014)
+FIRST w/LOCATOR
+  (Ektoras, 2014, p. 123)
+FIRST w/LABEL
+  (Ektoras, 2014, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Ektoras, M. (2014). <i>Wishing well</i> (Melbourne, 15 May - 6 Jun 2015) [Mono-print: Acrylic on rice paper]. Exhibited at: Light &#38; Shade exhibition, Beth Hulme Gallery &#38; Studio.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "graphic",
+    "title": "Wishing well",
+    "medium": "Mono-print: Acrylic on rice paper",
+    "archive": "Exhibited at: Light & Shade exhibition, Beth Hulme Gallery & Studio",
+    "archive_location": "Melbourne, 15 May - 6 Jun 2015",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ektoras",
+        "given": "Malo"
+      }
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

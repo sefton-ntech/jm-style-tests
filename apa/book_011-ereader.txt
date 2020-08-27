@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (McGowan, 2018)
+FIRST w/LOCATOR
+  (McGowan, 2018, p. 123)
+FIRST w/LABEL
+  (McGowan, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">McGowan, R. (2018). In <i>Brave</i> (eReader version). Amazon.com</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "container-title": "Brave",
+    "author": [
+      {
+        "family": "McGowan",
+        "given": "Rose"
+      }
+    ],
+    "edition": "eReader version",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          18
+        ]
+      ]
+    },
+    "URL": "Amazon.com"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (<i>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</i>, 2017)
+FIRST w/LOCATOR
+  (<i>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</i>, 2017, p. 123)
+FIRST w/LABEL
+  (<i>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</i>, 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</i>, (2017).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "bill",
+    "title": "Marriage Amendment (Definition and Religious Freedoms) Bill 2017",
+    "jurisdiction": "Cth",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

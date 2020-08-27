@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (J. W. Ayers, personal communication, February 2, 2018)
+FIRST w/LOCATOR
+  (J. W. Ayers, personal communication, February 2, 2018, p. 123)
+FIRST w/LABEL
+  (J. W. Ayers, personal communication, February 2, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Ayers, J. W. (2018, February 2). [Personal communication].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "personal_communication",
+    "author": [
+      {
+        "family": "Ayers",
+        "given": "John W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          2
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

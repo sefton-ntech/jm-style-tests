@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Australian Building Codes Board, 2017)
+FIRST w/LOCATOR
+  (Australian Building Codes Board, 2017, p. 123)
+FIRST w/LABEL
+  (Australian Building Codes Board, 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Australian Building Codes Board. (2017). Watermark Certification Scheme; Department of Industry, Innovation and Science. https://www.abcb.gov.au/Resources/Publications/Certification/WaterMark-Brochure</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "webpage",
+    "container-title": "Watermark Certification Scheme",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Australian Building Codes Board"
+      }
+    ],
+    "publisher": "Department of Industry, Innovation and Science",
+    "publisher-place": "Canberra",
+    "section": "p. 2",
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          21
+        ]
+      ]
+    },
+    "URL": "https://www.abcb.gov.au/Resources/Publications/Certification/WaterMark-Brochure"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Kreisa, 2018)
+FIRST w/LOCATOR
+  (Kreisa, 2018, p. 123)
+FIRST w/LABEL
+  (Kreisa, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Kreisa, M. (2018). <i>60+ vital first words and phrases to learn in a new language</i> [Image]. FluentU Travel. https://www.fluentu.com/blog/first-phrases-to-learn-in-a-new-language/</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "graphic",
+    "title": "60+ vital first words and phrases to learn in a new language",
+    "publisher": "FluentU Travel",
+    "medium": "image",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kreisa",
+        "given": "Meredith"
+      }
+    ],
+    "URL": "https://www.fluentu.com/blog/first-phrases-to-learn-in-a-new-language/"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

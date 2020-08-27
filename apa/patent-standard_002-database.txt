@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Larson et al., 2018)
+FIRST w/LOCATOR
+  (Larson et al., 2018, p. 123)
+FIRST w/LABEL
+  (Larson et al., 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Larson, C., Reid, T. R., &#38; Oronsky, B. T. (2018). <i>Immunomodulatory fusion proteins</i> (Patent No. US20180134766).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "patent",
+    "title": "Immunomodulatory fusion proteins",
+    "number": "US20180134766",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Larson",
+        "given": "Christopher"
+      },
+      {
+        "family": "Reid",
+        "given": "Tony R."
+      },
+      {
+        "family": "Oronsky",
+        "given": "Bryan T."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          23
+        ]
+      ]
+    },
+    "note": "retrieved from Scopus"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

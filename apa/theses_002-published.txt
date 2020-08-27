@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Roman, 2018)
+FIRST w/LOCATOR
+  (Roman, 2018, p. 123)
+FIRST w/LABEL
+  (Roman, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Roman, C. W. (2018). <i>Using a model of emotional self-efficacy in predicting work outcomes</i>. Alliant International University.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "thesis",
+    "title": "Using a model of emotional self-efficacy in predicting work outcomes",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Roman",
+        "given": "Christopher W."
+      }
+    ],
+    "publisher": "Alliant International University",
+    "publisher-place": "San Diego"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

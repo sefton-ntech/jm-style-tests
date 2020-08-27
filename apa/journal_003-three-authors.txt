@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Wilmott et al., 2018)
+FIRST w/LOCATOR
+  (Wilmott et al., 2018, p. 123)
+FIRST w/LABEL
+  (Wilmott et al., 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Wilmott, C., Fraser, E., &#38; Lammes, S. (2018). I am he. I am he. Siri rules: work and play with the Apple Watch. <i>European Journal of Cultural Studies</i>, <i>21</i>(1), 78–95.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "container-title": "European Journal of Cultural Studies",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "volume": "21",
+    "issue": "1",
+    "title": "I am he. I am he. Siri rules: work and play with the Apple Watch",
+    "page": "78-95",
+    "section": "p. 79",
+    "author": [
+      {
+        "family": "Wilmott",
+        "given": "Clancy"
+      },
+      {
+        "family": "Fraser",
+        "given": "Emma"
+      },
+      {
+        "family": "Lammes",
+        "given": "Sybille"
+      }
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

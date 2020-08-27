@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (2018)
+FIRST w/LOCATOR
+  (2018, p. 123)
+FIRST w/LABEL
+  (2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">(2018). The Guardian View on Jeremy Corbyn and Ireland: All about the Border; The Guardian. https://www.theguardian.com/commentisfree/2018/may/24/the-guardian-view-on-jeremy-corbyn-and-ireland-all-about-the-border</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "webpage",
+    "container-title": "The Guardian view on Jeremy Corbyn and Ireland: all about the border",
+    "title-short": "The Guardian view on Jeremy Corbyn and Ireland",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "The Guardian",
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
+        ]
+      ]
+    },
+    "URL": "https://www.theguardian.com/commentisfree/2018/may/24/the-guardian-view-on-jeremy-corbyn-and-ireland-all-about-the-border"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

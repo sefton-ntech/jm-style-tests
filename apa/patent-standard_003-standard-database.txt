@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Standards Australia, 2018)
+FIRST w/LOCATOR
+  (Standards Australia, 2018, p. 123)
+FIRST w/LABEL
+  (Standards Australia, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Standards Australia. (2018). <i>Audio/video, information and communication technology equipment- safety requirements</i> (AS 62368.1-2018). SAI Global database.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Audio/video, information and communication technology equipment- safety requirements",
+    "number": "AS 62368.1-2018",
+    "archive": "SAI Global database",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Standards Australia"
+      }
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

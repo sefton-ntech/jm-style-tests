@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Sutherland, 1895)
+FIRST w/LOCATOR
+  (Sutherland, 1895, p. 123)
+FIRST w/LABEL
+  (Sutherland, 1895, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Sutherland, J. (1895). <i>The mushroom gatherers</i> (National Gallery of Victoria, Melbourne) [Oil on canvas]. Australian Collection.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "graphic",
+    "title": "The mushroom gatherers",
+    "medium": "Oil on canvas",
+    "dimensions": "481x993 mm",
+    "archive": "Australian Collection",
+    "archive_location": "National Gallery of Victoria, Melbourne",
+    "issued": {
+      "date-parts": [
+        [
+          1895
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Sutherland",
+        "given": "John"
+      }
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

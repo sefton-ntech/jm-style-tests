@@ -14,14 +14,14 @@ should pass test style_test001
 
 >>===== RESULT =====>>
 FIRST
-  (United States Patent No. US20090167561A1, 2009)
+  (Liang, 2009)
 FIRST w/LOCATOR
-  (United States Patent No. US20090167561A1, 2009, p. 123)
+  (Liang, 2009, p. 123)
 FIRST w/LABEL
-  (United States Patent No. US20090167561A1, 2009, para. 123)
+  (Liang, 2009, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Liang, Z. (2009). <i>United States Patent No. US20090167561A1</i>. Retrieved from https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1</div>
+  <div class="csl-entry">Liang, Z. (2009). <i>Intelligent traffic light control system</i> (United States Patent No. US20090167561A1). https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1</div>
 </div>
 <<===== RESULT =====<<
 

@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Gorski &#38; Pothini, 2018)
+FIRST w/LOCATOR
+  (Gorski &#38; Pothini, 2018, p. 123)
+FIRST w/LABEL
+  (Gorski &#38; Pothini, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Gorski, P. C., &#38; Pothini, S. G. (2018). Cases on immigrant status. In P. C. Gorski &#38; S. G. Pothini (Eds.), <i>Case Studies on Diversity and Social Justice Education</i> (pp. 92–100). Routledge.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Cases on immigrant status",
+    "section": "p. 92",
+    "container-title": "Case Studies on Diversity and Social Justice Education",
+    "note": "case study",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Gorski",
+        "given": "Paul C."
+      },
+      {
+        "family": "Pothini",
+        "given": "Seema G."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Gorski",
+        "given": "Paul C."
+      },
+      {
+        "family": "Pothini",
+        "given": "Seema G."
+      }
+    ],
+    "publisher": "Routledge",
+    "publisher-place": "Milton, Qld",
+    "page": "92-100"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<

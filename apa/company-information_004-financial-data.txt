@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Datastream, 2018)
+FIRST w/LOCATOR
+  (Datastream, 2018, p. 123)
+FIRST w/LABEL
+  (Datastream, 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Datastream. (2018). <i>S&#38;P ASX200 daily index data 2016-2018</i>. Datastream database.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "S&P ASX200 daily index data 2016-2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Datastream"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          20
+        ]
+      ]
+    },
+    "archive": "Datastream database"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": false
+}
+<<===== OPTIONS =====<<
