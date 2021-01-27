@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (B. Smith, personal communication, May 17, 2018)
+  (B. Smith, personal communication, 17 May 2018)
 FIRST w/LOCATOR
-  (B. Smith, personal communication, May 17, 2018, p. 123)
+  (B. Smith, personal communication, 17 May 2018, p. 123)
 FIRST w/LABEL
-  (B. Smith, personal communication, May 17, 2018, para. 123)
+  (B. Smith, personal communication, 17 May 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Smith, B. (2018, May 17). [Personal communication].</div>

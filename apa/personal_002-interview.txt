@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (H. Moore, personal communication, June 6, 2018)
+  (H. Moore, personal communication, 6 June 2018)
 FIRST w/LOCATOR
-  (H. Moore, personal communication, June 6, 2018, p. 123)
+  (H. Moore, personal communication, 6 June 2018, p. 123)
 FIRST w/LABEL
-  (H. Moore, personal communication, June 6, 2018, para. 123)
+  (H. Moore, personal communication, 6 June 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Moore, H. (2018, June 6). [Personal communication].</div>

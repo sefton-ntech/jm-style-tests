@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (J. W. Ayers, personal communication, February 2, 2018)
+  (J. W. Ayers, personal communication, 2 February 2018)
 FIRST w/LOCATOR
-  (J. W. Ayers, personal communication, February 2, 2018, p. 123)
+  (J. W. Ayers, personal communication, 2 February 2018, p. 123)
 FIRST w/LABEL
-  (J. W. Ayers, personal communication, February 2, 2018, para. 123)
+  (J. W. Ayers, personal communication, 2 February 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Ayers, J. W. (2018, February 2). [Personal communication].</div>

@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (“Microeconomics,” 2014)
+  (‘Microeconomics’, 2014)
 FIRST w/LOCATOR
-  (“Microeconomics,” 2014, p. 123)
+  (‘Microeconomics’, 2014, p. 123)
 FIRST w/LABEL
-  (“Microeconomics,” 2014, para. 123)
+  (‘Microeconomics’, 2014, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">microeconomics. (2014). <i>World encyclopedia</i>.</div>

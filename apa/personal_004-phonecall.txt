@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (P. Clinton, personal communication, February 20, 2018)
+  (P. Clinton, personal communication, 20 February 2018)
 FIRST w/LOCATOR
-  (P. Clinton, personal communication, February 20, 2018, p. 123)
+  (P. Clinton, personal communication, 20 February 2018, p. 123)
 FIRST w/LABEL
-  (P. Clinton, personal communication, February 20, 2018, para. 123)
+  (P. Clinton, personal communication, 20 February 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Clinton, P. (2018, February 20). [Personal communication].</div>

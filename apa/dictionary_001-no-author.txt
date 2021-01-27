@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (“Curriculum,” 2015)
+  (‘Curriculum’, 2015)
 FIRST w/LOCATOR
-  (“Curriculum,” 2015, p. 123)
+  (‘Curriculum’, 2015, p. 123)
 FIRST w/LABEL
-  (“Curriculum,” 2015, para. 123)
+  (‘Curriculum’, 2015, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">curriculum. (2015). <i>Dictionary of education</i>.</div>

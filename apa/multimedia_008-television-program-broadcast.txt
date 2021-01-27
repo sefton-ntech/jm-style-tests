@@ -14,11 +14,11 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (“When the War Is Over,” 2018)
+  (‘When the War Is Over’, 2018)
 FIRST w/LOCATOR
-  (“When the War Is Over,” 2018, p. 123)
+  (‘When the War Is Over’, 2018, p. 123)
 FIRST w/LABEL
-  (“When the War Is Over,” 2018, para. 123)
+  (‘When the War Is Over’, 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">When the war is over. (2018, April 9). [Television program]. <i>Australian Story</i>. Australian Story, ABC TV.</div>
