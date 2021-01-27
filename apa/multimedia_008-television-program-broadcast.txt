@@ -21,7 +21,7 @@ FIRST w/LABEL
   (“When the War Is Over,” 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">When the war is over. (2018, April 9). [Television program]. In <i>Australian Story</i>. Australian Story, ABC TV.</div>
+  <div class="csl-entry">When the war is over. (2018, April 9). [Television program]. <i>Australian Story</i>. Australian Story, ABC TV.</div>
 </div>
 <<===== RESULT =====<<
 

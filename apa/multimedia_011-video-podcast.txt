@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Cordon, 2017, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Cordon, J. (2017). Bruno Mars Carpool Karaoke. In <i>The late late show with James Cordon</i>. https://youtu.be/AFxCO_DyzYM</div>
+  <div class="csl-entry">Cordon, J. (2017). Bruno Mars Carpool Karaoke. <i>The late late show with James Cordon</i>. https://youtu.be/AFxCO_DyzYM</div>
 </div>
 <<===== RESULT =====<<
 

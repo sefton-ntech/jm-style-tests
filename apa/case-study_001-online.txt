@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Business Queensland, 2016, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Business Queensland. (2016). In <i>Coastal Cruises Mooloolaba</i>. http://www.business.qld.gov.au/starting-business/advice-support/support/case-studies/coastal-cruises</div>
+  <div class="csl-entry">Business Queensland. (2016). <i>Coastal Cruises Mooloolaba</i>. http://www.business.qld.gov.au/starting-business/advice-support/support/case-studies/coastal-cruises</div>
 </div>
 <<===== RESULT =====<<
 

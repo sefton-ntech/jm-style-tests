@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Hamdulay &#38; Vidhani, 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Hamdulay, F., &#38; Vidhani, H. (2018). In <i>The evolution of lean thinking at K-Way: where to next?</i> Emerald Emerging Markets Case Studies.</div>
+  <div class="csl-entry">Hamdulay, F., &#38; Vidhani, H. (2018). <i>The evolution of lean thinking at K-Way: where to next?</i> Emerald Emerging Markets Case Studies.</div>
 </div>
 <<===== RESULT =====<<
 

@@ -21,7 +21,7 @@ FIRST w/LABEL
   (2002, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">(2002). In <i>Style manual for authors, editors and printers</i> (6th ed., pp. 1–197). AGPS.</div>
+  <div class="csl-entry">(2002). <i>Style manual for authors, editors and printers</i> (6th ed., pp. 1–197). AGPS.</div>
 </div>
 <<===== RESULT =====<<
 

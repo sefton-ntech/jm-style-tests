@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Riches &#38; Stalker, 2016, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Riches, C., &#38; Stalker, P. (2016). Russia. In <i>A guide to countries of the world</i> (4th ed.). Oxford University Press.</div>
+  <div class="csl-entry">Riches, C., &#38; Stalker, P. (2016). Russia. <i>A guide to countries of the world</i> (4th ed.). Oxford University Press.</div>
 </div>
 <<===== RESULT =====<<
 

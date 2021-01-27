@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Fetter, 1904, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Fetter, F. A. (1904). The Principles of Economics: With Applications to Practical Problems; Century. https://www.gutenberg.org/files/40077/40077-h/40077-h.htm</div>
+  <div class="csl-entry">Fetter, F. A. (1904). The principles of economics: with applications to practical problems; Century. https://www.gutenberg.org/files/40077/40077-h/40077-h.htm</div>
 </div>
 <<===== RESULT =====<<
 

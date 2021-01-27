@@ -21,7 +21,7 @@ FIRST w/LABEL
   (“Curriculum,” 2015, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">curriculum. (2015). In <i>Dictionary of education</i>.</div>
+  <div class="csl-entry">curriculum. (2015). <i>Dictionary of education</i>.</div>
 </div>
 <<===== RESULT =====<<
 

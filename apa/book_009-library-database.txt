@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Bowie et al., 2016, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Bowie, D., Buttle, F., Brookes, M., &#38; Mariussen, A. (2016). In <i>Hospitality marketing</i>. Routledge.</div>
+  <div class="csl-entry">Bowie, D., Buttle, F., Brookes, M., &#38; Mariussen, A. (2016). <i>Hospitality marketing</i>. Routledge.</div>
 </div>
 <<===== RESULT =====<<
 

@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Smith, 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Smith, K. L. (Ed.). (2018). In <i>Sociology of globalization: cultures, economies, and politics</i>. Routledge.</div>
+  <div class="csl-entry">Smith, K. L. (Ed.). (2018). <i>Sociology of globalization: cultures, economies, and politics</i>. Routledge.</div>
 </div>
 <<===== RESULT =====<<
 

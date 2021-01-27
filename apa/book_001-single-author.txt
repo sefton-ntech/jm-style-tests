@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Hasler, 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Hasler, E. (2018). In <i>The built environment</i> (pp. 1–58). Liverpool University Press.</div>
+  <div class="csl-entry">Hasler, E. (2018). <i>The built environment</i> (pp. 1–58). Liverpool University Press.</div>
 </div>
 <<===== RESULT =====<<
 

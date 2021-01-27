@@ -21,7 +21,7 @@ FIRST w/LABEL
   (2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">(2018). The Guardian View on Jeremy Corbyn and Ireland: All about the Border; The Guardian. https://www.theguardian.com/commentisfree/2018/may/24/the-guardian-view-on-jeremy-corbyn-and-ireland-all-about-the-border</div>
+  <div class="csl-entry">(2018). The Guardian view on Jeremy Corbyn and Ireland: all about the border; The Guardian. https://www.theguardian.com/commentisfree/2018/may/24/the-guardian-view-on-jeremy-corbyn-and-ireland-all-about-the-border</div>
 </div>
 <<===== RESULT =====<<
 

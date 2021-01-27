@@ -21,7 +21,7 @@ FIRST w/LABEL
   (“Microeconomics,” 2014, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">microeconomics. (2014). In <i>World encyclopedia</i>.</div>
+  <div class="csl-entry">microeconomics. (2014). <i>World encyclopedia</i>.</div>
 </div>
 <<===== RESULT =====<<
 

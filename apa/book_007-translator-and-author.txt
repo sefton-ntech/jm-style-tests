@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Jablonka, 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Jablonka, I. (2018). In N. Bracher (Trans.), <i>History is a contemporary literature: manifesto for the social sciences</i>. Cornell University Press.</div>
+  <div class="csl-entry">Jablonka, I. (2018). N. Bracher (Trans.), <i>History is a contemporary literature: manifesto for the social sciences</i>. Cornell University Press.</div>
 </div>
 <<===== RESULT =====<<
 

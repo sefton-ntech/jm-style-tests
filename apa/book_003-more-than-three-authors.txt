@@ -21,7 +21,7 @@ FIRST w/LABEL
   (Crauder et al., 2018, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Crauder, B., Evans, B., Johnson, J., &#38; Noell, A. (2018). In <i>Quantitative literacy: thinking between the lines</i> (p. 34). W.H. Freeman.</div>
+  <div class="csl-entry">Crauder, B., Evans, B., Johnson, J., &#38; Noell, A. (2018). <i>Quantitative literacy: thinking between the lines</i> (p. 34). W.H. Freeman.</div>
 </div>
 <<===== RESULT =====<<
 
