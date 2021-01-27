@@ -14,15 +14,15 @@ should pass test style_test004
 
 >>===== RESULT =====>>
 FIRST
-  J.E. Maloney, ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
+  J.E. Maloney, Recollections of Canberra, 12 August 1991
 FIRST w/LOCATOR
-  J.E. Maloney, ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, , p. 123, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
+  J.E. Maloney, Recollections of Canberra, 12 August 1991
 FIRST w/LABEL
-  J.E. Maloney, ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, , para. 123, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.
+  J.E. Maloney, Recollections of Canberra, 12 August 1991
 SUBSEQUENT
-  Maloney.
+  Maloney
 SUBSEQUENT w/LOCATOR
-  Maloney, , p. 123.
+  Maloney, , p. 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Maloney, J.E., ‘Recollections of Canberra’ [interviewed by John Ferrell], 12 August 1991, John Curtin Prime Ministerial Library, Curtin University, Perth, WA, JCMPL00897/3.</div>
@@ -32,26 +32,27 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "interview",
-      "title": "Recollections of Canberra",
-      "archive": "John Curtin Prime Ministerial Library",
-      "archive-place": "Curtin University, Perth, WA",
-      "author": [
-        {
-          "family": "Maloney",
-          "given": "John Edward"
-        }],
-      "issued": {
-        "date-parts": [
-          [
-            1991,
-            8,
-            12
-          ]
+    "type": "interview",
+    "title": "Recollections of Canberra",
+    "archive": "John Curtin Prime Ministerial Library",
+    "archive-place": "Curtin University, Perth, WA",
+    "author": [
+      {
+        "family": "Maloney",
+        "given": "John Edward"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          8,
+          12
         ]
-      },
-      "medium": "interviewed by John Ferrell",
-      "call-number": "JCMPL00897/3"
+      ]
+    },
+    "medium": "interviewed by John Ferrell",
+    "call-number": "JCMPL00897/3"
   }
 ]
 <<===== INPUT =====<<

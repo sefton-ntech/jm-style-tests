@@ -14,15 +14,15 @@ should pass
 
 >>===== RESULT =====>>
 FIRST
-  Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).
+  Livius, Galle Chandelier Restored Sans Goldfish, 22 April 2019
 FIRST w/LOCATOR
-  Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).
+  Livius, Galle Chandelier Restored Sans Goldfish, 22 April 2019
 FIRST w/LABEL
-  Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).
+  Livius, Galle Chandelier Restored Sans Goldfish, 22 April 2019
 SUBSEQUENT
-  Livius.
+  Livius
 SUBSEQUENT w/LOCATOR
-  Livius.
+  Livius
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Livius, ‘Galle Chandelier Restored Sans Goldfish’, <i>The History Blog</i> [web blog], 22 April 2019, http://www.thehistoryblog.com/archives/category/museums, (accessed 2 May 2019).</div>
@@ -32,34 +32,34 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "webpage",
-      "genre": "web blog",
-      "container-title": "The History Blog",
-      "URL": "http://www.thehistoryblog.com/archives/category/museums",
-      "accessed": {
-        "date-parts": [
-          [
-            2019,
-            5,
-            2
-          ]
+    "type": "webpage",
+    "genre": "web blog",
+    "container-title": "The History Blog",
+    "URL": "http://www.thehistoryblog.com/archives/category/museums",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          2
         ]
-      },
-      "issued": {
-        "date-parts": [
-          [
-            2019,
-            4,
-            22
-          ]
-        ]
-      },
-      "title": "Galle Chandelier Restored Sans Goldfish",
-      "author": [
-        {
-          "family": "Livius"
-        }
       ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          22
+        ]
+      ]
+    },
+    "title": "Galle Chandelier Restored Sans Goldfish",
+    "author": [
+      {
+        "family": "Livius"
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

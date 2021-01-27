@@ -14,42 +14,43 @@ should pass test style_test036
 
 >>===== RESULT =====>>
 FIRST
-  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267.
+  C. Suwetwattanakul, Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand, 2010
 FIRST w/LOCATOR
-  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267 (p. 123).
+  C. Suwetwattanakul, Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand, 2010
 FIRST w/LABEL
-  C. Suwetwattanakul, <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267 (para. 123).
+  C. Suwetwattanakul, Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand, 2010
 SUBSEQUENT
-  Suwetwattanakul, p. 267.
+  Suwetwattanakul, p. 267
 SUBSEQUENT w/LOCATOR
-  Suwetwattanakul, p. 267 (p. 123).
+  Suwetwattanakul, p. 267 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Suwetwattanakul, C., <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010.</div>
+  <div class="csl-entry">Suwetwattanakul, C., <i>Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand</i>, Ph.D. diss., Melbourne, Victoria University, 2010, p. 267.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "type": "thesis",
-      "issued": {
-        "date-parts": [
-          [
-            2010
-          ]
+    "type": "thesis",
+    "issued": {
+      "date-parts": [
+        [
+          2010
         ]
-      },
-      "container-title": "Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand",
-      "genre": "Ph.D. diss.",
-      "publisher-place": "Melbourne",
-      "publisher": "Victoria University",
-      "author": [
-        {
-          "family": "Suwetwattanakul",
-          "given": "Chokchai"
-        }],
-      "page": "267"
+      ]
+    },
+    "container-title": "Developing a Knowledge Sharing Model for the Implementation of the Learning Organization in Thailand",
+    "genre": "Ph.D. diss.",
+    "publisher-place": "Melbourne",
+    "publisher": "Victoria University",
+    "author": [
+      {
+        "family": "Suwetwattanakul",
+        "given": "Chokchai"
+      }
+    ],
+    "page": "267"
   }
 ]
 <<===== INPUT =====<<

@@ -14,15 +14,15 @@ should pass test style_test026
 
 >>===== RESULT =====>>
 FIRST
-  ABC News Online, ‘Archbishop may refuse Premier communion after stem cell vote’, <i>ABC News Online</i>, ABC, 2007, http://www.abc.net.au/news/newsitems/200706/s1942920.htm, (accessed 9 July 2007).
+  ABC News Online, Archbishop may refuse Premier communion after stem cell vote, 2007
 FIRST w/LOCATOR
-  ABC News Online, ‘Archbishop may refuse Premier communion after stem cell vote’, <i>ABC News Online</i>, ABC, 2007, http://www.abc.net.au/news/newsitems/200706/s1942920.htm, (accessed 9 July 2007).
+  ABC News Online, Archbishop may refuse Premier communion after stem cell vote, 2007
 FIRST w/LABEL
-  ABC News Online, ‘Archbishop may refuse Premier communion after stem cell vote’, <i>ABC News Online</i>, ABC, 2007, http://www.abc.net.au/news/newsitems/200706/s1942920.htm, (accessed 9 July 2007).
+  ABC News Online, Archbishop may refuse Premier communion after stem cell vote, 2007
 SUBSEQUENT
-  ABC News Online.
+  ABC News Online
 SUBSEQUENT w/LOCATOR
-  ABC News Online.
+  ABC News Online
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">ABC News Online, ‘Archbishop may refuse Premier communion after stem cell vote’, <i>ABC News Online</i>, ABC, 2007, http://www.abc.net.au/news/newsitems/200706/s1942920.htm, (accessed 9 July 2007).</div>
@@ -32,32 +32,32 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "webpage",
-      "container-title": "ABC News Online",
-      "title": "Archbishop may refuse Premier communion after stem cell vote",
-      "publisher": "ABC",
-      "URL": "http://www.abc.net.au/news/newsitems/200706/s1942920.htm",
-      "accessed": {
-        "date-parts": [
-          [
-            2007,
-            7,
-            9
-          ]
+    "type": "webpage",
+    "container-title": "ABC News Online",
+    "title": "Archbishop may refuse Premier communion after stem cell vote",
+    "publisher": "ABC",
+    "URL": "http://www.abc.net.au/news/newsitems/200706/s1942920.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          2007,
+          7,
+          9
         ]
-      },
-      "issued": {
-        "date-parts": [
-          [
-            2007
-          ]
-        ]
-      },
-      "author": [
-        {
-          "family": "ABC News Online"
-        }
       ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "ABC News Online"
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

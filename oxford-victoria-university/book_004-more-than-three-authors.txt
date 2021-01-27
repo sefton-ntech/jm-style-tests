@@ -14,87 +14,87 @@ should pass test style_test005
 
 >>===== RESULT =====>>
 FIRST
-  D. McKenzie-Mohr et al., <i>Social Marketing to Protect the Environment</i>, Thousand Oaks, CA, SAGE Publications, 2012, pp. 197–198.
+  D. McKenzie-Mohr et al., Social Marketing to Protect the Environment, 2012
 FIRST w/LOCATOR
-  D. McKenzie-Mohr et al., <i>Social Marketing to Protect the Environment</i>, Thousand Oaks, CA, SAGE Publications, 2012, pp. 197–198 (p. 123).
+  D. McKenzie-Mohr et al., Social Marketing to Protect the Environment, 2012
 FIRST w/LABEL
-  D. McKenzie-Mohr et al., <i>Social Marketing to Protect the Environment</i>, Thousand Oaks, CA, SAGE Publications, 2012, pp. 197–198 (para. 123).
+  D. McKenzie-Mohr et al., Social Marketing to Protect the Environment, 2012
 SUBSEQUENT
-  McKenzie-Mohr et al., pp. 197–198.
+  McKenzie-Mohr et al., pp. 197–198
 SUBSEQUENT w/LOCATOR
-  McKenzie-Mohr et al., pp. 197–198 (p. 123).
+  McKenzie-Mohr et al., pp. 197–198 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">McKenzie-Mohr, D. et al., <i>Social Marketing to Protect the Environment</i>, Thousand Oaks, CA, SAGE Publications, 2012.</div>
+  <div class="csl-entry">McKenzie-Mohr, D. et al., <i>Social Marketing to Protect the Environment</i>, Thousand Oaks, CA, SAGE Publications, 2012, pp. 197–198.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "document_id": 207,
-      "type": "chapter",
-      "container-title": "Social Marketing to Protect the Environment",
-      "author": [
-        {
-          "family": "McKenzie-Mohr",
-          "given": "Doug",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Lee",
-          "given": "Nancy R.",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Schultz",
-          "given": "P. Wesley",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Kotler",
-          "given": "Philip",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
-      ],
-      "publisher": "SAGE Publications",
-      "publisher-place": "Thousand Oaks, CA",
-      "issued": {
-        "date-parts": [
-          [
-            2012
-          ]
+    "document_id": 207,
+    "type": "chapter",
+    "container-title": "Social Marketing to Protect the Environment",
+    "author": [
+      {
+        "family": "McKenzie-Mohr",
+        "given": "Doug",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Lee",
+        "given": "Nancy R.",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Schultz",
+        "given": "P. Wesley",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Kotler",
+        "given": "Philip",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ],
+    "publisher": "SAGE Publications",
+    "publisher-place": "Thousand Oaks, CA",
+    "issued": {
+      "date-parts": [
+        [
+          2012
         ]
-      },
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 231,
-      "page": "197-198"
+      ]
+    },
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 231,
+    "page": "197-198"
   }
 ]
 <<===== INPUT =====<<

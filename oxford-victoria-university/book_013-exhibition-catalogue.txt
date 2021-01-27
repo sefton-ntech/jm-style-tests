@@ -14,15 +14,15 @@ should pass test style_test012
 
 >>===== RESULT =====>>
 FIRST
-  ‘WIP’,.
+  WIP
 FIRST w/LOCATOR
-  ‘WIP’, , p. 123.
+  WIP
 FIRST w/LABEL
-  ‘WIP’, , para. 123.
+  WIP
 SUBSEQUENT
-  ‘WIP’.
+  ‘WIP’
 SUBSEQUENT w/LOCATOR
-  ‘WIP’, , p. 123.
+  ‘WIP’, , p. 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">‘WIP’, .</div>
@@ -31,7 +31,8 @@ BIBLIOGRAPHY
 
 >>===== INPUT =====>>
 [
-  {"title":"WIP"}
+  {
+    "title": "WIP"
+  }
 ]
 <<===== INPUT =====<<
-

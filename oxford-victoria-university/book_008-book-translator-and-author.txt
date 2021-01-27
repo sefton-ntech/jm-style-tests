@@ -14,69 +14,69 @@ should pass test style_test009
 
 >>===== RESULT =====>>
 FIRST
-  R. Liksom, <i>Compartment No. 6</i>, trans. L. Rogers, London, Serpent’s Tail, 2014, p. 1.
+  R. Liksom, Compartment no. 6, 2014
 FIRST w/LOCATOR
-  R. Liksom, <i>Compartment No. 6</i>, trans. L. Rogers, London, Serpent’s Tail, 2014, p. 1 (p. 123).
+  R. Liksom, Compartment no. 6, 2014
 FIRST w/LABEL
-  R. Liksom, <i>Compartment No. 6</i>, trans. L. Rogers, London, Serpent’s Tail, 2014, p. 1 (para. 123).
+  R. Liksom, Compartment no. 6, 2014
 SUBSEQUENT
-  Liksom, p. 1.
+  Liksom, p. 1
 SUBSEQUENT w/LOCATOR
-  Liksom, p. 1 (p. 123).
+  Liksom, p. 1 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Liksom, R., <i>Compartment No. 6</i>, trans. L. Rogers, London, Serpent’s Tail, 2014.</div>
+  <div class="csl-entry">Liksom, R., <i>Compartment No. 6</i>, trans. L. Rogers, London, Serpent’s Tail, 2014, p. 1.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "document_id": 210,
-      "type": "chapter",
-      "container-title": "Compartment no. 6",
-      "author": [
-        {
-          "family": "Liksom",
-          "given": "Rosa",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
-      ],
-      "publisher": "Serpent's Tail",
-      "publisher-place": "London",
-      "issued": {
-        "date-parts": [
-          [
-            2014
-          ]
+    "document_id": 210,
+    "type": "chapter",
+    "container-title": "Compartment no. 6",
+    "author": [
+      {
+        "family": "Liksom",
+        "given": "Rosa",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ],
+    "publisher": "Serpent's Tail",
+    "publisher-place": "London",
+    "issued": {
+      "date-parts": [
+        [
+          2014
         ]
-      },
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 234,
-      "page": "1",
-      "translator": [
-        {
-          "family": "Rogers",
-          "given": "Lola",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
       ]
+    },
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 234,
+    "page": "1",
+    "translator": [
+      {
+        "family": "Rogers",
+        "given": "Lola",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

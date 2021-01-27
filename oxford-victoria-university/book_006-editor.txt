@@ -14,58 +14,58 @@ should pass test style_test007
 
 >>===== RESULT =====>>
 FIRST
-  J. Murray (ed.), <i>Our Great Game: The Photographic History of Australian Football</i>, Docklands, VIC, Slattery Media Group, 2010, p. 6.
+  J. Murray (ed.), Our Great Game: The Photographic History of Australian Football, 2010
 FIRST w/LOCATOR
-  J. Murray (ed.), <i>Our Great Game: The Photographic History of Australian Football</i>, Docklands, VIC, Slattery Media Group, 2010, p. 6 (p. 123).
+  J. Murray (ed.), Our Great Game: The Photographic History of Australian Football, 2010
 FIRST w/LABEL
-  J. Murray (ed.), <i>Our Great Game: The Photographic History of Australian Football</i>, Docklands, VIC, Slattery Media Group, 2010, p. 6 (para. 123).
+  J. Murray (ed.), Our Great Game: The Photographic History of Australian Football, 2010
 SUBSEQUENT
-  Murray, p. 6.
+  Murray, p. 6
 SUBSEQUENT w/LOCATOR
-  Murray, p. 6 (p. 123).
+  Murray, p. 6 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Murray, J. (ed.), <i>Our Great Game: The Photographic History of Australian Football</i>, Docklands, VIC, Slattery Media Group, 2010.</div>
+  <div class="csl-entry">Murray, J. (ed.), <i>Our Great Game: The Photographic History of Australian Football</i>, Docklands, VIC, Slattery Media Group, 2010, p. 6.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "document_id": 206,
-      "type": "chapter",
-      "container-title": "Our Great Game: The Photographic History of Australian Football",
-      "editor": [
-        {
-          "family": "Murray",
-          "given": "John",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
-      ],
-      "publisher": "Slattery Media Group",
-      "publisher-place": "Docklands, VIC",
-      "issued": {
-        "date-parts": [
-          [
-            2010
-          ]
+    "document_id": 206,
+    "type": "chapter",
+    "container-title": "Our Great Game: The Photographic History of Australian Football",
+    "editor": [
+      {
+        "family": "Murray",
+        "given": "John",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ],
+    "publisher": "Slattery Media Group",
+    "publisher-place": "Docklands, VIC",
+    "issued": {
+      "date-parts": [
+        [
+          2010
         ]
-      },
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 230,
-      "page": "6"
-    }
+      ]
+    },
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 230,
+    "page": "6"
+  }
 ]
 <<===== INPUT =====<<
 

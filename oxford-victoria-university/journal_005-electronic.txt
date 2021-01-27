@@ -14,15 +14,15 @@ should pass test style_test020
 
 >>===== RESULT =====>>
 FIRST
-  K. Toffoletti, ‘How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal’, <i>Women’s Studies International Forum</i>, vol. 30, no. 5, 2007, p. 427.
+  K. Toffoletti, How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal, 2007
 FIRST w/LOCATOR
-  K. Toffoletti, ‘How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal’, <i>Women’s Studies International Forum</i>, vol. 30, no. 5, 2007, p. 427 (p. 123).
+  K. Toffoletti, How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal, 2007
 FIRST w/LABEL
-  K. Toffoletti, ‘How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal’, <i>Women’s Studies International Forum</i>, vol. 30, no. 5, 2007, p. 427 (para. 123).
+  K. Toffoletti, How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal, 2007
 SUBSEQUENT
-  Toffoletti, p. 427.
+  Toffoletti, p. 427
 SUBSEQUENT w/LOCATOR
-  Toffoletti, p. 427 (p. 123).
+  Toffoletti, p. 427 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Toffoletti, K., ‘How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal’, <i>Women’s Studies International Forum</i>, vol. 30, no. 5, 2007, pp. 420–444.</div>
@@ -32,43 +32,43 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "document_id": 217,
-      "type": "article-journal",
-      "container-title": "Women's Studies International Forum",
-      "publisher": "Elsevier",
-      "issued": {
-        "date-parts": [
-          [
-            2007
-          ]
+    "document_id": 217,
+    "type": "article-journal",
+    "container-title": "Women's Studies International Forum",
+    "publisher": "Elsevier",
+    "issued": {
+      "date-parts": [
+        [
+          2007
         ]
-      },
-      "volume": "30",
-      "issue": "5",
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 242,
-      "URL": "https://example.com/test",
-      "title": "How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal",
-      "section": "p. 427",
-      "page": "420-444",
-      "author": [
-        {
-          "family": "Toffoletti",
-          "given": "Kim",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
       ]
+    },
+    "volume": "30",
+    "issue": "5",
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 242,
+    "URL": "https://example.com/test",
+    "title": "How is Gender-based Violence Covered in the Sporting News?: An Account of the Australian Football League Sex Scandal",
+    "section": "p. 427",
+    "page": "420-444",
+    "author": [
+      {
+        "family": "Toffoletti",
+        "given": "Kim",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

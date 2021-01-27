@@ -14,15 +14,15 @@ should pass test style_test025
 
 >>===== RESULT =====>>
 FIRST
-  ‘Art for Metro Tunnel’, <i>The Age</i>, 25 March 2019, p. 2.
+  Art for Metro Tunnel, 25 March 2019
 FIRST w/LOCATOR
-  ‘Art for Metro Tunnel’, <i>The Age</i>, 25 March 2019, p. 2 (p. 123).
+  Art for Metro Tunnel, 25 March 2019
 FIRST w/LABEL
-  ‘Art for Metro Tunnel’, <i>The Age</i>, 25 March 2019, p. 2 (para. 123).
+  Art for Metro Tunnel, 25 March 2019
 SUBSEQUENT
-  ‘Art for Metro Tunnel’, p. 2.
+  ‘Art for Metro Tunnel’, p. 2
 SUBSEQUENT w/LOCATOR
-  ‘Art for Metro Tunnel’, p. 2 (p. 123).
+  ‘Art for Metro Tunnel’, p. 2 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">‘Art for Metro Tunnel’, <i>The Age</i>, 25 March 2019, p. 2.</div>
@@ -32,29 +32,29 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "document_id": 207,
-      "type": "article-newspaper",
-      "container-title": "The Age",
-      "publisher": "Nine Entertainment Co.",
-      "issued": {
-        "date-parts": [
-          [
-            2019,
-            3,
-            25
-          ]
+    "document_id": 207,
+    "type": "article-newspaper",
+    "container-title": "The Age",
+    "publisher": "Nine Entertainment Co.",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          25
         ]
-      },
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 231,
-      "title": "Art for Metro Tunnel",
-      "page": "2"
+      ]
+    },
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 231,
+    "title": "Art for Metro Tunnel",
+    "page": "2"
   }
 ]
 <<===== INPUT =====<<

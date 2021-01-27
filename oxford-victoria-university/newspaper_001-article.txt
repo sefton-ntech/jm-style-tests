@@ -14,15 +14,15 @@ should pass test style_test022
 
 >>===== RESULT =====>>
 FIRST
-  H. Cook, ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9.
+  H. Cook, Shining Light on Unsung Heroes, 25 March 2019
 FIRST w/LOCATOR
-  H. Cook, ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9 (p. 123).
+  H. Cook, Shining Light on Unsung Heroes, 25 March 2019
 FIRST w/LABEL
-  H. Cook, ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9 (para. 123).
+  H. Cook, Shining Light on Unsung Heroes, 25 March 2019
 SUBSEQUENT
-  Cook, p. 9.
+  Cook, p. 9
 SUBSEQUENT w/LOCATOR
-  Cook, p. 9 (p. 123).
+  Cook, p. 9 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Cook, H., ‘Shining Light on Unsung Heroes’, <i>The Age</i>, 25 March 2019, p. 9.</div>
@@ -32,40 +32,40 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "document_id": 204,
-      "type": "article-newspaper",
-      "container-title": "The Age",
-      "issued": {
-        "date-parts": [
-          [
-            2019,
-            3,
-            25
-          ]
+    "document_id": 204,
+    "type": "article-newspaper",
+    "container-title": "The Age",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          25
         ]
-      },
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 228,
-      "title": "Shining Light on Unsung Heroes",
-      "page": "9",
-      "author": [
-        {
-          "family": "Cook",
-          "given": "Henrietta",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
       ]
+    },
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 228,
+    "title": "Shining Light on Unsung Heroes",
+    "page": "9",
+    "author": [
+      {
+        "family": "Cook",
+        "given": "Henrietta",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

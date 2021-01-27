@@ -14,44 +14,44 @@ should pass test style_test005
 
 >>===== RESULT =====>>
 FIRST
-   <i>Dictionary Plus History</i>, Oxford University Press, 2016, p. 1.
+  Dictionary Plus History, 2016
 FIRST w/LOCATOR
-   <i>Dictionary Plus History</i>, Oxford University Press, 2016, p. 1 (p. 123).
+  Dictionary Plus History, 2016
 FIRST w/LABEL
-   <i>Dictionary Plus History</i>, Oxford University Press, 2016, p. 1 (para. 123).
+  Dictionary Plus History, 2016
 SUBSEQUENT
-  p. 1.
+  p. 1
 SUBSEQUENT w/LOCATOR
-  p. 1 (p. 123).
+  p. 1 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"> <i>Dictionary Plus History</i>, Oxford University Press, 2016.</div>
+  <div class="csl-entry"> <i>Dictionary Plus History</i>, Oxford University Press, 2016, p. 1.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-      "document_id": 204,
-      "type": "chapter",
-      "container-title": "Dictionary Plus History",
-      "publisher": "Oxford University Press",
-      "issued": {
-        "date-parts": [
-          [
-            2016
-          ]
+    "document_id": 204,
+    "type": "chapter",
+    "container-title": "Dictionary Plus History",
+    "publisher": "Oxford University Press",
+    "issued": {
+      "date-parts": [
+        [
+          2016
         ]
-      },
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 228,
-      "page": "1"
+      ]
+    },
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 228,
+    "page": "1"
   }
 ]
 <<===== INPUT =====<<

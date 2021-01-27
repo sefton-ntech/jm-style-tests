@@ -14,15 +14,15 @@ should pass test style_test035
 
 >>===== RESULT =====>>
 FIRST
-  <i>The Red Badge of Courage</i> [DVD], Director J. Huston, Burbank, CA, MGM, 1951.
+  The Red Badge of Courage, 1951
 FIRST w/LOCATOR
-  <i>The Red Badge of Courage</i> [DVD], Director J. Huston, Burbank, CA, MGM, 1951, , p. 123.
+  The Red Badge of Courage, 1951
 FIRST w/LABEL
-  <i>The Red Badge of Courage</i> [DVD], Director J. Huston, Burbank, CA, MGM, 1951, , para. 123.
+  The Red Badge of Courage, 1951
 SUBSEQUENT
-  <i>The Red Badge of Courage</i>.
+  <i>The Red Badge of Courage</i>
 SUBSEQUENT w/LOCATOR
-  <i>The Red Badge of Courage</i>, , p. 123.
+  <i>The Red Badge of Courage</i>, , p. 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>The Red Badge of Courage</i> [DVD], Director J. Huston, Burbank, CA, MGM, 1951.</div>
@@ -32,24 +32,24 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "motion_picture",
-      "medium": "DVD",
-      "title": "The Red Badge of Courage",
-      "publisher": "MGM",
-      "publisher-place": "Burbank, CA",
-      "director": [
-        {
-          "family": "Huston",
-          "given": "John"
-        }
-      ],
-      "issued": {
-        "date-parts": [
-          [
-            1951
-          ]
-        ]
+    "type": "motion_picture",
+    "medium": "DVD",
+    "title": "The Red Badge of Courage",
+    "publisher": "MGM",
+    "publisher-place": "Burbank, CA",
+    "director": [
+      {
+        "family": "Huston",
+        "given": "John"
       }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1951
+        ]
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

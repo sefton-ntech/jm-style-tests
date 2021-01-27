@@ -14,15 +14,15 @@ should pass test style_test036
 
 >>===== RESULT =====>>
 FIRST
-  <i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).
+  The Euthanasia Debate, 2016
 FIRST w/LOCATOR
-  <i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, , p. 123, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).
+  The Euthanasia Debate, 2016
 FIRST w/LABEL
-  <i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, , para. 123, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).
+  The Euthanasia Debate, 2016
 SUBSEQUENT
-  .
+  [CSL STYLE ERROR: reference with no printed form.]
 SUBSEQUENT w/LOCATOR
-  , p. 123.
+  , p. 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>The Euthanasia Debate</i> [online video], Presenter A. Denton, Sydney, Australia, Studio 10, 2016, https://youtu.be/w4Aq1-H2GD0, (accessed 2 January 2019).</div>
@@ -32,29 +32,29 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "broadcast",
-      "medium": "online video",
-      "note": "Presenter A. Denton",
-      "publisher": "Studio 10",
-      "publisher-place": "Sydney, Australia",
-      "accessed": {
-        "date-parts": [
-          [
-            2019,
-            1,
-            2
-          ]
+    "type": "broadcast",
+    "medium": "online video",
+    "note": "Presenter A. Denton",
+    "publisher": "Studio 10",
+    "publisher-place": "Sydney, Australia",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          2
         ]
-      },
-      "issued": {
-        "date-parts": [
-          [
-            2016
-          ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016
         ]
-      },
-      "URL": "https://youtu.be/w4Aq1-H2GD0",
-      "container-title": "The Euthanasia Debate"
+      ]
+    },
+    "URL": "https://youtu.be/w4Aq1-H2GD0",
+    "container-title": "The Euthanasia Debate"
   }
 ]
 <<===== INPUT =====<<

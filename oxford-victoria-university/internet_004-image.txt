@@ -14,15 +14,15 @@ should pass
 
 >>===== RESULT =====>>
 FIRST
-  A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
+  A.R. Whyte, Griffin Collection of Photographs, Burma, ca. 1880-1890
 FIRST w/LOCATOR
-  A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], , p. 123, http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
+  A.R. Whyte, Griffin Collection of Photographs, Burma, ca. 1880-1890
 FIRST w/LABEL
-  A.R. Whyte, ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], , para. 123, http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).
+  A.R. Whyte, Griffin Collection of Photographs, Burma, ca. 1880-1890
 SUBSEQUENT
-  Whyte.
+  Whyte
 SUBSEQUENT w/LOCATOR
-  Whyte, , p. 123.
+  Whyte, , p. 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Whyte, A.R., ‘Griffin Collection of Photographs, Burma, ca. 1880-1890’ [picture], http://nla.gov.au/nla.obj-151517274, (accessed 2 May 2019).</div>
@@ -32,25 +32,25 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "graphic",
-      "medium": "picture",
-      "title": "Griffin Collection of Photographs, Burma, ca. 1880-1890",
-      "accessed": {
-        "date-parts": [
-          [
-            2019,
-            5,
-            2
-          ]
+    "type": "graphic",
+    "medium": "picture",
+    "title": "Griffin Collection of Photographs, Burma, ca. 1880-1890",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          2
         ]
-      },
-      "URL": "http://nla.gov.au/nla.obj-151517274",
-      "author": [
-        {
-          "family": "Whyte",
-          "given": "Adam R."
-        }
       ]
+    },
+    "URL": "http://nla.gov.au/nla.obj-151517274",
+    "author": [
+      {
+        "family": "Whyte",
+        "given": "Adam R."
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

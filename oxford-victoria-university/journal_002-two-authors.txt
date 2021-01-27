@@ -14,15 +14,15 @@ should pass test style_test017
 
 >>===== RESULT =====>>
 FIRST
-  S. Purcell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62.
+  S. Purcell and R. Barrell, The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students, 2014
 FIRST w/LOCATOR
-  S. Purcell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62 (p. 123).
+  S. Purcell and R. Barrell, The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students, 2014
 FIRST w/LABEL
-  S. Purcell and R. Barrell, ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, p. 62 (para. 123).
+  S. Purcell and R. Barrell, The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students, 2014
 SUBSEQUENT
-  Purcell and Barrell, p. 62.
+  Purcell and Barrell, p. 62
 SUBSEQUENT w/LOCATOR
-  Purcell and Barrell, p. 62 (p. 123).
+  Purcell and Barrell, p. 62 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Purcell, S. and Barrell, R., ‘The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students’, <i>Journal of Information Literacy</i>, vol. 8, no. 2, 2014, pp. 56–70.</div>
@@ -32,52 +32,52 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "document_id": 215,
-      "type": "article-journal",
-      "container-title": "Journal of Information Literacy",
-      "publisher": "Chartered Institute of Library and Information Professionals",
-      "issued": {
-        "date-parts": [
-          [
-            2014
-          ]
+    "document_id": 215,
+    "type": "article-journal",
+    "container-title": "Journal of Information Literacy",
+    "publisher": "Chartered Institute of Library and Information Professionals",
+    "issued": {
+      "date-parts": [
+        [
+          2014
         ]
-      },
-      "volume": "8",
-      "issue": "2",
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 239,
-      "title": "The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students",
-      "section": "p. 62",
-      "page": "56-70",
-      "author": [
-        {
-          "family": "Purcell",
-          "given": "Sarah",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Barrell",
-          "given": "Rachel",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
       ]
+    },
+    "volume": "8",
+    "issue": "2",
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 239,
+    "title": "The Value of Collaboration: Raising Confidence and Skills in Information Literacy with First Year Initial Teacher Education Students",
+    "section": "p. 62",
+    "page": "56-70",
+    "author": [
+      {
+        "family": "Purcell",
+        "given": "Sarah",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Barrell",
+        "given": "Rachel",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

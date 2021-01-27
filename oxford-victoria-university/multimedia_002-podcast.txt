@@ -14,15 +14,15 @@ should pass test style_test036
 
 >>===== RESULT =====>>
 FIRST
-  ‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, www.abc.net.au/radionational, (accessed 9 June 2014).
+  The Hipster Philosopher, 5 January 2014
 FIRST w/LOCATOR
-  ‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, , p. 123, www.abc.net.au/radionational, (accessed 9 June 2014).
+  The Hipster Philosopher, 5 January 2014
 FIRST w/LABEL
-  ‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, , para. 123, www.abc.net.au/radionational, (accessed 9 June 2014).
+  The Hipster Philosopher, 5 January 2014
 SUBSEQUENT
-  ‘The Hipster Philosopher’.
+  ‘The Hipster Philosopher’
 SUBSEQUENT w/LOCATOR
-  ‘The Hipster Philosopher’, , p. 123.
+  ‘The Hipster Philosopher’, , p. 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">‘The Hipster Philosopher’, <i>The Philosopher’s Zone</i> [podcast], interview with Mark Kingwell, ABC Radio National, 5 January 2014, www.abc.net.au/radionational, (accessed 9 June 2014).</div>
@@ -32,31 +32,31 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "broadcast",
-      "medium": "podcast",
-      "note": "interview with Mark Kingwell",
-      "container-title": "The Philosopher's Zone",
-      "publisher": "ABC Radio National",
-      "issued": {
-        "date-parts": [
-          [
-            2014,
-            1,
-            5
-          ]
+    "type": "broadcast",
+    "medium": "podcast",
+    "note": "interview with Mark Kingwell",
+    "container-title": "The Philosopher's Zone",
+    "publisher": "ABC Radio National",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          5
         ]
-      },
-      "accessed": {
-        "date-parts": [
-          [
-            2014,
-            6,
-            9
-          ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          9
         ]
-      },
-      "title": "The Hipster Philosopher",
-      "URL": "www.abc.net.au/radionational"
+      ]
+    },
+    "title": "The Hipster Philosopher",
+    "URL": "www.abc.net.au/radionational"
   }
 ]
 <<===== INPUT =====<<

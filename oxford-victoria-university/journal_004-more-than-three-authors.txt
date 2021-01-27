@@ -14,15 +14,15 @@ should pass test style_test019
 
 >>===== RESULT =====>>
 FIRST
-  M. Banfi et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018, p. 370.
+  M. Banfi et al., Cards as a Tool in History Teaching, 2018
 FIRST w/LOCATOR
-  M. Banfi et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018, p. 370 (p. 123).
+  M. Banfi et al., Cards as a Tool in History Teaching, 2018
 FIRST w/LABEL
-  M. Banfi et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018, p. 370 (para. 123).
+  M. Banfi et al., Cards as a Tool in History Teaching, 2018
 SUBSEQUENT
-  Banfi et al., p. 370.
+  Banfi et al., p. 370
 SUBSEQUENT w/LOCATOR
-  Banfi et al., p. 370 (p. 123).
+  Banfi et al., p. 370 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Banfi, M. et al., ‘Cards as a Tool in History Teaching’, <i>Form@re: Open Journal per la Formazione in Rete</i>, vol. 18, no. 1, 2018, pp. 368–378.</div>
@@ -32,114 +32,114 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "document_id": 203,
-      "type": "article-journal",
-      "container-title": "Form@re: Open Journal per la Formazione in Rete",
-      "publisher": "Firenze University Press",
-      "issued": {
-        "date-parts": [
-          [
-            2018,
-            1,
-            1
-          ]
+    "document_id": 203,
+    "type": "article-journal",
+    "container-title": "Form@re: Open Journal per la Formazione in Rete",
+    "publisher": "Firenze University Press",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          1
         ]
-      },
-      "volume": "18",
-      "issue": "1",
-      "identifier_names": {
-        "issn": "ISSN",
-        "electronic_issn": "EISSN",
-        "isbn": "ISBN",
-        "electronic_isbn": "EISBN",
-        "document_object_identifier": "DOI"
-      },
-      "document_part_id": 227,
-      "title": "Cards as a Tool in History Teaching",
-      "section": "p. 370",
-      "page": "368-378",
-      "author": [
-        {
-          "family": "Banfi",
-          "given": "Marcella",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Caresano",
-          "given": "Valeria",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "De Santis",
-          "given": "Loredana",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Di Ferdinando",
-          "given": "Amanda",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Ettori",
-          "given": "Valeria",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Fazi",
-          "given": "Anna",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Ongaro",
-          "given": "Alice",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        },
-        {
-          "family": "Romano",
-          "given": "Monica",
-          "suffix": null,
-          "particle": null,
-          "dropping_particle": null,
-          "nick": null,
-          "appellation": null,
-          "title": null
-        }
       ]
+    },
+    "volume": "18",
+    "issue": "1",
+    "identifier_names": {
+      "issn": "ISSN",
+      "electronic_issn": "EISSN",
+      "isbn": "ISBN",
+      "electronic_isbn": "EISBN",
+      "document_object_identifier": "DOI"
+    },
+    "document_part_id": 227,
+    "title": "Cards as a Tool in History Teaching",
+    "section": "p. 370",
+    "page": "368-378",
+    "author": [
+      {
+        "family": "Banfi",
+        "given": "Marcella",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Caresano",
+        "given": "Valeria",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "De Santis",
+        "given": "Loredana",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Di Ferdinando",
+        "given": "Amanda",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Ettori",
+        "given": "Valeria",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Fazi",
+        "given": "Anna",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Ongaro",
+        "given": "Alice",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      },
+      {
+        "family": "Romano",
+        "given": "Monica",
+        "suffix": null,
+        "particle": null,
+        "dropping_particle": null,
+        "nick": null,
+        "appellation": null,
+        "title": null
+      }
+    ]
   }
 ]
 <<===== INPUT =====<<

@@ -14,11 +14,11 @@ should pass test style_test031
 
 >>===== RESULT =====>>
 FIRST
-  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7
+  Copyright Act 1968, 1968
 FIRST w/LOCATOR
-  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7
+  Copyright Act 1968, 1968
 FIRST w/LABEL
-  <i>Copyright Act 1968</i> (Cwlth), ss. 4-7
+  Copyright Act 1968, 1968
 SUBSEQUENT
   <i>Copyright Act 1968</i>, ss. 4-7
 SUBSEQUENT w/LOCATOR
@@ -32,17 +32,17 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "legislation",
-      "title": "Copyright Act 1968",
-      "jurisdiction": "Cwlth",
-      "section": "ss. 4-7",
-      "issued": {
-        "date-parts": [
-          [
-            1968
-          ]
+    "type": "legislation",
+    "title": "Copyright Act 1968",
+    "jurisdiction": "Cwlth",
+    "section": "ss. 4-7",
+    "issued": {
+      "date-parts": [
+        [
+          1968
         ]
-      }
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

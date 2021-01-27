@@ -14,11 +14,11 @@ should pass test style_test032
 
 >>===== RESULT =====>>
 FIRST
-  Carbon Tax Plebiscite Bill 2011 (Cwlth)
+  Carbon Tax Plebiscite Bill 2011, 2011
 FIRST w/LOCATOR
-  Carbon Tax Plebiscite Bill 2011 (Cwlth), , p. 123
+  Carbon Tax Plebiscite Bill 2011, 2011
 FIRST w/LABEL
-  Carbon Tax Plebiscite Bill 2011 (Cwlth), , para. 123
+  Carbon Tax Plebiscite Bill 2011, 2011
 SUBSEQUENT
   <i>Carbon Tax Plebiscite Bill 2011</i>
 SUBSEQUENT w/LOCATOR
@@ -32,16 +32,16 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "bill",
-      "title": "Carbon Tax Plebiscite Bill 2011",
-      "jurisdiction": "Cwlth",
-      "issued": {
-        "date-parts": [
-          [
-            2011
-          ]
+    "type": "bill",
+    "title": "Carbon Tax Plebiscite Bill 2011",
+    "jurisdiction": "Cwlth",
+    "issued": {
+      "date-parts": [
+        [
+          2011
         ]
-      }
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

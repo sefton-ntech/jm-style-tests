@@ -14,11 +14,11 @@ should pass test style_test033
 
 >>===== RESULT =====>>
 FIRST
-  <i>Stinton v Amaca Pty Ltd</i> (2014) WL 1350195
+  Stinton v Amaca Pty Ltd, 2014
 FIRST w/LOCATOR
-  <i>Stinton v Amaca Pty Ltd</i> (2014) WL 1350195, (p. 123)
+  Stinton v Amaca Pty Ltd, 2014
 FIRST w/LABEL
-  <i>Stinton v Amaca Pty Ltd</i> (2014) WL 1350195, (para. 123)
+  Stinton v Amaca Pty Ltd, 2014
 SUBSEQUENT
   <i>WL</i>
 SUBSEQUENT w/LOCATOR
@@ -32,18 +32,18 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "legal_case",
-      "issued": {
-        "date-parts": [
-          [
-            2014
-          ]
+    "type": "legal_case",
+    "issued": {
+      "date-parts": [
+        [
+          2014
         ]
-      },
-      "title": "Stinton v Amaca Pty Ltd",
-      "container-title": "Wellington District Law Society Library",
-      "title-short": "WL",
-      "page": "1350195"
+      ]
+    },
+    "title": "Stinton v Amaca Pty Ltd",
+    "container-title": "Wellington District Law Society Library",
+    "title-short": "WL",
+    "page": "1350195"
   }
 ]
 <<===== INPUT =====<<

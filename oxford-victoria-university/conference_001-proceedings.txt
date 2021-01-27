@@ -14,15 +14,15 @@ should pass test style_test034
 
 >>===== RESULT =====>>
 FIRST
-  G. Kozicz, ‘Architecture of the Empty Shells of Nyar ma’, <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 41-42.
+  G. Kozicz, Architecture of the Empty Shells of Nyar ma, 2006
 FIRST w/LOCATOR
-  G. Kozicz, ‘Architecture of the Empty Shells of Nyar ma’, <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 41-42 (p. 123).
+  G. Kozicz, Architecture of the Empty Shells of Nyar ma, 2006
 FIRST w/LABEL
-  G. Kozicz, ‘Architecture of the Empty Shells of Nyar ma’, <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 41-42 (para. 123).
+  G. Kozicz, Architecture of the Empty Shells of Nyar ma, 2006
 SUBSEQUENT
-  Kozicz, pp. 41-42.
+  Kozicz, pp. 41-42
 SUBSEQUENT w/LOCATOR
-  Kozicz, pp. 41-42 (p. 123).
+  Kozicz, pp. 41-42 (p. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Kozicz, G., ‘Architecture of the Empty Shells of Nyar ma’, <i>Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies</i>, Oxford, UK, Oxford University Press, 2006, pp. 38–47.</div>
@@ -32,27 +32,27 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "paper-conference",
-      "container-title": "Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies",
-      "publisher": "Oxford University Press",
-      "publisher-place": "Oxford, UK",
-      "issued": {
-        "date-parts": [
-          [
-            2006
-          ]
+    "type": "paper-conference",
+    "container-title": "Discoveries in Western Tibet and the Western Himalayas: Essays on History, Literature, Archaeology and Art: PIATS 2003, Tibetan Studies, Proceedings of the Tenth Seminar of the International Association for Tibetan Studies",
+    "publisher": "Oxford University Press",
+    "publisher-place": "Oxford, UK",
+    "issued": {
+      "date-parts": [
+        [
+          2006
         ]
-      },
-      "title": "Architecture of the Empty Shells of Nyar ma",
-      "page": "38-47",
-      "section": "pp. 41-42",
-      "author": [
-        {
-          "family": "Kozicz",
-          "given": "Gerald"
-        }
       ]
-  } 
+    },
+    "title": "Architecture of the Empty Shells of Nyar ma",
+    "page": "38-47",
+    "section": "pp. 41-42",
+    "author": [
+      {
+        "family": "Kozicz",
+        "given": "Gerald"
+      }
+    ]
+  }
 ]
 <<===== INPUT =====<<
 

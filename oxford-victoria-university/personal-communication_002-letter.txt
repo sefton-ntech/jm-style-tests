@@ -14,15 +14,15 @@ should pass test style_test004
 
 >>===== RESULT =====>>
 FIRST
-  S. Alexander, ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.
+  S. Alexander, Peace March in Melbourne, 1 November 1911
 FIRST w/LOCATOR
-  S. Alexander, ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, , p. 123, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.
+  S. Alexander, Peace March in Melbourne, 1 November 1911
 FIRST w/LABEL
-  S. Alexander, ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, , para. 123, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.
+  S. Alexander, Peace March in Melbourne, 1 November 1911
 SUBSEQUENT
-  Alexander.
+  Alexander
 SUBSEQUENT w/LOCATOR
-  Alexander, , p. 123.
+  Alexander, , p. 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Alexander, S., ‘Peace March in Melbourne’ [letter to W.R. Gibson], 1 November 1911, Professor W.R. Gibson Collection, University of Melbourne Archives, Melbourne, VIC, Box 2/1/1.</div>
@@ -32,26 +32,27 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-      "type": "personal_communication",
-      "title": "Peace March in Melbourne",
-      "archive": "Professor W.R. Gibson Collection",
-      "archive-place": "University of Melbourne Archives, Melbourne, VIC",
-      "author": [
-        {
-          "family": "Alexander",
-          "given": "S."
-        }],
-      "issued": {
-        "date-parts": [
-          [
-            1911,
-            11,
-            1
-          ]
+    "type": "personal_communication",
+    "title": "Peace March in Melbourne",
+    "archive": "Professor W.R. Gibson Collection",
+    "archive-place": "University of Melbourne Archives, Melbourne, VIC",
+    "author": [
+      {
+        "family": "Alexander",
+        "given": "S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1911,
+          11,
+          1
         ]
-      },
-      "genre": "letter to W.R. Gibson",
-      "call-number": "Box 2/1/1"
+      ]
+    },
+    "genre": "letter to W.R. Gibson",
+    "call-number": "Box 2/1/1"
   }
 ]
 <<===== INPUT =====<<
