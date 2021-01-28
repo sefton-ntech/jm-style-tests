@@ -21,7 +21,7 @@ FIRST w/LABEL
   (<i>This Is a Title</i>, n.d., para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>This is a title: But this is a subtitle</i>. (n.d.).</div>
+  <div class="csl-entry"><i>This is a title: but this is a subtitle</i>. (n.d.).</div>
 </div>
 <<===== RESULT =====<<
 
@@ -42,6 +42,6 @@ BIBLIOGRAPHY
 
 >>===== OPTIONS =====>>
 {
-  "uppercase_subtitles": true
+  "uppercase_subtitles": false
 }
 <<===== OPTIONS =====<<
